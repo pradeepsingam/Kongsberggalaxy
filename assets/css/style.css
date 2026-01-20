@@ -2169,6 +2169,7 @@ textarea.form-control.is-invalid {
 .contact-info {
   padding-left: 30px;
   position: relative;
+  
 }
 .contact-info a {
   color: inherit;
@@ -15306,4 +15307,10 @@ table.checkout-ordertable tfoot tr:last-child td {
   }
 }
 
+.custom-icon-size {
+    width: 54px;  /* Matches the typical scale of icon-3x */
+    height: auto;
+    display: inline-block;
+    vertical-align: middle;
+}
 /*# sourceMappingURL=style.css.map */
