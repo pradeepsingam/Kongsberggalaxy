@@ -104,10 +104,10 @@ function createMenuCard(item) {
 
   const newPrice = document.createElement('span');
   newPrice.className = 'menu-card-new';
-  newPrice.textContent = 'Pris: ' + item.price;
+  newPrice.textContent =  item.price;
 
   priceDiv.appendChild(oldPrice);
-  priceDiv.appendChild(newPrice);
+  // keep the new price separate so we can position it at the bottom-right of the card
 
   headerDiv.appendChild(title);
   headerDiv.appendChild(priceDiv);
@@ -126,6 +126,9 @@ function createMenuCard(item) {
 
   card.appendChild(imageDiv);
   card.appendChild(contentDiv);
+
+  // append the new price to the card itself so CSS can place it bottom-right
+  card.appendChild(newPrice);
 
   colDiv.appendChild(card);
   return colDiv;

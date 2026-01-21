@@ -5,18 +5,23 @@
     border-radius: 18px;
     overflow: hidden;
     box-shadow: 0 12px 35px rgba(0,0,0,0.12);
+    margin: 20px;
+    position: relative; /* allow absolute children */
+    padding-bottom: 3rem; /* reserve space for absolute bottom elements */
 }
 
 /* Image */
 .menu-card-image {
     height: 210px;
     overflow: hidden;
+    position: relative;
 }
 
 .menu-card-image img {
     width: 100%;
     height: 100%;
     object-fit: cover;
+    transition: transform 0.6s ease;
 }
 
 /* Content */
@@ -39,21 +44,37 @@
     color: #E3A952;
 }
 
-/* Price */
+/* Price (inline/legacy) */
 .menu-card-price {
     text-align: right;
     font-size: 14px;
     font-family: 'Roboto', sans-serif;
+    position: relative;
 }
 
 .menu-card-price .menu-card-old {
     color: #888;
-    display: block;
+    display: none;
 }
 
 .menu-card-price .menu-card-new {
     color: #222;
     font-weight: 500;
+}
+
+/* Position the new price at the bottom-right of the card */
+.menu-card .menu-card-new {
+  position: absolute;
+  bottom: 12px;
+  right: 12px;
+  left: auto; /* ensure no left offset overrides */
+  background: #ffffff;
+  padding: 6px 10px;
+  border-radius: 6px;
+  font-weight: 700;
+  color: #222;
+  box-shadow: 0 2px 6px rgba(0,0,0,0.08);
+  z-index: 5;
 }
 
 /* Description */
@@ -66,40 +87,22 @@
 
 /* Button */
 .menu-card-order-btn {
-    width: 100%;
-    background: #E3A952;
-    color: #fff;
-    border: none;
-    border-radius: 30px;
-    padding: 14px;
-    font-size: 16px;
-    font-weight: 500;
-    cursor: pointer;
-    transition: all 0.3s ease;
+    display:none;
 }
 
 .menu-card-order-btn:hover {
     background: #cf953d;
-}
-.menu-card-image {
-    height: 210px;
-    overflow: hidden;
-}
-
-.menu-card-image img {
-    width: 100%;
-    height: 100%;
-    object-fit: cover;
-    transition: transform 0.6s ease;
 }
 
 /* Hover zoom effect */
 .menu-card:hover .menu-card-image img {
     transform: scale(1.15);
 }
+
 .menu-card:hover .menu-card {
     border: solid 12px  #cf953d;
 }
+
 .menu-card-image::after {
     content: "";
     position: absolute;
