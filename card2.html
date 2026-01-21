@@ -1,0 +1,144 @@
+<!DOCTYPE html>
+<html lang="en">
+<style>
+
+/* Card */
+.menu-card {
+    width: 360px;
+    background: #fff;
+    border-radius: 18px;
+    overflow: hidden;
+    box-shadow: 0 12px 35px rgba(0,0,0,0.12);
+}
+
+/* Image */
+.menu-card-image {
+    height: 210px;
+    overflow: hidden;
+}
+
+.menu-card-image img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+
+/* Content */
+.menu-card-content {
+    padding: 22px;
+}
+
+/* Header */
+.menu-card-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+    gap: 10px;
+}
+
+.menu-card-header h3 {
+    font-family: 'Rufina', serif;
+    font-size: 22px;
+    font-weight: 700;
+    color: #E3A952;
+}
+
+/* Price */
+.menu-card-price {
+    text-align: right;
+    font-size: 14px;
+    font-family: 'Roboto', sans-serif;
+}
+
+.menu-card-price .menu-card-old {
+    color: #888;
+    display: block;
+}
+
+.menu-card-price .menu-card-new {
+    color: #222;
+    font-weight: 500;
+}
+
+/* Description */
+.menu-card-desc {
+    margin: 14px 0 20px;
+    color: #555;
+    font-size: 14.5px;
+    line-height: 1.5;
+}
+
+/* Button */
+.menu-card-order-btn {
+    width: 100%;
+    background: #E3A952;
+    color: #fff;
+    border: none;
+    border-radius: 30px;
+    padding: 14px;
+    font-size: 16px;
+    font-weight: 500;
+    cursor: pointer;
+    transition: all 0.3s ease;
+}
+
+.menu-card-order-btn:hover {
+    background: #cf953d;
+}
+.menu-card-image {
+    height: 210px;
+    overflow: hidden;
+}
+
+.menu-card-image img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    transition: transform 0.6s ease;
+}
+
+/* Hover zoom effect */
+.menu-card:hover .menu-card-image img {
+    transform: scale(1.15);
+}
+.menu-card-image::after {
+    content: "";
+    position: absolute;
+    inset: 0;
+    background: rgba(0,0,0,0.15);
+    opacity: 0;
+    transition: opacity 0.4s ease;
+}
+
+.menu-card:hover .menu-card-image::after {
+    opacity: 1;
+}
+
+    </style>
+</head>
+<body>
+
+<div class="menu-card">
+    <div class="menu-card-image">
+        <img src="assets/img/food-menu/food-menu-img-3-2.jpg" alt="Chicken Nuggets">
+    </div>
+
+    <div class="menu-card-content">
+        <div class="menu-card-header">
+            <h3>Chicken </h3>
+            <div class="menu-card-price">
+                <span class="menu-card-old">Stor: 139 kr</span>
+                <span class="menu-card-new">Pris: 119 kr</span>
+            </div>
+        </div>
+
+        <p class="menu-card-desc">
+            6 stk. Chicken nuggets med pommes frites
+        </p>
+
+        <button class="menu-card-order-btn">+ Legg til bestilling</button>
+    </div>
+</div>
+
+</body>
+</html>

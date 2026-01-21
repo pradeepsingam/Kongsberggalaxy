@@ -1,0 +1,244 @@
+{
+  "menu": [
+    {
+      "category": "party",
+      "items": [
+        {
+          "id": 1,
+          "name": "Chicken Nuggets2",
+          "description": "6 stk. Chicken nuggets med pommes frites",
+          "image": "assets/img/food-menu/food-menu-img-3-2.jpg",
+          "oldPrice": "Stor: 139 kr",
+          "price": "119 kr"
+        },
+        {
+          "id": 2,
+          "name": "Chicken Nuggets",
+          "description": "6 stk. Chicken nuggets med pommes frites",
+          "image": "assets/img/food-menu/food-menu-img-3-2.jpg",
+          "oldPrice": "Stor: 139 kr",
+          "price": "119 kr"
+        },
+        {
+          "id": 3,
+          "name": "Chicken Nuggets",
+          "description": "6 stk. Chicken nuggets med pommes frites",
+          "image": "assets/img/food-menu/food-menu-img-3-2.jpg",
+          "oldPrice": "Stor: 139 kr",
+          "price": "119 kr"
+        },
+        {
+          "id": 4,
+          "name": "Chicken Nuggets",
+          "description": "6 stk. Chicken nuggets med pommes frites",
+          "image": "assets/img/food-menu/food-menu-img-3-2.jpg",
+          "oldPrice": "Stor: 139 kr",
+          "price": "119 kr"
+        },
+        {
+          "id": 5,
+          "name": "Chicken Nuggets",
+          "description": "6 stk. Chicken nuggets med pommes frites",
+          "image": "assets/img/food-menu/food-menu-img-3-2.jpg",
+          "oldPrice": "Stor: 139 kr",
+          "price": "119 kr"
+        },
+        {
+          "id": 6,
+          "name": "Chicken Nuggets",
+          "description": "6 stk. Chicken nuggets med pommes frites",
+          "image": "assets/img/food-menu/food-menu-img-3-2.jpg",
+          "oldPrice": "Stor: 139 kr",
+          "price": "119 kr"
+        }
+      ]
+    },
+    {
+      "category": "breakfast",
+      "items": [
+        {
+          "id": 100,
+          "name": "Chicken Nuggets",
+          "description": "6 stk. Chicken nuggets med pommes frites",
+          "image": "assets/img/food-menu/food-menu-img-3-2.jpg",
+          "oldPrice": "Stor: 139 kr",
+          "price": "119 kr"
+        }, {
+          "id": 101,
+          "name": "Chicken 101",
+          "description": "6 stk. Chicken nuggets med pommes frites",
+          "image": "assets/img/food-menu/food-menu-img-3-2.jpg",
+          "oldPrice": "Stor: 139 kr",
+          "price": "101 kr"
+        }
+      ]
+    },
+    {
+      "category": "lunch",
+      "items": [
+        {
+          "id": 200,
+          "name": "Chicken Nuggets",
+          "description": "6 stk. Chicken nuggets med pommes frites",
+          "image": "assets/img/food-menu/food-menu-img-3-2.jpg",
+          "oldPrice": "Stor: 139 kr",
+          "price": "119 kr"
+        }
+      ]
+    },
+    {
+      "category": "dinner",
+      "items": [
+        {
+          "id": 300,
+          "name": "New Stuffed Strawberry",
+          "description": "Dimer chop, Lau Chingri, Ruti",
+          "image": "assets/img/food-menu/food-menu-img-3-1.jpg",
+          "oldPrice": "$119.99",
+          "price": "$99.99"
+        },
+        {
+          "id": 301,
+          "name": "Chipotle Chicken Bowl",
+          "description": "Red Rice, Tehari, Drinks",
+          "image": "assets/img/food-menu/food-menu-img-3-10.jpg",
+          "oldPrice": "$42.00",
+          "price": "$36.00"
+        },
+        {
+          "id": 302,
+          "name": "Grilled Smoked Chicken",
+          "description": "Morog Polao, Biryani, Soft Drink",
+          "image": "assets/img/food-menu/food-menu-img-3-2.jpg",
+          "oldPrice": "$120",
+          "price": "$100"
+        },
+        {
+          "id": 303,
+          "name": "Chipotle Chicken Bowl",
+          "description": "Sauce, Hot Burger, Soft Drink",
+          "image": "assets/img/food-menu/food-menu-img-3-9.jpg",
+          "oldPrice": "$24.99",
+          "price": "$19.99"
+        },
+        {
+          "id": 304,
+          "name": "Cream Chicken chiladas",
+          "description": "Sauce, Hot Burger, Soft Drink",
+          "image": "assets/img/food-menu/food-menu-img-3-3.jpg",
+          "oldPrice": "$24.99",
+          "price": "$19.99"
+        },
+        {
+          "id": 305,
+          "name": "Antioxidant Fruits Mix",
+          "description": "Sauce, Hot Burger, Soft Drink",
+          "image": "assets/img/food-menu/food-menu-img-3-8.jpg",
+          "oldPrice": "$24.99",
+          "price": "$19.99"
+        },
+        {
+          "id": 306,
+          "name": "Party Platter Wings",
+          "description": "Sauce, Hot Burger, Soft Drink",
+          "image": "assets/img/food-menu/food-menu-img-3-4.jpg",
+          "oldPrice": "$24.99",
+          "price": "$19.99"
+        },
+        {
+          "id": 307,
+          "name": "Philadelphia salmon",
+          "description": "Sauce, Hot Burger, Soft Drink",
+          "image": "assets/img/food-menu/food-menu-img-3-7.jpg",
+          "oldPrice": "$24.99",
+          "price": "$19.99"
+        },
+        {
+          "id": 308,
+          "name": "Caffè macchiato",
+          "description": "Sauce, Hot Burger, Soft Drink",
+          "image": "assets/img/food-menu/food-menu-img-3-5.jpg",
+          "oldPrice": "$24.99",
+          "price": "$19.99"
+        }
+      ]
+    },
+    {
+      "category": "others",
+      "items": [
+        {
+          "id": 400,
+          "name": "New Stuffed Strawberry",
+          "description": "Dimer chop, Lau Chingri, Ruti",
+          "image": "assets/img/food-menu/food-menu-img-3-10.jpg",
+          "oldPrice": "$119.99",
+          "price": "$99.99"
+        },
+        {
+          "id": 401,
+          "name": "Chipotle Chicken Bowl",
+          "description": "Red Rice, Tehari, Drinks",
+          "image": "assets/img/food-menu/food-menu-img-3-7.jpg",
+          "oldPrice": "$42.00",
+          "price": "$36.00"
+        },
+        {
+          "id": 402,
+          "name": "Grilled Smoked Chicken",
+          "description": "Morog Polao, Biryani, Soft Drink",
+          "image": "assets/img/food-menu/food-menu-img-3-8.jpg",
+          "oldPrice": "$120",
+          "price": "$100"
+        },
+        {
+          "id": 403,
+          "name": "Antioxidant Fruits Mix",
+          "description": "Sauce, Hot Burger, Soft Drink",
+          "image": "assets/img/food-menu/food-menu-img-3-5.jpg",
+          "oldPrice": "$24.99",
+          "price": "$19.99"
+        },
+        {
+          "id": 404,
+          "name": "Italian Tasting Platter",
+          "description": "Sauce, Hot Burger, Soft Drink",
+          "image": "assets/img/food-menu/food-menu-img-3-6.jpg",
+          "oldPrice": "$24.99",
+          "price": "$19.99"
+        },
+        {
+          "id": 405,
+          "name": "Western Sunrise",
+          "description": "Sauce, Hot Burger, Soft Drink",
+          "image": "assets/img/food-menu/food-menu-img-3-3.jpg",
+          "oldPrice": "$24.99",
+          "price": "$19.99"
+        },
+        {
+          "id": 406,
+          "name": "Boiled Organic Egg",
+          "description": "Sauce, Hot Burger, Soft Drink",
+          "image": "assets/img/food-menu/food-menu-img-3-1.jpg",
+          "oldPrice": "$62.99",
+          "price": "$52.99"
+        },
+        {
+          "id": 407,
+          "name": "Philadelphia salmon",
+          "description": "Sauce, Hot Burger, Soft Drink",
+          "image": "assets/img/food-menu/food-menu-img-3-2.jpg",
+          "oldPrice": "$24.99",
+          "price": "$19.99"
+        },
+        {
+          "id": 408,
+          "name": "Hot Masala Gril",
+          "description": "Sauce, Hot Burger, Soft Drink",
+          "image": "assets/img/food-menu/food-menu-img-3-9.jpg",
+          "oldPrice": "$29.99",
+          "price": "$24.99"
+        }
+      ]
+    }
+  ]
+}
