@@ -8,8 +8,8 @@
           "name": "Norwegian Man",
           "description": "Skinke, champignon",
           "image": "assets/img/food-menu/pizza.png",
-          "oldPrice": "Stor: 229,-",
-          "price": "M: 185 Kr"
+          "oldPrice": "",
+          "price": "Stor: 229Kr \n Medium: 185 Kr"
         },
         {
           "id": 2,

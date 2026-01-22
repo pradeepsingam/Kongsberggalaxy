@@ -150,11 +150,11 @@ function createMenuCard(item) {
 
   const oldPrice = document.createElement('span');
   oldPrice.className = 'menu-card-old';
-  oldPrice.textContent = item.oldPrice;
+  oldPrice.innerHTML = (item.oldPrice || '').replace(/\n|\\n/g, '<br>');
 
   const newPrice = document.createElement('span');
   newPrice.className = 'menu-card-new';
-  newPrice.textContent =  item.price;
+  newPrice.innerHTML = (item.price || '').replace(/\n|\\n/g, '<br>');
 
   priceDiv.appendChild(oldPrice);
   // keep the new price separate so we can position it at the bottom-right of the card
