@@ -7,7 +7,7 @@
           "id": 1,
           "name": "Norwegian Man",
           "description": "Skinke, champignon",
-          "image": "assets/img/food-menu/food-menu-img-1.jpg",
+          "image": "assets/img/food-menu/pizza.png",
           "oldPrice": "Stor: 229,-",
           "price": "M: 185 Kr"
         },
@@ -15,7 +15,7 @@
           "id": 2,
           "name": "Pepperoni",
           "description": "Pepperoni, ananas",
-          "image": "assets/img/food-menu/food-menu-img-2.jpg",
+          "image": "assets/img/food-menu/pizza.png",
           "oldPrice": "Stor: 229,-",
           "price": "M: 185 Kr"
         },
@@ -23,7 +23,7 @@
           "id": 3,
           "name": "Felini",
           "description": "Biff og bernaisesaus",
-          "image": "assets/img/food-menu/food-menu-img-3.jpg",
+          "image": "assets/img/food-menu/pizza.png",
           "oldPrice": "Stor: 249,-",
           "price": "Medium: 195,-"
         },
@@ -31,7 +31,7 @@
           "id": 4,
           "name": "Hawai",
           "description": "Skinke, pepperoni og ananas",
-          "image": "assets/img/food-menu/food-menu-img-4.jpg",
+          "image": "assets/img/food-menu/pizza.png",
           "oldPrice": "Stor: 249,-",
           "price": "Medium: 195,-"
         },
@@ -39,7 +39,7 @@
           "id": 5,
           "name": "Vegetarian",
           "description": "Champignon, løk, paprika, oliven, tomat og mais",
-          "image": "assets/img/food-menu/food-menu-img-5.jpg",
+          "image": "assets/img/food-menu/pizza.png",
           "oldPrice": "Stor: 219,-",
           "price": "Medium: 179,-"
         },
@@ -47,7 +47,7 @@
           "id": 6,
           "name": "New Yok",
           "description": "Skinke, kjøttdeig, champignon, løk og bernaisesaus",
-          "image": "assets/img/food-menu/food-menu-img-6.jpg",
+          "image": "assets/img/food-menu/pizza.png",
           "oldPrice": "Stor: 249,-",
           "price": "Medium: 195,-"
         },
@@ -55,7 +55,7 @@
           "id": 7,
           "name": "Kebab Pizza",
           "description": "Kebabkjøtt, mais og løk",
-          "image": "assets/img/food-menu/food-menu-img-7.jpg",
+          "image": "assets/img/food-menu/pizza.png",
           "oldPrice": "Stor: 249,-",
           "price": "Medium: 195,-"
         },
@@ -63,7 +63,7 @@
           "id": 8,
           "name": "Taco Pizza",
           "description": "Kjøttdeig, mais, løk, paprika og tacosaus",
-          "image": "assets/img/food-menu/food-menu-img-8.jpg",
+          "image": "assets/img/food-menu/pizza.png",
           "oldPrice": "Stor: 249,-",
           "price": "Medium: 195,-"
         },
@@ -71,7 +71,7 @@
           "id": 9,
           "name": "Baker's",
           "description": "Skinke, pepperoni, bacon og løk",
-          "image": "assets/img/food-menu/food-menu-img-9.jpg",
+          "image": "assets/img/food-menu/pizza.png",
           "oldPrice": "Stor: 249,-",
           "price": "Medium: 195,-"
         },
@@ -79,7 +79,7 @@
           "id": 10,
           "name": "Chicken Pizza",
           "description": "Kylling, ananas, purreløk og paprika",
-          "image": "assets/img/food-menu/food-menu-img-10.jpg",
+          "image": "assets/img/food-menu/pizza.png",
           "oldPrice": "Stor: 259,-",
           "price": "Medium: 215,-"
         },
@@ -88,7 +88,7 @@
           "id": 11,
           "name": "Miami",
           "description": "Marinert biff, champignon og paprika",
-          "image": "assets/img/food-menu/food-menu-img-11.jpg",
+          "image": "assets/img/food-menu/pizza.png",
           "oldPrice": "Stor: 259,-",
           "price": "Medium: 219,-"
         },
@@ -96,7 +96,7 @@
           "id": 12,
           "name": "Ceylon Hot",
           "description": "Marinert biff, løk, paprika, oliven og jalapeno",
-          "image": "assets/img/food-menu/food-menu-img-12.jpg",
+          "image": "assets/img/food-menu/pizza.png",
           "oldPrice": "Stor: 259,-",
           "price": "Medium: 219,-"
         },
@@ -104,7 +104,7 @@
           "id": 13,
           "name": "American House",
           "description": "Skinke, pepperoni, marinert biff, champig. og løk",
-          "image": "assets/img/food-menu/food-menu-img-13.jpg",
+          "image": "assets/img/food-menu/pizza.png",
           "oldPrice": "Stor: 259,-",
           "price": "Medium: 219,-"
         },
@@ -112,7 +112,7 @@
           "id": 14,
           "name": "Galaxy Expo",
           "description": "Marinert biff, kjøttdeig, bacon, mais og løk",
-          "image": "assets/img/food-menu/food-menu-img-14.jpg",
+          "image": "assets/img/food-menu/pizza.png",
           "oldPrice": "Stor: 259,-",
           "price": "Medium: 219,-"
         },
@@ -120,7 +120,7 @@
           "id": 15,
           "name": "Weekend Tandoori Pizza",
           "description": "Kylling, løk, mais, paprika, tomat og hvitløk",
-          "image": "assets/img/food-menu/food-menu-img-15.jpg",
+          "image": "assets/img/food-menu/pizza.png",
           "oldPrice": "Stor: 259,-",
           "price": "Medium: 219,-"
         },
@@ -128,7 +128,7 @@
           "id": 16,
           "name": "Monte Carlos",
           "description": "Marinert biff, kjøttdeig, pepperoni, champig. og løk",
-          "image": "assets/img/food-menu/food-menu-img-16.jpg",
+          "image": "assets/img/food-menu/pizza.png",
           "oldPrice": "Stor: 259,-",
           "price": "Medium: 219,-"
         },
@@ -136,7 +136,7 @@
           "id": 17,
           "name": "Meksikansk Pizza",
           "description": "Marinert biff, paprika, jalapen, løk og meksi. krydder",
-          "image": "assets/img/food-menu/food-menu-img-17.jpg",
+          "image": "assets/img/food-menu/pizza.png",
           "oldPrice": "Stor: 259,-",
           "price": "Medium: 219,-"
         },
@@ -144,7 +144,7 @@
           "id": 18,
           "name": "Kongsberg Spesial",
           "description": "Bacon, skinke, løk, tomatskiver og hvitløk",
-          "image": "assets/img/food-menu/food-menu-img-18.jpg",
+          "image": "assets/img/food-menu/pizza.png",
           "oldPrice": "Stor: 259,-",
           "price": "Medium: 219,-"
         },
@@ -152,7 +152,7 @@
           "id": 19,
           "name": "Mama Rosa",
           "description": "Skinke, marinert biff, kjøttdeig, løk, champig og paprika",
-          "image": "assets/img/food-menu/food-menu-img-19.jpg",
+          "image": "assets/img/food-menu/pizza.png",
           "oldPrice": "Stor: 259,-",
           "price": "Medium: 219,-"
         },
@@ -160,7 +160,7 @@
           "id": 20,
           "name": "Amiho",
           "description": "Kjøttdeig, pepperoni, tomat, jalapeno, hvitløk, tacosaus og peppermix",
-          "image": "assets/img/food-menu/food-menu-img-20.jpg",
+          "image": "assets/img/food-menu/pizza.png",
           "oldPrice": "Stor: 259,-",
           "price": "Medium: 219,-"
         },
@@ -168,7 +168,7 @@
           "id": 21,
           "name": "Napoli",
           "description": "Marinert biff, pepperoni, tomat, jalapeno og meksikansk krydder",
-          "image": "assets/img/food-menu/food-menu-img-21.jpg",
+          "image": "assets/img/food-menu/pizza.png",
           "oldPrice": "Stor: 259,-",
           "price": "Medium: 219,-"
         },
@@ -176,7 +176,7 @@
           "id": 22,
           "name": "Asteka",
           "description": "Skinke, pepperoni, kjøttdeig, tomatskiver, jalapeno, meksikansk krydder",
-          "image": "assets/img/food-menu/food-menu-img-22.jpg",
+          "image": "assets/img/food-menu/pizza.png",
           "oldPrice": "Stor: 259,-",
           "price": "Medium: 219,-"
         },
@@ -184,7 +184,7 @@
           "id": 23,
           "name": "Half Half",
           "description": "Velg fritt 2 pizza",
-          "image": "assets/img/food-menu/food-menu-img-23.jpg",
+          "image": "assets/img/food-menu/pizza.png",
           "oldPrice": "Stor: 289,-",
           "price": "Medium: 245,-"
         },
@@ -192,7 +192,7 @@
           "id": 24,
           "name": "Galaxy Spesial",
           "description": "Pølser, skinke, bacon, løk og paprika",
-          "image": "assets/img/food-menu/food-menu-img-24.jpg",
+          "image": "assets/img/food-menu/pizza.png",
           "oldPrice": "Stor: 259,-",
           "price": "Medium: 219,-"
         },
@@ -200,7 +200,7 @@
           "id": 25,
           "name": "Kylling Spesial",
           "description": "Marinert kylling, skinke, bacon og ananas",
-          "image": "assets/img/food-menu/food-menu-img-25.jpg",
+          "image": "assets/img/food-menu/pizza.png",
           "oldPrice": "Stor: 259,-",
           "price": "Medium: 219,-"
         },
@@ -208,7 +208,7 @@
           "id": 26,
           "name": "Galaxy Mix",
           "description": "Marinert kylling, marinert biff, marinert kjøttdeig, bacon, rødløk og purreløk",
-          "image": "assets/img/food-menu/food-menu-img-26.jpg",
+          "image": "assets/img/food-menu/pizza.png",
           "oldPrice": "Stor: 279,-",
           "price": "Medium: 235,-"
         },
@@ -216,7 +216,7 @@
           "id": 27,
           "name": "Lag Din Egen",
           "description": "Velg fritt i vårt 6 utvalgt av garnityr",
-          "image": "assets/img/food-menu/food-menu-img-27.jpg",
+          "image": "assets/img/food-menu/pizza.png",
           "oldPrice": "Stor: 289,-",
           "price": "Medium: 245,-"
         },
@@ -224,7 +224,7 @@
           "id": 28,
           "name": "Morten Pizza",
           "description": "Skinke, pepperoni, kylling og biff",
-          "image": "assets/img/food-menu/food-menu-img-28.jpg",
+          "image": "assets/img/food-menu/pizza.png",
           "oldPrice": "Stor: 279,-",
           "price": "Medium: 235,-"
         }
@@ -237,7 +237,7 @@
           "id": 51,
           "name": "Margherita",
           "description": "Pizza sauce, mozzarella, and olive oil",
-          "image": "assets/img/food-menu/food-menu-img-29.jpg",
+          "image": "assets/img/food-menu/pizza.png",
           "oldPrice": "Stor: 180,-",
           "price": "Medium: 160,-"
         },
@@ -245,7 +245,7 @@
           "id": 52,
           "name": "Veggie",
           "description": "Sun-dried cherry tomatoes, red onion, green pepper, mushrooms, and olives",
-          "image": "assets/img/food-menu/food-menu-img-30.jpg",
+          "image": "assets/img/food-menu/pizza.png",
           "oldPrice": "Stor: 219,-",
           "price": "Medium: 179,-"
         },
@@ -253,7 +253,7 @@
           "id": 53,
           "name": "Parma",
           "description": "Tomato, cheese, parmesan, pine nuts, parma ham, and arugula (added after baking)",
-          "image": "assets/img/food-menu/food-menu-img-31.jpg",
+          "image": "assets/img/food-menu/pizza.png",
           "oldPrice": "Stor: 279,-",
           "price": "Medium: 235,-"
         },
@@ -261,7 +261,7 @@
           "id": 55,
           "name": "Cheesy Bacon",
           "description": "Bacon, cheddar, mozzarella, and sauce",
-          "image": "assets/img/food-menu/food-menu-img-32.jpg",
+          "image": "assets/img/food-menu/pizza.png",
           "oldPrice": "Stor: 229,-",
           "price": "Medium: 185,-"
         },
@@ -269,7 +269,7 @@
           "id": 56,
           "name": "Bahamas",
           "description": "Ham, bacon, mozzarella, sauce",
-          "image": "assets/img/food-menu/food-menu-img-33.jpg",
+          "image": "assets/img/food-menu/pizza.png",
           "oldPrice": "Stor: 259,-",
           "price": "Medium: 219,-"
         },
@@ -277,7 +277,7 @@
           "id": 57,
           "name": "Salame",
           "description": "Tomato, sauce, mozzarella, salami, olives, red onion, and oregano",
-          "image": "assets/img/food-menu/food-menu-img-34.jpg",
+          "image": "assets/img/food-menu/pizza.png",
           "oldPrice": "Stor: 239,-",
           "price": "Medium: 185,-"
         },
@@ -285,7 +285,7 @@
           "id": 58,
           "name": "Primo",
           "description": "Marinated chicken, marinated beef, bacon, red onion, mozzarella, and sauce",
-          "image": "assets/img/food-menu/food-menu-img-35.jpg",
+          "image": "assets/img/food-menu/pizza.png",
           "oldPrice": "Stor: 279,-",
           "price": "Medium: 235,-"
         },
@@ -293,7 +293,7 @@
           "id": 59,
           "name": "Rustica",
           "description": "Sauce, mozzarella, garlic, pepperoni, and oregano",
-          "image": "assets/img/food-menu/food-menu-img-36.jpg",
+          "image": "assets/img/food-menu/pizza.png",
           "oldPrice": "Stor: 229,-",
           "price": "Medium: 209,-"
         },
@@ -301,7 +301,7 @@
           "id": 60,
           "name": "Tacoram",
           "description": "Beef, jalapeños, peppers, corn, nacho chips, mozzarella, and sauce",
-          "image": "assets/img/food-menu/food-menu-img-37.jpg",
+          "image": "assets/img/food-menu/pizza.png",
           "oldPrice": "Stor: 259,-",
           "price": "Medium: 219,-"
         },
@@ -309,7 +309,7 @@
           "id": 61,
           "name": "BBQ Chicken",
           "description": "Chicken, red onion, mozzarella, topped with cheddar and BBQ sauce",
-          "image": "assets/img/food-menu/food-menu-img-38.jpg",
+          "image": "assets/img/food-menu/pizza.png",
           "oldPrice": "Stor: 259,-",
           "price": "Medium: 219,-"
         },
@@ -317,7 +317,7 @@
           "id": 62,
           "name": "Lag Din Egen (Create your own)",
           "description": "",
-          "image": "assets/img/food-menu/food-menu-img-39.jpg",
+          "image": "assets/img/food-menu/pizza.png",
           "oldPrice": "Stor: 289,-",
           "price": "Medium: 245,-"
         }
@@ -330,7 +330,7 @@
           "id": 100,
           "name": "Skinke (Ham)",
           "description": "Includes iceberg lettuce, corn, cucumber, tomato, and onion",
-          "image": "assets/img/food-menu/food-menu-img-40.jpg",
+          "image": "assets/img/food-menu/pizza.png",
           "oldPrice": "159,-",
           "price": "159,-"
         },
@@ -338,7 +338,7 @@
           "id": 101,
           "name": "Peproni (Pepperoni)",
           "description": "Includes iceberg lettuce, corn, cucumber, tomato, and onion",
-          "image": "assets/img/food-menu/food-menu-img-41.jpg",
+          "image": "assets/img/food-menu/pizza.png",
           "oldPrice": "159,-",
           "price": "159,-"
         },
@@ -346,7 +346,7 @@
           "id": 102,
           "name": "Skinke & Pepperoni",
           "description": "Includes iceberg lettuce, corn, cucumber, tomato, and onion",
-          "image": "assets/img/food-menu/food-menu-img-42.jpg",
+          "image": "assets/img/food-menu/pizza.png",
           "oldPrice": "169,-",
           "price": "169,-"
         },
@@ -354,7 +354,7 @@
           "id": 103,
           "name": "Biff (Beef)",
           "description": "Includes iceberg lettuce, corn, cucumber, tomato, and onion",
-          "image": "assets/img/food-menu/food-menu-img-43.jpg",
+          "image": "assets/img/food-menu/pizza.png",
           "oldPrice": "179,-",
           "price": "179,-"
         },
@@ -362,7 +362,7 @@
           "id": 104,
           "name": "Kylling (Chicken)",
           "description": "Includes iceberg lettuce, corn, cucumber, tomato, and onion",
-          "image": "assets/img/food-menu/food-menu-img-44.jpg",
+          "image": "assets/img/food-menu/pizza.png",
           "oldPrice": "179,-",
           "price": "179,-"
         },
@@ -370,7 +370,7 @@
           "id": 105,
           "name": "Kebab",
           "description": "Includes iceberg lettuce, corn, cucumber, tomato, and onion",
-          "image": "assets/img/food-menu/food-menu-img-45.jpg",
+          "image": "assets/img/food-menu/pizza.png",
           "oldPrice": "179,-",
           "price": "179,-"
         }
@@ -383,7 +383,7 @@
           "id": 150,
           "name": "Calzone",
           "description": "Cheese and ham",
-          "image": "assets/img/food-menu/food-menu-img-46.jpg",
+          "image": "assets/img/food-menu/pizza.png",
           "oldPrice": "149,-",
           "price": "149,-"
         },
@@ -391,7 +391,7 @@
           "id": 151,
           "name": "UFO",
           "description": "Minced meat, ham, pepperoni, and mushrooms",
-          "image": "assets/img/food-menu/food-menu-img-47.jpg",
+          "image": "assets/img/food-menu/pizza.png",
           "oldPrice": "159,-",
           "price": "159,-"
         },
@@ -399,7 +399,7 @@
           "id": 152,
           "name": "Capri",
           "description": "Pepperoni, minced meat, and onion",
-          "image": "assets/img/food-menu/food-menu-img-48.jpg",
+          "image": "assets/img/food-menu/pizza.png",
           "oldPrice": "169,-",
           "price": "169,-"
         },
@@ -407,7 +407,7 @@
           "id": 153,
           "name": "Roma",
           "description": "Marinated beef, ham, peppers, and Mexican spices",
-          "image": "assets/img/food-menu/food-menu-img-49.jpg",
+          "image": "assets/img/food-menu/pizza.png",
           "oldPrice": "179,-",
           "price": "179,-"
         },
@@ -415,7 +415,7 @@
           "id": 154,
           "name": "Acapulco",
           "description": "Marinated beef, ham, jalapeño, and Mexican spices",
-          "image": "assets/img/food-menu/food-menu-img-50.jpg",
+          "image": "assets/img/food-menu/pizza.png",
           "oldPrice": "179,-",
           "price": "179,-"
         }
@@ -424,18 +424,18 @@
     {
       "category": " Kebab Retter",
       "items": [
-        {"id": 200, "name": "Kebab i Pita", "description": "", "image": "assets/img/food-menu/food-menu-img-51.jpg", "oldPrice": "125,-", "price": "115,-"},
-        {"id": 201, "name": "Döner i Pita", "description": "", "image": "assets/img/food-menu/food-menu-img-52.jpg", "oldPrice": "155,-", "price": "140,-"},
-        {"id": 202, "name": "Kylling Kebab i Pita", "description": "", "image": "assets/img/food-menu/food-menu-img-53.jpg", "oldPrice": "155,-", "price": "140,-"},
-        {"id": 203, "name": "Biff Kebab i Pita", "description": "", "image": "assets/img/food-menu/food-menu-img-54.jpg", "oldPrice": "165,-", "price": "145,-"},
-        {"id": 204, "name": "Shawarma Kebab i Pita", "description": "", "image": "assets/img/food-menu/food-menu-img-55.jpg", "oldPrice": "165,-", "price": "145,-"},
-        {"id": 205, "name": "Mix Kebab i Pita", "description": "", "image": "assets/img/food-menu/food-menu-img-56.jpg", "oldPrice": "175,-", "price": "155,-"},
-        {"id": 206, "name": "Kebab Rull", "description": "", "image": "assets/img/food-menu/food-menu-img-57.jpg", "oldPrice": "145,-", "price": "130,-"},
-        {"id": 207, "name": "Döner Rull", "description": "", "image": "assets/img/food-menu/food-menu-img-58.jpg", "oldPrice": "170,-", "price": "150,-"},
-        {"id": 208, "name": "Kylling Rull", "description": "", "image": "assets/img/food-menu/food-menu-img-59.jpg", "oldPrice": "170,-", "price": "150,-"},
-        {"id": 209, "name": "Biff Rull", "description": "", "image": "assets/img/food-menu/food-menu-img-60.jpg", "oldPrice": "170,-", "price": "150,-"},
-        {"id": 210, "name": "Shish Kebab Rull (Lam)", "description": "", "image": "assets/img/food-menu/food-menu-img-61.jpg", "oldPrice": "170,-", "price": "150,-"},
-        {"id": 211, "name": "Mix Rull", "description": "", "image": "assets/img/food-menu/food-menu-img-62.jpg", "oldPrice": "180,-", "price": "160,-"}
+        {"id": 200, "name": "Kebab i Pita", "description": "", "image": "assets/img/food-menu/kebab-retter.jpg", "oldPrice": "125,-", "price": "115,-"},
+        {"id": 201, "name": "Döner i Pita", "description": "", "image": "assets/img/food-menu/kebab-retter.jpg", "oldPrice": "155,-", "price": "140,-"},
+        {"id": 202, "name": "Kylling Kebab i Pita", "description": "", "image": "assets/img/food-menu/kebab-retter.jpg", "oldPrice": "155,-", "price": "140,-"},
+        {"id": 203, "name": "Biff Kebab i Pita", "description": "", "image": "assets/img/food-menu/kebab-retter.jpg", "oldPrice": "165,-", "price": "145,-"},
+        {"id": 204, "name": "Shawarma Kebab i Pita", "description": "", "image": "assets/img/food-menu/kebab-retter.jpg", "oldPrice": "165,-", "price": "145,-"},
+        {"id": 205, "name": "Mix Kebab i Pita", "description": "", "image": "assets/img/food-menu/kebab-retter.jpg", "oldPrice": "175,-", "price": "155,-"},
+        {"id": 206, "name": "Kebab Rull", "description": "", "image": "assets/img/food-menu/kebab-retter.jpg", "oldPrice": "145,-", "price": "130,-"},
+        {"id": 207, "name": "Döner Rull", "description": "", "image": "assets/img/food-menu/kebab-retter.jpg", "oldPrice": "170,-", "price":""},
+        {"id": 208, "name": "Kylling Rull", "description": "", "image": "assets/img/food-menu/kebab-retter.jpg", "oldPrice": "170,-", "price": "150,-"},
+        {"id": 209, "name": "Biff Rull", "description": "", "image": "assets/img/food-menu/kebab-retter.jpg", "oldPrice": "170,-", "price": "150,-"},
+        {"id": 210, "name": "Shish Kebab Rull (Lam)", "description": "", "image": "assets/img/food-menu/kebab-retter.jpg", "oldPrice": "170,-", "price": "150,-"},
+        {"id": 211, "name": "Mix Rull", "description": "", "image": "assets/img/food-menu/kebab-retter.jpg", "oldPrice": "180,-", "price": "160,-"}
       ]
     },
     {
