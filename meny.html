@@ -287,6 +287,22 @@
         overflow: hidden !important;
         height: 50px !important;
         margin: 0 !important;
+        border: 2px solid transparent !important;
+        transition: all 0.3s ease !important;
+      }
+
+      /* Hover state: white background with border */
+      .food-menu-wrapper .nav-tabs .vs-btn:hover {
+        background-color: #ffffff !important;
+        border: 2px solid #E3A952 !important;
+        color: #000 !important;
+      }
+
+      /* Active state: background color #E3A952 */
+      .food-menu-wrapper .nav-tabs .vs-btn.active {
+        background-color: #E3A952 !important;
+        border: 2px solid #E3A952 !important;
+        color: #000 !important;
       }
 
       /* If the last tab wraps to its own line, left-align it */
