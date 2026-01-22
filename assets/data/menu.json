@@ -630,7 +630,7 @@
       ]
     },
     {
-      "category": "MIDDAGSRETTER",
+      "category": "Middagsretter",
       "items": [
         {
           "id": 350,
@@ -778,7 +778,7 @@
       ]
     },
     {
-      "category": "RIS RETTER",
+      "category": "Ris Retter",
       "items": [
         {
           "id": 400,
@@ -801,7 +801,7 @@
       ]
     },
     {
-      "category": "VEGG RETTER",
+      "category": "Vegg Retter",
       "items": [
         {
           "id": 450,
@@ -836,7 +836,7 @@
       ]
     },
     {
-      "category": " SMÅ RETTER",
+      "category": " Sma Retter",
       "items": [
         {
           "id": 500,
@@ -883,7 +883,7 @@
       ]
     },
     {
-      "category": "SALATER",
+      "category": "Salatter",
       "items": [
         {
           "id": 550,

@@ -79,6 +79,7 @@
     font-size: 28px;
     font-weight: 700;
     color: #000000;
+    margin-bottom: 0px;
 }
 
 /* Price (inline/legacy) */
@@ -173,6 +174,7 @@
 
 .menu-price-item {
     font-size: 15px;
+    width: 48%;
     color: #000000;
     font-weight: 700;
     font-family: 'Roboto', sans-serif;
@@ -190,5 +192,6 @@
 }
 
 .menu-card-desc {
+    margin-top: 5px;
     margin-bottom: 15px;
 }
