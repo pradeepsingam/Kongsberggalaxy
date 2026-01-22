@@ -17,7 +17,7 @@
           "description": "Pepperoni, ananas",
           "image": "assets/img/food-menu/pizza.png",
           "oldPrice": "Stor: 229,-",
-          "price": "M: 185 Kr"
+          "price": "Stor: 229Kr \n Medium: 185 Kr"
         },
         {
           "id": 3,
@@ -25,7 +25,7 @@
           "description": "Biff og bernaisesaus",
           "image": "assets/img/food-menu/pizza.png",
           "oldPrice": "Stor: 249,-",
-          "price": "Medium: 195,-"
+          "price": "Stor: 249Kr \n Medium: 195 Kr"
         },
         {
           "id": 4,
