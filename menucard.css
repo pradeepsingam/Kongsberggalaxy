@@ -1,6 +1,9 @@
 /* Card */
 .menu-card {
-    width: 360px;
+    /* allow the card to shrink on small screens while keeping a max width on larger viewports */
+    width: 100%;
+    max-width: 360px;
+    box-sizing: border-box;
     background: #F0D5C2;
     border-radius: 18px;
     overflow: hidden;
@@ -24,6 +27,36 @@
     height: 100%;
     object-fit: cover;
     transition: transform 0.6s ease;
+}
+
+/* Mobile adjustments: ensure cards never overflow and price box flows naturally */
+@media (max-width: 576px) {
+    .menu-card {
+        max-width: 100%;
+        width: calc(100% - 24px);
+        margin: 12px auto;
+        padding-bottom: 1.5rem;
+    }
+
+    .menu-card-image {
+        height: auto;
+    }
+
+    .menu-card-image img {
+        height: auto;
+        object-fit: cover;
+    }
+
+    .menu-card .menu-card-new {
+        position: static;
+        display: block;
+        margin-top: 8px;
+        background: #ffffff;
+        padding: 6px 10px;
+        border-radius: 6px;
+        box-shadow: 0 2px 6px rgba(0,0,0,0.08);
+        text-align: right;
+    }
 }
 
 /* Content */

@@ -1,3 +1,9 @@
+/* Fix horizontal scroll on mobile */
+html, body {
+  max-width: 100%;
+  overflow-x: hidden;
+}
+
 /*
 Template Name: Grillino
 Template URL: https://themeforest.vecuro.com/html/grillino
@@ -1638,7 +1644,7 @@ textarea.form-control.is-invalid {
   display: inline-block;
   border: none;
   font-size: 16px;
-  border-radius: 50px;
+  border-radius: 10px;
   font-weight: 700;
   padding: 17px 48px;
   text-align: center;
