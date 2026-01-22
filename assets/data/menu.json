@@ -231,7 +231,7 @@
       ]
     },
      {
-      "category": " Italiensk Pizza",
+      "category": "Italiensk Pizza",
       "items": [
         {
           "id": 51,
@@ -422,7 +422,7 @@
       ]
     },
     {
-      "category": " Kebab Retter",
+      "category": "Kebab Retter",
       "items": [
         {"id": 200, "name": "Kebab i Pita", "description": "", "image": "assets/img/food-menu/kebab-retter.jpg", "oldPrice": "125,-", "price": "115,-"},
         {"id": 201, "name": "Döner i Pita", "description": "", "image": "assets/img/food-menu/kebab-retter.jpg", "oldPrice": "155,-", "price": "140,-"},
@@ -462,7 +462,7 @@
       ]
     },
       {
-      "category": "MIDDAGSRETTER",
+      "category": "Middagsretter",
       "items": [
         {"id": 350, "name": "Kebab Middag", "description": "", "image": "assets/img/food-menu/MIDDAGSRETTER.jpeg", "oldPrice": "159,- ", "price": "179,-"},
         {"id": 351, "name": "Kylling Kebab Middag", "description": "", "image": "assets/img/food-menu/MIDDAGSRETTER.jpeg", "oldPrice": "209,-", "price": "229,-"},
@@ -484,7 +484,7 @@
       ]
     },
      {
-      "category": "RIS RETTER",
+      "category": "Ris Retter",
       "items": [
         {"id": 400, "description": "", "image": "assets/img/food-menu/riseretter.jpg", "oldPrice": "219,-", "price": "219,-"},
         {"id": 401, "description": "", "image": "assets/img/food-menu/riseretter.jpg", "oldPrice": "229,-", "price": "229,-"},
@@ -492,7 +492,7 @@
       ]
     },
     {
-      "category": "VEGG RETTER",
+      "category": "Vegg Retter",
       "items": [
         {"id": 450, "description": "", "image": "assets/img/food-menu/vegg.jpeg", "oldPrice": "85,-", "price": "85,-"},
         {"id": 451, "description": "", "image": "assets/img/food-menu/vegg.jpeg", "oldPrice": "90,-", "price": "90,-"},
@@ -502,7 +502,7 @@
       ]
     },
     {
-      "category": " SMÅ RETTER",
+      "category": "Sma Retter",
       "items": [
         {"id": 500, "description": "", "image": "assets/img/food-menu/smaretter.jpg", "oldPrice": "70,-", "price": "70,-"},
         {"id": 501, "description": "", "image": "assets/img/food-menu/smaretter.jpg", "oldPrice": "109,-", "price": "109,-"},
@@ -514,7 +514,7 @@
       ]
     },
     {
-      "category": "SALATER",
+      "category": "Salater",
       "items": [
         {"id": 550, "description": "", "image": "assets/img/food-menu/salater.jpg", "oldPrice": "179,-", "price": "179,-"},
         {"id": 551, "description": "", "image": "assets/img/food-menu/salater.jpg", "oldPrice": "179,-", "price": "179,-"}
