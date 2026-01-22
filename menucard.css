@@ -7,10 +7,12 @@
     background: #F0D5C2;
     border-radius: 18px;
     overflow: hidden;
-    box-shadow: 0 12px 35px rgba(0,0,0,0.12);
+    box-shadow: 0 12px 35px rgba(0, 0, 0, 0.12);
     margin: 20px;
-    position: relative; /* allow absolute children */
-    padding-bottom: 3rem; /* reserve space for absolute bottom elements */
+    position: relative;
+    /* allow absolute children */
+    padding-bottom: 3rem;
+    /* reserve space for absolute bottom elements */
 }
 
 
@@ -54,7 +56,7 @@
         background: #ffffff;
         padding: 6px 10px;
         border-radius: 6px;
-        box-shadow: 0 2px 6px rgba(0,0,0,0.08);
+        box-shadow: 0 2px 6px rgba(0, 0, 0, 0.08);
         text-align: right;
     }
 }
@@ -74,9 +76,9 @@
 
 .menu-card-header h3 {
     font-family: 'Rufina', serif;
-    font-size: 22px;
+    font-size: 28px;
     font-weight: 700;
-    color: #E3A952;
+    color: #000000;
 }
 
 /* Price (inline/legacy) */
@@ -99,19 +101,20 @@
 
 /* Position the new price at the bottom-right of the card */
 .menu-card .menu-card-new {
-  position: absolute;
-  bottom: 12px;
-  right: 12px;
-  left: auto; /* ensure no left offset overrides */
-  background: #ffffff;
-  padding: 6px 10px;
-  border-radius: 6px;
-  font-weight: 700;
-  font-size: 16px;
-  color: #222;
-  box-shadow: 0 2px 6px rgba(0,0,0,0.08);
-  z-index: 5;
-  text-align: right;
+    position: absolute;
+    bottom: 12px;
+    right: 12px;
+    left: auto;
+    /* ensure no left offset overrides */
+    background: #ffffff;
+    padding: 6px 10px;
+    border-radius: 6px;
+    font-weight: 700;
+    font-size: 16px;
+    color: #222;
+    box-shadow: 0 2px 6px rgba(0, 0, 0, 0.08);
+    z-index: 5;
+    text-align: right;
 }
 
 
@@ -125,7 +128,7 @@
 
 /* Button */
 .menu-card-order-btn {
-    display:none;
+    display: none;
 }
 
 .menu-card-order-btn:hover {
@@ -138,14 +141,54 @@
 }
 
 .menu-card:hover .menu-card {
-    border: solid 12px  #cf953d;
+    border: solid 12px #cf953d;
 }
 
 .menu-card-image::after {
     content: "";
     position: absolute;
     inset: 0;
-    background: rgba(0,0,0,0.15);
+    background: rgba(0, 0, 0, 0.15);
     opacity: 0;
     transition: opacity 0.4s ease;
+}
+
+/* New Price List Styling */
+.menu-card-prices {
+    position: absolute;
+    bottom: 5px;
+    left: 0;
+    width: 100%;
+    padding: 0 22px;
+    /* Match content padding */
+    box-sizing: border-box;
+    margin-bottom: 0;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    gap: 8px;
+    justify-content: flex-start;
+    z-index: 10;
+}
+
+.menu-price-item {
+    font-size: 15px;
+    color: #000000;
+    font-weight: 700;
+    font-family: 'Roboto', sans-serif;
+    text-align: center;
+    background: #ffffff;
+    padding: 6px 12px;
+    border-radius: 10px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.05);
+}
+
+/* Adjustments for the card content to flow better */
+.menu-card-content {
+    display: flex;
+    flex-direction: column;
+}
+
+.menu-card-desc {
+    margin-bottom: 15px;
 }

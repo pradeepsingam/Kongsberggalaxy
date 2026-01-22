@@ -145,22 +145,7 @@ function createMenuCard(item) {
   const title = document.createElement('h3');
   title.textContent = item.name;
 
-  const priceDiv = document.createElement('div');
-  priceDiv.className = 'menu-card-price';
-
-  const oldPrice = document.createElement('span');
-  oldPrice.className = 'menu-card-old';
-  oldPrice.innerHTML = (item.oldPrice || '').replace(/\n|\\n/g, '<br>');
-
-  const newPrice = document.createElement('span');
-  newPrice.className = 'menu-card-new';
-  newPrice.innerHTML = (item.price || '').replace(/\n|\\n/g, '<br>');
-
-  priceDiv.appendChild(oldPrice);
-  // keep the new price separate so we can position it at the bottom-right of the card
-
   headerDiv.appendChild(title);
-  headerDiv.appendChild(priceDiv);
 
   const desc = document.createElement('p');
   desc.className = 'menu-card-desc';
@@ -170,15 +155,28 @@ function createMenuCard(item) {
   button.className = 'menu-card-order-btn';
   button.textContent = '+ Bestill nå';
 
+  // Create container for multiple prices
+  const pricesDiv = document.createElement('div');
+  pricesDiv.className = 'menu-card-prices';
+
+  // Loop through price1 to price4
+  for (let i = 1; i <= 4; i++) {
+    const priceKey = 'price' + i;
+    if (item[priceKey]) {
+      const pItem = document.createElement('div');
+      pItem.className = 'menu-price-item';
+      pItem.textContent = item[priceKey];
+      pricesDiv.appendChild(pItem);
+    }
+  }
+
   contentDiv.appendChild(headerDiv);
   contentDiv.appendChild(desc);
+  contentDiv.appendChild(pricesDiv); // Add prices after description
   contentDiv.appendChild(button);
 
   card.appendChild(imageDiv);
   card.appendChild(contentDiv);
-
-  // append the new price to the card itself so CSS can place it bottom-right
-  card.appendChild(newPrice);
 
   colDiv.appendChild(card);
   return colDiv;
