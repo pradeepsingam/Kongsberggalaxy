@@ -250,6 +250,32 @@
       .nav-tabs .nav-link.show {
         color: #000 !important;
       }
+
+      /* Uniform Tab Button Sizing */
+      .nav-tabs {
+        display: flex !important;
+        flex-wrap: wrap;
+        gap: 10px;
+        justify-content: center;
+      }
+
+      .nav-tabs li {
+        flex: 1 1 auto;
+        min-width: 120px;
+        max-width: 200px;
+      }
+
+      .nav-tabs .vs-btn {
+        width: 100%;
+        padding: 12px 16px !important;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        white-space: nowrap;
+        text-overflow: ellipsis;
+        overflow: hidden;
+        height: 50px;
+      }
     </style>
   </head>
 

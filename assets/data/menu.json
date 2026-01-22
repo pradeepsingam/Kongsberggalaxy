@@ -441,83 +441,83 @@
     {
       "category": "Barne Meny",
       "items": [
-        {"id": 250, "name": "Burger Middag (100g)", "description": "", "image": "assets/img/food-menu/food-menu-img-63.jpg", "oldPrice": "129,-", "price": "129,-"},
-        {"id": 251, "name": "Kebab Middag", "description": "", "image": "assets/img/food-menu/food-menu-img-64.jpg", "oldPrice": "129,-", "price": "129,-"},
-        {"id": 252, "name": "Pølser Middag", "description": "", "image": "assets/img/food-menu/food-menu-img-65.jpg", "oldPrice": "129,-", "price": "129,-"}
+        {"id": 250, "name": "Burger Middag (100g).", "description": "", "image": "assets/img/food-menu/barnemeny.jpeg", "oldPrice": "129,-", "price": "129,-"},
+        {"id": 251, "name": "Kebab Middag", "description": "", "image": "assets/img/food-menu/barnemeny.jpeg", "oldPrice": "129,-", "price": "129,-"},
+        {"id": 252, "name": "Pølser Middag", "description": "", "image": "assets/img/food-menu/barnemeny.jpeg", "oldPrice": "129,-", "price": "129,-"}
       ]
     },
     {
       "category": "Burger Retter",
       "items": [
-        {"id": 300, "name": "Big Burger", "description": "", "image": "assets/img/food-menu/food-menu-img-66.jpg", "oldPrice": "159,-", "price": "99,-"},
-        {"id": 301, "name": "Big Cheese Burger", "description": "", "image": "assets/img/food-menu/food-menu-img-67.jpg", "oldPrice": "169,-", "price": "119,-"},
-        {"id": 302, "name": "Hawai Burger", "description": "", "image": "assets/img/food-menu/food-menu-img-68.jpg", "oldPrice": "179,-", "price": "129,-"},
-        {"id": 303, "name": "Bacon Burger", "description": "", "image": "assets/img/food-menu/food-menu-img-69.jpg", "oldPrice": "179,-", "price": "129,-"},
-        {"id": 304, "name": "Meksikansk", "description": "", "image": "assets/img/food-menu/food-menu-img-70.jpg", "oldPrice": "189,-", "price": "139,-"},
-        {"id": 305, "name": "BBQ Burger", "description": "", "image": "assets/img/food-menu/food-menu-img-71.jpg", "oldPrice": "189,-", "price": "139,-"},
-        {"id": 306, "name": "Biff Burger", "description": "", "image": "assets/img/food-menu/food-menu-img-72.jpg", "oldPrice": "169,-", "price": "169,-"},
-        {"id": 307, "name": "Kylling Burger", "description": "", "image": "assets/img/food-menu/food-menu-img-73.jpg", "oldPrice": "129,-", "price": "129,-"},
-        {"id": 308, "name": "Fish Burger", "description": "", "image": "assets/img/food-menu/food-menu-img-74.jpg", "oldPrice": "129,-", "price": "129,-"},
-        {"id": 309, "name": "Løvbiff Burger", "description": "", "image": "assets/img/food-menu/food-menu-img-75.jpg", "oldPrice": "129,-", "price": "129,-"}
+        {"id": 300, "name": "Big Burger", "description": "", "image": "assets/img/food-menu/burgerretter.png", "oldPrice": "159,-", "price": "99,-"},
+        {"id": 301, "name": "Big Cheese Burger", "description": "", "image": "assets/img/food-menu/burgerretter.png", "oldPrice": "169,-", "price": "119,-"},
+        {"id": 302, "name": "Hawai Burger", "description": "", "image": "assets/img/food-menu/burgerretter.png", "oldPrice": "179,-", "price": "129,-"},
+        {"id": 303, "name": "Bacon Burger", "description": "", "image": "assets/img/food-menu/burgerretter.png", "oldPrice": "179,-", "price": "129,-"},
+        {"id": 304, "name": "Meksikansk", "description": "", "image": "assets/img/food-menu/burgerretter.png", "oldPrice": "189,-", "price": "139,-"},
+        {"id": 305, "name": "BBQ Burger", "description": "", "image": "assets/img/food-menu/burgerretter.png", "oldPrice": "189,-", "price": "139,-"},
+        {"id": 306, "name": "Biff Burger", "description": "", "image": "assets/img/food-menu/burgerretter.png", "oldPrice": "169,-", "price": "169,-"},
+        {"id": 307, "name": "Kylling Burger", "description": "", "image": "assets/img/food-menu/burgerretter.png", "oldPrice": "", "price": "129,-"},
+        {"id": 308, "name": "Fish Burger", "description": "", "image": "assets/img/food-menu/burgerretter.png", "oldPrice": "129,-", "price": "129,-"},
+        {"id": 309, "name": "Løvbiff Burger", "description": "", "image": "assets/img/food-menu/burgerretter.png", "oldPrice": "129,-", "price": "129,-"}
       ]
     },
       {
       "category": "MIDDAGSRETTER",
       "items": [
-        {"id": 350, "name": "Kebab Middag", "description": "", "image": "assets/img/food-menu/food-menu-img-76.jpg", "oldPrice": "159,- ", "price": "179,-"},
-        {"id": 351, "name": "Kylling Kebab Middag", "description": "", "image": "assets/img/food-menu/food-menu-img-77.jpg", "oldPrice": "209,-", "price": "229,-"},
-        {"id": 352, "name": "Shawarma Middag (Lam/Biff/Kylling)", "description": "", "image": "assets/img/food-menu/food-menu-img-78.jpg", "oldPrice": "209,- ", "price": "229,-"},
-        {"id": 353, "name": "Biffsnadder Middag", "description": "", "image": "assets/img/food-menu/food-menu-img-79.jpg", "oldPrice": "209,- -", "price": "229,-"},
-        {"id": 354, "name": "Fishburger Middag", "description": "", "image": "assets/img/food-menu/food-menu-img-80.jpg", "oldPrice": "189,-", "price": "189,-"},
-        {"id": 355, "name": "Kylling Burger Middag", "description": "", "image": "assets/img/food-menu/food-menu-img-81.jpg", "oldPrice": "189,-", "price": "189,-"},
-        {"id": 356, "name": "Løvbiff Middag M/bernaise saus", "description": "", "image": "assets/img/food-menu/food-menu-img-82.jpg", "oldPrice": "199,-", "price": "199,-"},
-        {"id": 357, "name": "Løvbiff Burger Middag M/brød", "description": "", "image": "assets/img/food-menu/food-menu-img-83.jpg", "oldPrice": "199,-", "price": "199,-"},
-        {"id": 358, "name": "½ Kylling Middag", "description": "", "image": "assets/img/food-menu/food-menu-img-84.jpg", "oldPrice": "199,-", "price": "199,-"},
-        {"id": 359, "name": "Pølser Middag (2 pølser med frites og salat)", "description": "", "image": "assets/img/food-menu/food-menu-img-85.jpg", "oldPrice": "139,-", "price": "139,-"},
-        {"id": 360, "name": "Kylling Nuggets Middag 9 stk.", "description": "", "image": "assets/img/food-menu/food-menu-img-86.jpg", "oldPrice": "179,-", "price": "179,-"},
-        {"id": 361, "name": "Vegetar Nuggets Middag 9 stk.", "description": "", "image": "assets/img/food-menu/food-menu-img-87.jpg", "oldPrice": "169,-", "price": "169,-"},
-        {"id": 362, "name": "Burger Middag", "description": "", "image": "", "oldPrice": "145,- / 165,- / 185,- ", "price": "205,-"},
-        {"id": 363, "name": "Cheeseburger Middag", "description": "", "image": "", "oldPrice": "160,- / 175,- / 195,- ", "price": "215,-"},
-        {"id": 364, "name": "Mexicansk Burger Middag", "description": "", "image": "", "oldPrice": "170,- / 185,- / 205,- ", "price": "225,-"},
-        {"id": 365, "name": "BBQ Burger Middag", "description": "", "image": "", "oldPrice": "170,- / 185,- / 205,- ", "price": "225,-"},
-        {"id": 366, "name": "Biffburger Middag", "description": "", "image": "", "oldPrice": "215,-", "price": "215 Kr"}
+        {"id": 350, "name": "Kebab Middag", "description": "", "image": "assets/img/food-menu/MIDDAGSRETTER.jpeg", "oldPrice": "159,- ", "price": "179,-"},
+        {"id": 351, "name": "Kylling Kebab Middag", "description": "", "image": "assets/img/food-menu/MIDDAGSRETTER.jpeg", "oldPrice": "209,-", "price": "229,-"},
+        {"id": 352, "name": "Shawarma Middag (Lam/Biff/Kylling)", "description": "", "image": "assets/img/food-menu/MIDDAGSRETTER.jpeg", "oldPrice": "209,- ", "price": "229,-"},
+        {"id": 353, "name": "Biffsnadder Middag", "description": "", "image": "assets/img/food-menu/MIDDAGSRETTER.jpeg", "oldPrice": "209,- -", "price": "229,-"},
+        {"id": 354, "name": "Fishburger Middag", "description": "", "image": "assets/img/food-menu/MIDDAGSRETTER.jpeg", "oldPrice": "189,-", "price": "189,-"},
+        {"id": 355, "name": "Kylling Burger Middag", "description": "", "image": "assets/img/food-menu/MIDDAGSRETTER.jpeg", "oldPrice": "189,-", "price": "189,-"},
+        {"id": 356, "name": "Løvbiff Middag M/bernaise saus", "description": "", "image": "assets/img/food-menu/MIDDAGSRETTER.jpeg", "oldPrice": "199,-", "price": "199,-"},
+        {"id": 357, "name": "Løvbiff Burger Middag M/brød", "description": "", "image": "assets/img/food-menu/MIDDAGSRETTER.jpeg", "oldPrice": "199,-", "price": "199,-"},
+        {"id": 358, "name": "½ Kylling Middag", "description": "", "image": "assets/img/food-menu/MIDDAGSRETTER.jpeg", "oldPrice": "199,-", "price": "199,-"},
+        {"id": 359, "name": "Pølser Middag (2 pølser med frites og salat)", "description": "", "image": "assets/img/food-menu/MIDDAGSRETTER.jpeg", "oldPrice": "139,-", "price": "139,-"},
+        {"id": 360, "name": "Kylling Nuggets Middag 9 stk.", "description": "", "image": "assets/img/food-menu/MIDDAGSRETTER.jpeg", "oldPrice": "179,-", "price": "179,-"},
+        {"id": 361, "name": "Vegetar Nuggets Middag 9 stk.", "description": "", "image": "assets/img/food-menu/MIDDAGSRETTER.jpeg", "oldPrice": "169,-", "price": "169,-"},
+        {"id": 362, "name": "Burger Middag", "description": "", "image": "assets/img/food-menu/MIDDAGSRETTER.jpeg", "oldPrice": "145,- / 165,- / 185,- ", "price": "205,-"},
+        {"id": 363, "name": "Cheeseburger Middag", "description": "", "image": "assets/img/food-menu/MIDDAGSRETTER.jpeg", "oldPrice": "160,- / 175,- / 195,- ", "price": "215,-"},
+        {"id": 364, "name": "Mexicansk Burger Middag", "description": "", "image": "assets/img/food-menu/MIDDAGSRETTER.jpeg", "oldPrice": "170,- / 185,- / 205,- ", "price": "225,-"},
+        {"id": 365, "name": "BBQ Burger Middag", "description": "", "image": "assets/img/food-menu/MIDDAGSRETTER.jpeg", "oldPrice": "170,- / 185,- / 205,- ", "price": "225,-"},
+        {"id": 366, "name": "Biffburger Middag", "description": "", "image": "assets/img/food-menu/MIDDAGSRETTER.jpeg", "oldPrice": "215,-", "price": "215 Kr"}
       ]
     },
      {
       "category": "RIS RETTER",
       "items": [
-        {"id": 400, "description": "", "image": "assets/img/food-menu/food-menu-img-93.jpg", "oldPrice": "219,-", "price": "219,-"},
-        {"id": 401, "description": "", "image": "assets/img/food-menu/food-menu-img-94.jpg", "oldPrice": "229,-", "price": "229,-"},
-        {"id": 402, "description": "", "image": "assets/img/food-menu/food-menu-img-95.jpg", "oldPrice": "239,-", "price": "239,-"}
+        {"id": 400, "description": "", "image": "assets/img/food-menu/riseretter.jpg", "oldPrice": "219,-", "price": "219,-"},
+        {"id": 401, "description": "", "image": "assets/img/food-menu/riseretter.jpg", "oldPrice": "229,-", "price": "229,-"},
+        {"id": 402, "description": "", "image": "assets/img/food-menu/riseretter.jpg", "oldPrice": "239,-", "price": "239,-"}
       ]
     },
     {
       "category": "VEGG RETTER",
       "items": [
-        {"id": 450, "description": "", "image": "assets/img/food-menu/food-menu-img-96.jpg", "oldPrice": "85,-", "price": "85,-"},
-        {"id": 451, "description": "", "image": "assets/img/food-menu/food-menu-img-97.jpg", "oldPrice": "90,-", "price": "90,-"},
-        {"id": 452, "description": "", "image": "assets/img/food-menu/food-menu-img-98.jpg", "oldPrice": "129,-", "price": "129,-"},
-        {"id": 453, "description": "", "image": "assets/img/food-menu/food-menu-img-99.jpg", "oldPrice": "129,-", "price": "129,-"},
-        {"id": 454, "description": "", "image": "assets/img/food-menu/food-menu-img-100.jpg", "oldPrice": "139,-", "price": "139,-"}
+        {"id": 450, "description": "", "image": "assets/img/food-menu/vegg.jpeg", "oldPrice": "85,-", "price": "85,-"},
+        {"id": 451, "description": "", "image": "assets/img/food-menu/vegg.jpeg", "oldPrice": "90,-", "price": "90,-"},
+        {"id": 452, "description": "", "image": "assets/img/food-menu/vegg.jpeg", "oldPrice": "129,-", "price": "129,-"},
+        {"id": 453, "description": "", "image": "assets/img/food-menu/vegg.jpeg", "oldPrice": "129,-", "price": "129,-"},
+        {"id": 454, "description": "", "image": "assets/img/food-menu/vegg.jpeg", "oldPrice": "139,-", "price": "139,-"}
       ]
     },
     {
       "category": " SMÅ RETTER",
       "items": [
-        {"id": 500, "description": "", "image": "assets/img/food-menu/food-menu-img-101.jpg", "oldPrice": "70,-", "price": "70,-"},
-        {"id": 501, "description": "", "image": "assets/img/food-menu/food-menu-img-102.jpg", "oldPrice": "109,-", "price": "109,-"},
-        {"id": 502, "description": "", "image": "assets/img/food-menu/food-menu-img-103.jpg", "oldPrice": "129,-", "price": "129,-"},
-        {"id": 503, "description": "", "image": "assets/img/food-menu/food-menu-img-104.jpg", "oldPrice": "129,-", "price": "129,-"},
-        {"id": 504, "description": "", "image": "assets/img/food-menu/food-menu-img-105.jpg", "oldPrice": "129,-", "price": "129,-"},
-        {"id": 505, "description": "", "image": "assets/img/food-menu/food-menu-img-106.jpg", "oldPrice": "129,-", "price": "129,-"},
-        {"id": 506, "description": "", "image": "assets/img/food-menu/food-menu-img-107.jpg", "oldPrice": "129,-", "price": "129,-"}
+        {"id": 500, "description": "", "image": "assets/img/food-menu/smaretter.jpg", "oldPrice": "70,-", "price": "70,-"},
+        {"id": 501, "description": "", "image": "assets/img/food-menu/smaretter.jpg", "oldPrice": "109,-", "price": "109,-"},
+        {"id": 502, "description": "", "image": "assets/img/food-menu/smaretter.jpg", "oldPrice": "129,-", "price": "129,-"},
+        {"id": 503, "description": "", "image": "assets/img/food-menu/smaretter.jpg", "oldPrice": "129,-", "price": "129,-"},
+        {"id": 504, "description": "", "image": "assets/img/food-menu/smaretter.jpg", "oldPrice": "129,-", "price": "129,-"},
+        {"id": 505, "description": "", "image": "assets/img/food-menu/smaretter.jpg", "oldPrice": "129,-", "price": "129,-"},
+        {"id": 506, "description": "", "image": "assets/img/food-menu/smaretter.jpg", "oldPrice": "129,-", "price": "129,-"}
       ]
     },
     {
       "category": "SALATER",
       "items": [
-        {"id": 550, "description": "", "image": "assets/img/food-menu/food-menu-img-108.jpg", "oldPrice": "179,-", "price": "179,-"},
-        {"id": 551, "description": "", "image": "assets/img/food-menu/food-menu-img-109.jpg", "oldPrice": "179,-", "price": "179,-"}
+        {"id": 550, "description": "", "image": "assets/img/food-menu/salater.jpg", "oldPrice": "179,-", "price": "179,-"},
+        {"id": 551, "description": "", "image": "assets/img/food-menu/salater.jpg", "oldPrice": "179,-", "price": "179,-"}
       ]
     },
     {
@@ -527,6 +527,7 @@
       "id": "",
       "name": "Extra Ost",
       "description": "",
+      "image": "assets/img/food-menu/extra.jpg",
       "oldPrice": "",
       "price": "40,-"
     },
@@ -534,6 +535,7 @@
       "id": "",
       "name": "Bernaise Saus",
       "description": "",
+      "image": "assets/img/food-menu/extra.jpg",
       "oldPrice": "",
       "price": "35,-"
     },
@@ -541,6 +543,7 @@
       "id": "",
       "name": "Rømme Dressing",
       "description": "",
+      "image": "assets/img/food-menu/extra.jpg",
       "oldPrice": "",
       "price": "35,-"
     },
@@ -548,6 +551,7 @@
       "id": "",
       "name": "Hvitløk Dressing",
       "description": "",
+      "image": "assets/img/food-menu/extra.jpg",
       "oldPrice": "",
       "price": "35,-"
     },
@@ -555,6 +559,7 @@
       "id": "",
       "name": "Taco Saus",
       "description": "",
+      "image": "assets/img/food-menu/extra.jpg",
       "oldPrice": "",
       "price": "35,-"
     },
@@ -562,6 +567,7 @@
       "id": "",
       "name": "Sterk Saus",
       "description": "",
+      "image": "assets/img/food-menu/extra.jpg",
       "oldPrice": "",
       "price": "35,-"
     },
@@ -569,6 +575,7 @@
       "id": "",
       "name": "Pizza Saus",
       "description": "",
+      "image": "assets/img/food-menu/extra.jpg",
       "oldPrice": "",
       "price": "35,-"
     },
@@ -576,6 +583,7 @@
       "id": "",
       "name": "Ekstra Kjøtt",
       "description": "",
+      "image": "assets/img/food-menu/extra.jpg",
       "oldPrice": "",
       "price": "40,-"
     }
