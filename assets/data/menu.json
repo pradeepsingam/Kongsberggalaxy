@@ -13,7 +13,7 @@
         },
         {
           "id": 2,
-          "name": "Pepperoni",
+          "name": "02. Pepperoni",
           "description": "Pepperoni, ananas",
           "image": "assets/img/food-menu/pizza.png",
           "price2": "Stor:  229",
@@ -21,7 +21,7 @@
         },
         {
           "id": 3,
-          "name": "Felini",
+          "name": "03. Felini",
           "description": "Biff og bernaisesaus",
           "image": "assets/img/food-menu/pizza.png",
           "price2": "Stor:  249",
@@ -29,7 +29,7 @@
         },
         {
           "id": 4,
-          "name": "Hawai",
+          "name": "04. Hawai",
           "description": "Skinke, pepperoni og ananas",
           "image": "assets/img/food-menu/pizza.png",
           "price2": "Stor:  249",
@@ -37,7 +37,7 @@
         },
         {
           "id": 5,
-          "name": "Vegetarian",
+          "name": "05.Vegetarian",
           "description": "Champignon, løk, paprika, oliven, tomat og mais",
           "image": "assets/img/food-menu/pizza.png",
           "price2": "Stor:  219",
@@ -45,7 +45,7 @@
         },
         {
           "id": 6,
-          "name": "New Yok",
+          "name": "06. New Yok",
           "description": "Skinke, kjøttdeig, champignon, løk og bernaisesaus",
           "image": "assets/img/food-menu/pizza.png",
           "price2": "Stor:  249",
@@ -53,7 +53,7 @@
         },
         {
           "id": 7,
-          "name": "Kebab Pizza",
+          "name": "07.Kebab Pizza",
           "description": "Kebabkjøtt, mais og løk",
           "image": "assets/img/food-menu/pizza.png",
           "price2": "Stor:  249",
@@ -61,7 +61,7 @@
         },
         {
           "id": 8,
-          "name": "Taco Pizza",
+          "name": "08. Taco Pizza",
           "description": "Kjøttdeig, mais, løk, paprika og tacosaus",
           "image": "assets/img/food-menu/pizza.png",
           "price2": "Stor:  249",
@@ -69,7 +69,7 @@
         },
         {
           "id": 9,
-          "name": "Baker's",
+          "name": "09. Baker's",
           "description": "Skinke, pepperoni, bacon og løk",
           "image": "assets/img/food-menu/pizza.png",
           "price2": "Stor:  249",
@@ -77,7 +77,7 @@
         },
         {
           "id": 10,
-          "name": "Chicken Pizza",
+          "name": "10. Chicken Pizza",
           "description": "Kylling, ananas, purreløk og paprika",
           "image": "assets/img/food-menu/pizza.png",
           "price2": "Stor:  259",
@@ -85,7 +85,7 @@
         },
         {
           "id": 11,
-          "name": "Miami",
+          "name": "11. Miami",
           "description": "Marinert biff, champignon og paprika",
           "image": "assets/img/food-menu/pizza.png",
           "price2": "Stor:  229",
@@ -93,7 +93,7 @@
         },
         {
           "id": 12,
-          "name": "Ceylon Hot",
+          "name": "12. Ceylon Hot",
           "description": "Marinert biff, løk, paprika, oliven og jalapeno",
           "image": "assets/img/food-menu/pizza.png",
           "price2": "Stor:  259",
@@ -101,7 +101,7 @@
         },
         {
           "id": 13,
-          "name": "American House",
+          "name": "13. American House",
           "description": "Skinke, pepperoni, marinert biff, champig. og løk",
           "image": "assets/img/food-menu/pizza.png",
           "price2": "Stor:  259",
@@ -109,7 +109,7 @@
         },
         {
           "id": 14,
-          "name": "Galaxy Expo",
+          "name": "14. Galaxy Expo",
           "description": "Marinert biff, kjøttdeig, bacon, mais og løk",
           "image": "assets/img/food-menu/pizza.png",
           "price2": "Stor:  259",
@@ -117,7 +117,7 @@
         },
         {
           "id": 15,
-          "name": "Weekend Tandoori Pizza",
+          "name": "15. Weekend Tandoori Pizza",
           "description": "Kylling, løk, mais, paprika, tomat og hvitløk",
           "image": "assets/img/food-menu/pizza.png",
           "price2": "Stor:  259",
@@ -125,7 +125,7 @@
         },
         {
           "id": 16,
-          "name": "Monte Carlos",
+          "name": "16. Monte Carlos",
           "description": "Marinert biff, kjøttdeig, pepperoni, champig. og løk",
           "image": "assets/img/food-menu/pizza.png",
           "price2": "Stor:  259",
@@ -133,7 +133,7 @@
         },
         {
           "id": 17,
-          "name": "Meksikansk Pizza",
+          "name": "17. Meksikansk Pizza",
           "description": "Marinert biff, paprika, jalapen, løk og meksi. krydder",
           "image": "assets/img/food-menu/pizza.png",
           "price2": "Stor:  259",
@@ -141,7 +141,7 @@
         },
         {
           "id": 18,
-          "name": "Kongsberg Spesial",
+          "name": "18. Kongsberg Spesial",
           "description": "Bacon, skinke, løk, tomatskiver og hvitløk",
           "image": "assets/img/food-menu/pizza.png",
           "price2": "Stor:  259",
@@ -149,7 +149,7 @@
         },
         {
           "id": 19,
-          "name": "Mama Rosa",
+          "name": "19. Mama Rosa",
           "description": "Skinke, marinert biff, kjøttdeig, løk, champig og paprika",
           "image": "assets/img/food-menu/pizza.png",
           "price2": "Stor:  259",
@@ -157,7 +157,7 @@
         },
         {
           "id": 20,
-          "name": "Amiho",
+          "name": "20. Amiho",
           "description": "Kjøttdeig, pepperoni, tomat, jalapeno, hvitløk, tacosaus og peppermix",
           "image": "assets/img/food-menu/pizza.png",
           "price2": "Stor:  259",
@@ -165,7 +165,7 @@
         },
         {
           "id": 21,
-          "name": "Napoli",
+          "name": "21. Napoli",
           "description": "Marinert biff, pepperoni, tomat, jalapeno og meksikansk krydder",
           "image": "assets/img/food-menu/pizza.png",
           "price2": "Stor:  259",
@@ -173,7 +173,7 @@
         },
         {
           "id": 22,
-          "name": "Asteka",
+          "name": "22. Asteka",
           "description": "Skinke, pepperoni, kjøttdeig, tomatskiver, jalapeno, meksikansk krydder",
           "image": "assets/img/food-menu/pizza.png",
           "price2": "Stor:  259",
@@ -181,7 +181,7 @@
         },
         {
           "id": 23,
-          "name": "Half Half",
+          "name": "23. Half Half",
           "description": "Velg fritt 2 pizza",
           "image": "assets/img/food-menu/pizza.png",
           "price2": "Stor:  259",
@@ -189,7 +189,7 @@
         },
         {
           "id": 24,
-          "name": "Galaxy Spesial",
+          "name": "24. Galaxy Spesial",
           "description": "Pølser, skinke, bacon, løk og paprika",
           "image": "assets/img/food-menu/pizza.png",
           "price2": "Stor:  259",
@@ -197,7 +197,7 @@
         },
         {
           "id": 25,
-          "name": "Kylling Spesial",
+          "name": "25. Kylling Spesial",
           "description": "Marinert kylling, skinke, bacon og ananas",
           "image": "assets/img/food-menu/pizza.png",
           "price2": "Stor:  259",
@@ -205,7 +205,7 @@
         },
         {
           "id": 26,
-          "name": "Galaxy Mix",
+          "name": "26.Galaxy Mix",
           "description": "Marinert kylling, marinert biff, marinert kjøttdeig, bacon, rødløk og purreløk",
           "image": "assets/img/food-menu/pizza.png",
           "price2": "Stor:  279",
@@ -213,7 +213,7 @@
         },
         {
           "id": 27,
-          "name": "Lag Din Egen",
+          "name": "27. Lag Din Egen",
           "description": "Velg fritt i vårt 6 utvalgt av garnityr",
           "image": "assets/img/food-menu/pizza.png",
           "price2": "Stor:  289",
@@ -221,7 +221,7 @@
         },
         {
           "id": 28,
-          "name": "Morten Pizza",
+          "name": "28. Morten Pizza",
           "description": "Skinke, pepperoni, kylling og biff",
           "image": "assets/img/food-menu/pizza.png",
           "price2": "Stor:  279",
@@ -234,7 +234,7 @@
       "items": [
         {
           "id": 51,
-          "name": "Margherita",
+          "name": "29. Margherita",
           "description": "Pizza sauce, mozzarella, and olive oil",
           "image": "assets/img/food-menu/pizza.png",
           "price2": "Stor:  180",
@@ -242,7 +242,7 @@
         },
         {
           "id": 52,
-          "name": "Veggie",
+          "name": "30. Veggie",
           "description": "Sun-dried cherry tomatoes, red onion, green pepper, mushrooms, and olives",
           "image": "assets/img/food-menu/pizza.png",
           "price2": "Stor:  219",
@@ -250,7 +250,7 @@
         },
         {
           "id": 53,
-          "name": "Parma",
+          "name": "31. Parma",
           "description": "Tomato, cheese, parmesan, pine nuts, parma ham, and arugula (added after baking)",
           "image": "assets/img/food-menu/pizza.png",
           "price2": "Stor:  279",
@@ -258,7 +258,7 @@
         },
         {
           "id": 55,
-          "name": "Cheesy Bacon",
+          "name": "32. Cheesy Bacon",
           "description": "Bacon, cheddar, mozzarella, and sauce",
           "image": "assets/img/food-menu/pizza.png",
           "price2": "Stor:  229",
@@ -266,7 +266,7 @@
         },
         {
           "id": 56,
-          "name": "Bahamas",
+          "name": "33. Bahamas",
           "description": "Ham, bacon, mozzarella, sauce",
           "image": "assets/img/food-menu/pizza.png",
           "price2": "Stor:  259",
@@ -274,7 +274,7 @@
         },
         {
           "id": 57,
-          "name": "Salame",
+          "name": "34. Salame",
           "description": "Tomato, sauce, mozzarella, salami, olives, red onion, and oregano",
           "image": "assets/img/food-menu/pizza.png",
           "price2": "Stor:  239",
@@ -282,7 +282,7 @@
         },
         {
           "id": 58,
-          "name": "Primo",
+          "name": "35. Primo",
           "description": "Marinated chicken, marinated beef, bacon, red onion, mozzarella, and sauce",
           "image": "assets/img/food-menu/pizza.png",
           "price2": "Stor:  279",
@@ -290,7 +290,7 @@
         },
         {
           "id": 59,
-          "name": "Rustica",
+          "name": "36. Rustica",
           "description": "Sauce, mozzarella, garlic, pepperoni, and oregano",
           "image": "assets/img/food-menu/pizza.png",
           "price2": "Stor:  229",
@@ -298,7 +298,7 @@
         },
         {
           "id": 60,
-          "name": "Tacoram",
+          "name": "37. Tacoram",
           "description": "Beef, jalapeños, peppers, corn, nacho chips, mozzarella, and sauce",
           "image": "assets/img/food-menu/pizza.png",
           "price2": "Stor:  259",
@@ -306,7 +306,7 @@
         },
         {
           "id": 61,
-          "name": "BBQ Chicken",
+          "name": "38. BBQ Chicken",
           "description": "Chicken, red onion, mozzarella, topped with cheddar and BBQ sauce",
           "image": "assets/img/food-menu/pizza.png",
           "price2": "Stor:  259",
@@ -314,7 +314,7 @@
         },
         {
           "id": 62,
-          "name": "Lag Din Egen",
+          "name": "39.Lag Din Egen",
           "description": "",
           "image": "assets/img/food-menu/pizza.png",
           "price2": "Stor:  289",
@@ -327,42 +327,42 @@
       "items": [
         {
           "id": 100,
-          "name": "Skinke (Ham)",
+          "name": "40. Skinke (Ham)",
           "description": "Includes iceberg lettuce, corn, cucumber, tomato, and onion",
           "image": "assets/img/food-menu/pizza.png",
           "price1": "  159"
         },
         {
           "id": 101,
-          "name": "Peproni (Pepperoni)",
+          "name": "41. Peproni (Pepperoni)",
           "description": "Includes iceberg lettuce, corn, cucumber, tomato, and onion",
           "image": "assets/img/food-menu/pizza.png",
           "price1": "  159"
         },
         {
           "id": 102,
-          "name": "Skinke & Pepperoni",
+          "name": "42. Skinke & Pepperoni",
           "description": "Includes iceberg lettuce, corn, cucumber, tomato, and onion",
           "image": "assets/img/food-menu/pizza.png",
           "price1": "  169"
         },
         {
           "id": 103,
-          "name": "Biff (Beef)",
+          "name": "43. Biff (Beef)",
           "description": "Includes iceberg lettuce, corn, cucumber, tomato, and onion",
           "image": "assets/img/food-menu/pizza.png",
           "price1": "  179"
         },
         {
           "id": 104,
-          "name": "Kylling (Chicken)",
+          "name": "44. Kylling (Chicken)",
           "description": "Includes iceberg lettuce, corn, cucumber, tomato, and onion",
           "image": "assets/img/food-menu/pizza.png",
           "price1": "  179"
         },
         {
           "id": 105,
-          "name": "Kebab",
+          "name": "45. Kebab",
           "description": "Includes iceberg lettuce, corn, cucumber, tomato, and onion",
           "image": "assets/img/food-menu/pizza.png",
           "price1": "  179"
@@ -374,35 +374,35 @@
       "items": [
         {
           "id": 150,
-          "name": "Calzone",
+          "name": "46. Calzone",
           "description": "Cheese and ham",
           "image": "assets/img/food-menu/pizza.png",
           "price1": "  149"
         },
         {
           "id": 151,
-          "name": "UFO",
+          "name": "47. UFO",
           "description": "Minced meat, ham, pepperoni, and mushrooms",
           "image": "assets/img/food-menu/pizza.png",
           "price1": "  159"
         },
         {
           "id": 152,
-          "name": "Capri",
+          "name": "48. Capri",
           "description": "Pepperoni, minced meat, and onion",
           "image": "assets/img/food-menu/pizza.png",
           "price1": "  169"
         },
         {
           "id": 153,
-          "name": "Roma",
+          "name": "49. Roma",
           "description": "Marinated beef, ham, peppers, and Mexican spices",
           "image": "assets/img/food-menu/pizza.png",
           "price1": "  179"
         },
         {
           "id": 154,
-          "name": "Acapulco",
+          "name": "50. Acapulco",
           "description": "Marinated beef, ham, jalapeño, and Mexican spices",
           "image": "assets/img/food-menu/pizza.png",
           "price1": "  179"
@@ -414,7 +414,7 @@
       "items": [
         {
           "id": 200,
-          "name": "Kebab i Pita",
+          "name": "51. Kebab i Pita",
           "description": "",
           "image": "assets/img/food-menu/kebab-retter.jpg",
           "price2": "Stor:  125",
@@ -422,7 +422,7 @@
         },
         {
           "id": 201,
-          "name": "Döner i Pita",
+          "name": "52. Döner i Pita",
           "description": "",
           "image": "assets/img/food-menu/kebab-retter.jpg",
           "price2": "Stor:  155",
@@ -430,7 +430,7 @@
         },
         {
           "id": 202,
-          "name": "Kylling Kebab i Pita",
+          "name": "53. Kylling Kebab i Pita",
           "description": "",
           "image": "assets/img/food-menu/kebab-retter.jpg",
           "price2": "Stor:  155",
@@ -438,7 +438,7 @@
         },
         {
           "id": 203,
-          "name": "Biff Kebab i Pita",
+          "name": "54. Biff Kebab i Pita",
           "description": "",
           "image": "assets/img/food-menu/kebab-retter.jpg",
           "price2": "Stor:  165",
@@ -446,7 +446,7 @@
         },
         {
           "id": 204,
-          "name": "Shawarma Kebab i Pita",
+          "name": "55. Shawarma Kebab i Pita",
           "description": "",
           "image": "assets/img/food-menu/kebab-retter.jpg",
           "price2": "Stor:  165",
@@ -454,7 +454,7 @@
         },
         {
           "id": 205,
-          "name": "Mix Kebab i Pita",
+          "name": "56. Mix Kebab i Pita",
           "description": "",
           "image": "assets/img/food-menu/kebab-retter.jpg",
           "price2": "Stor:  175",
@@ -462,7 +462,7 @@
         },
         {
           "id": 206,
-          "name": "Kebab Rull",
+          "name": "57. Kebab Rull",
           "description": "",
           "image": "assets/img/food-menu/kebab-retter.jpg",
           "price2": "Stor:  145",
@@ -470,7 +470,7 @@
         },
         {
           "id": 207,
-          "name": "Döner Rull",
+          "name": "58. Döner Rull",
           "description": "",
           "image": "assets/img/food-menu/kebab-retter.jpg",
           "price2": "Stor:  170",
@@ -478,7 +478,7 @@
         },
         {
           "id": 208,
-          "name": "Kylling Rull",
+          "name": "59. Kylling Rull",
           "description": "",
           "image": "assets/img/food-menu/kebab-retter.jpg",
           "price2": "Stor:  170",
@@ -486,7 +486,7 @@
         },
         {
           "id": 209,
-          "name": "Biff Rull",
+          "name": "60. Biff Rull",
           "description": "",
           "image": "assets/img/food-menu/kebab-retter.jpg",
           "price2": "Stor:  170",
@@ -494,7 +494,7 @@
         },
         {
           "id": 210,
-          "name": "Shish Kebab Rull (Lam)",
+          "name": "61. Shish Kebab Rull (Lam)",
           "description": "",
           "image": "assets/img/food-menu/kebab-retter.jpg",
           "price2": "Stor:  170",
@@ -502,7 +502,7 @@
         },
         {
           "id": 211,
-          "name": "Mix Rull",
+          "name": "62. Mix Rull",
           "description": "",
           "image": "assets/img/food-menu/kebab-retter.jpg",
           "price2": "Stor:  180",
@@ -515,21 +515,21 @@
       "items": [
         {
           "id": 250,
-          "name": "Burger Middag (100g).",
+          "name": "63. Burger Middag (100g).",
           "description": "",
           "image": "assets/img/food-menu/barnemeny.jpeg",
           "price1": "  129"
         },
         {
           "id": 251,
-          "name": "Kebab Middag",
+          "name": "64. Kebab Middag",
           "description": "",
           "image": "assets/img/food-menu/barnemeny.jpeg",
           "price1": "  129"
         },
         {
           "id": 252,
-          "name": "Pølser Middag",
+          "name": "65. Pølser Middag",
           "description": "",
           "image": "assets/img/food-menu/barnemeny.jpeg",
           "price1": "  129"
@@ -541,7 +541,7 @@
       "items": [
         {
           "id": 300,
-          "name": "Big Burger",
+          "name": "66. Big Burger",
           "description": "",
           "image": "assets/img/food-menu/burgerretter.png",
           "price1": "100g:  99",
@@ -551,7 +551,7 @@
         },
         {
           "id": 301,
-          "name": "Big Cheese Burger",
+          "name": "67. Big Cheese Burger",
           "description": "",
           "image": "assets/img/food-menu/burgerretter.png",
           "price1": "100g:  119",
@@ -561,7 +561,7 @@
         },
         {
           "id": 302,
-          "name": "Hawai Burger",
+          "name": "68. Hawai Burger",
           "description": "",
           "image": "assets/img/food-menu/burgerretter.png",
           "price1": "100g:  129",
@@ -571,7 +571,7 @@
         },
         {
           "id": 303,
-          "name": "Bacon Burger",
+          "name": "69. Bacon Burger",
           "description": "",
           "image": "assets/img/food-menu/burgerretter.png",
           "price1": "100g:  129",
@@ -581,7 +581,7 @@
         },
         {
           "id": 304,
-          "name": "Meksikansk",
+          "name": "70. Meksikansk",
           "description": "",
           "image": "assets/img/food-menu/burgerretter.png",
           "price1": "100g:  139",
@@ -591,7 +591,7 @@
         },
         {
           "id": 305,
-          "name": "BBQ Burger",
+          "name": "71. BBQ Burger",
           "description": "",
           "image": "assets/img/food-menu/burgerretter.png",
           "price1": "100g:  139",
@@ -601,28 +601,28 @@
         },
         {
           "id": 306,
-          "name": "Biff Burger",
+          "name": "72. Biff Burger",
           "description": "",
           "image": "assets/img/food-menu/burgerretter.png",
           "price1": "160g:  169"
         },
         {
           "id": 307,
-          "name": "Kylling Burger",
+          "name": "73. Kylling Burger",
           "description": "",
           "image": "assets/img/food-menu/burgerretter.png",
           "price1": "160g:  129"
         },
         {
           "id": 308,
-          "name": "Fish Burger",
+          "name": "74. Fish Burger",
           "description": "",
           "image": "assets/img/food-menu/burgerretter.png",
           "price1": "160g:  129"
         },
         {
           "id": 309,
-          "name": "Løvbiff Burger",
+          "name": "75. Løvbiff Burger",
           "description": "",
           "image": "assets/img/food-menu/burgerretter.png",
           "price1": "160g:  129"
@@ -740,7 +740,7 @@
         },
         {
           "id": 363,
-          "name": "Cheeseburger Middag",
+          "name": "89. Cheeseburger Middag",
           "description": "",
           "image": "assets/img/food-menu/MIDDAGSRETTER.jpeg",
           "price1": "100g:  160",
@@ -750,7 +750,7 @@
         },
         {
           "id": 364,
-          "name": "Mexicansk Burger Middag",
+          "name": "90. Mexicansk Burger Middag",
           "description": "",
           "image": "assets/img/food-menu/MIDDAGSRETTER.jpeg",
           "price1": "100g:  170",
@@ -760,7 +760,7 @@
         },
         {
           "id": 365,
-          "name": "BBQ Burger Middag",
+          "name": "91. BBQ Burger Middag",
           "description": "",
           "image": "assets/img/food-menu/MIDDAGSRETTER.jpeg",
           "price1": "100g:  170",
@@ -770,7 +770,7 @@
         },
         {
           "id": 366,
-          "name": "Biffburger Middag",
+          "name": "92. Biffburger Middag",
           "description": "",
           "image": "assets/img/food-menu/MIDDAGSRETTER.jpeg",
           "price1": "160g:  215"
@@ -782,18 +782,21 @@
       "items": [
         {
           "id": 400,
+          "name": "93. ",
           "description": "",
           "image": "assets/img/food-menu/riseretter.jpg",
           "price1": "  219"
         },
         {
           "id": 401,
+          "name": "94. ",
           "description": "",
           "image": "assets/img/food-menu/riseretter.jpg",
           "price1": "  229"
         },
         {
           "id": 402,
+          "name": "95. ",
           "description": "",
           "image": "assets/img/food-menu/riseretter.jpg",
           "price1": "  239"
@@ -805,30 +808,35 @@
       "items": [
         {
           "id": 450,
+          "name": "96. ",
           "description": "",
           "image": "assets/img/food-menu/vegg.jpeg",
           "price1": "  85"
         },
         {
           "id": 451,
+          "name": "97. ",
           "description": "",
           "image": "assets/img/food-menu/vegg.jpeg",
           "price1": "  90"
         },
         {
           "id": 452,
+          "name": "98. ",
           "description": "",
           "image": "assets/img/food-menu/vegg.jpeg",
           "price1": "  129"
         },
         {
           "id": 453,
+          "name": "99. ",
           "description": "",
           "image": "assets/img/food-menu/vegg.jpeg",
           "price1": "  129"
         },
         {
           "id": 454,
+          "name": "100. ",
           "description": "",
           "image": "assets/img/food-menu/vegg.jpeg",
           "price1": "  139"
@@ -840,42 +848,49 @@
       "items": [
         {
           "id": 500,
+          "name": "101. ",
           "description": "",
           "image": "assets/img/food-menu/smaretter.jpg",
           "price1": "  70"
         },
         {
           "id": 501,
+          "name": "102. ",
           "description": "",
           "image": "assets/img/food-menu/smaretter.jpg",
           "price1": "  109"
         },
         {
           "id": 502,
+          "name": "103. ",
           "description": "",
           "image": "assets/img/food-menu/smaretter.jpg",
           "price1": "  129"
         },
         {
           "id": 503,
+          "name": "104. ",
           "description": "",
           "image": "assets/img/food-menu/smaretter.jpg",
           "price1": "  129"
         },
         {
           "id": 504,
+          "name": "105. ",
           "description": "",
           "image": "assets/img/food-menu/smaretter.jpg",
           "price1": "  129"
         },
         {
           "id": 505,
+          "name": "106. ",
           "description": "",
           "image": "assets/img/food-menu/smaretter.jpg",
           "price1": "  129"
         },
         {
           "id": 506,
+          "name": "107. ",
           "description": "",
           "image": "assets/img/food-menu/smaretter.jpg",
           "price1": "  129"
@@ -887,12 +902,14 @@
       "items": [
         {
           "id": 550,
+          "name": "108. ",
           "description": "",
           "image": "assets/img/food-menu/salater.jpg",
           "price1": "  179"
         },
         {
           "id": 551,
+          "name": "109. ",
           "description": "",
           "image": "assets/img/food-menu/salater.jpg",
           "price1": "  179"
