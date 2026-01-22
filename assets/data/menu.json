@@ -1,244 +1,590 @@
 {
   "menu": [
-    {
-      "category": "party",
+  {
+      "category": " Amerikansk Pizza",
       "items": [
         {
           "id": 1,
-          "name": "Chicken Nuggets2",
-          "description": "6 stk. Chicken nuggets med pommes frites",
-          "image": "assets/img/food-menu/food-menu-img-3-2.jpg",
-          "oldPrice": "Stor: 139 kr",
-          "price": "119 kr"
+          "name": "Norwegian Man",
+          "description": "Skinke, champignon",
+          "image": "assets/img/food-menu/food-menu-img-1.jpg",
+          "oldPrice": "Stor: 229,-",
+          "price": "M: 185 Kr"
         },
         {
           "id": 2,
-          "name": "Chicken Nuggets",
-          "description": "6 stk. Chicken nuggets med pommes frites",
-          "image": "assets/img/food-menu/food-menu-img-3-2.jpg",
-          "oldPrice": "Stor: 139 kr",
-          "price": "119 kr"
+          "name": "Pepperoni",
+          "description": "Pepperoni, ananas",
+          "image": "assets/img/food-menu/food-menu-img-2.jpg",
+          "oldPrice": "Stor: 229,-",
+          "price": "M: 185 Kr"
         },
         {
           "id": 3,
-          "name": "Chicken Nuggets",
-          "description": "6 stk. Chicken nuggets med pommes frites",
-          "image": "assets/img/food-menu/food-menu-img-3-2.jpg",
-          "oldPrice": "Stor: 139 kr",
-          "price": "119 kr"
+          "name": "Felini",
+          "description": "Biff og bernaisesaus",
+          "image": "assets/img/food-menu/food-menu-img-3.jpg",
+          "oldPrice": "Stor: 249,-",
+          "price": "Medium: 195,-"
         },
         {
           "id": 4,
-          "name": "Chicken Nuggets",
-          "description": "6 stk. Chicken nuggets med pommes frites",
-          "image": "assets/img/food-menu/food-menu-img-3-2.jpg",
-          "oldPrice": "Stor: 139 kr",
-          "price": "119 kr"
+          "name": "Hawai",
+          "description": "Skinke, pepperoni og ananas",
+          "image": "assets/img/food-menu/food-menu-img-4.jpg",
+          "oldPrice": "Stor: 249,-",
+          "price": "Medium: 195,-"
         },
         {
           "id": 5,
-          "name": "Chicken Nuggets",
-          "description": "6 stk. Chicken nuggets med pommes frites",
-          "image": "assets/img/food-menu/food-menu-img-3-2.jpg",
-          "oldPrice": "Stor: 139 kr",
-          "price": "119 kr"
+          "name": "Vegetarian",
+          "description": "Champignon, løk, paprika, oliven, tomat og mais",
+          "image": "assets/img/food-menu/food-menu-img-5.jpg",
+          "oldPrice": "Stor: 219,-",
+          "price": "Medium: 179,-"
         },
         {
           "id": 6,
-          "name": "Chicken Nuggets",
-          "description": "6 stk. Chicken nuggets med pommes frites",
-          "image": "assets/img/food-menu/food-menu-img-3-2.jpg",
-          "oldPrice": "Stor: 139 kr",
-          "price": "119 kr"
+          "name": "New Yok",
+          "description": "Skinke, kjøttdeig, champignon, løk og bernaisesaus",
+          "image": "assets/img/food-menu/food-menu-img-6.jpg",
+          "oldPrice": "Stor: 249,-",
+          "price": "Medium: 195,-"
+        },
+        {
+          "id": 7,
+          "name": "Kebab Pizza",
+          "description": "Kebabkjøtt, mais og løk",
+          "image": "assets/img/food-menu/food-menu-img-7.jpg",
+          "oldPrice": "Stor: 249,-",
+          "price": "Medium: 195,-"
+        },
+        {
+          "id": 8,
+          "name": "Taco Pizza",
+          "description": "Kjøttdeig, mais, løk, paprika og tacosaus",
+          "image": "assets/img/food-menu/food-menu-img-8.jpg",
+          "oldPrice": "Stor: 249,-",
+          "price": "Medium: 195,-"
+        },
+        {
+          "id": 9,
+          "name": "Baker's",
+          "description": "Skinke, pepperoni, bacon og løk",
+          "image": "assets/img/food-menu/food-menu-img-9.jpg",
+          "oldPrice": "Stor: 249,-",
+          "price": "Medium: 195,-"
+        },
+        {
+          "id": 10,
+          "name": "Chicken Pizza",
+          "description": "Kylling, ananas, purreløk og paprika",
+          "image": "assets/img/food-menu/food-menu-img-10.jpg",
+          "oldPrice": "Stor: 259,-",
+          "price": "Medium: 215,-"
+        },
+      
+        {
+          "id": 11,
+          "name": "Miami",
+          "description": "Marinert biff, champignon og paprika",
+          "image": "assets/img/food-menu/food-menu-img-11.jpg",
+          "oldPrice": "Stor: 259,-",
+          "price": "Medium: 219,-"
+        },
+        {
+          "id": 12,
+          "name": "Ceylon Hot",
+          "description": "Marinert biff, løk, paprika, oliven og jalapeno",
+          "image": "assets/img/food-menu/food-menu-img-12.jpg",
+          "oldPrice": "Stor: 259,-",
+          "price": "Medium: 219,-"
+        },
+        {
+          "id": 13,
+          "name": "American House",
+          "description": "Skinke, pepperoni, marinert biff, champig. og løk",
+          "image": "assets/img/food-menu/food-menu-img-13.jpg",
+          "oldPrice": "Stor: 259,-",
+          "price": "Medium: 219,-"
+        },
+        {
+          "id": 14,
+          "name": "Galaxy Expo",
+          "description": "Marinert biff, kjøttdeig, bacon, mais og løk",
+          "image": "assets/img/food-menu/food-menu-img-14.jpg",
+          "oldPrice": "Stor: 259,-",
+          "price": "Medium: 219,-"
+        },
+        {
+          "id": 15,
+          "name": "Weekend Tandoori Pizza",
+          "description": "Kylling, løk, mais, paprika, tomat og hvitløk",
+          "image": "assets/img/food-menu/food-menu-img-15.jpg",
+          "oldPrice": "Stor: 259,-",
+          "price": "Medium: 219,-"
+        },
+        {
+          "id": 16,
+          "name": "Monte Carlos",
+          "description": "Marinert biff, kjøttdeig, pepperoni, champig. og løk",
+          "image": "assets/img/food-menu/food-menu-img-16.jpg",
+          "oldPrice": "Stor: 259,-",
+          "price": "Medium: 219,-"
+        },
+        {
+          "id": 17,
+          "name": "Meksikansk Pizza",
+          "description": "Marinert biff, paprika, jalapen, løk og meksi. krydder",
+          "image": "assets/img/food-menu/food-menu-img-17.jpg",
+          "oldPrice": "Stor: 259,-",
+          "price": "Medium: 219,-"
+        },
+        {
+          "id": 18,
+          "name": "Kongsberg Spesial",
+          "description": "Bacon, skinke, løk, tomatskiver og hvitløk",
+          "image": "assets/img/food-menu/food-menu-img-18.jpg",
+          "oldPrice": "Stor: 259,-",
+          "price": "Medium: 219,-"
+        },
+        {
+          "id": 19,
+          "name": "Mama Rosa",
+          "description": "Skinke, marinert biff, kjøttdeig, løk, champig og paprika",
+          "image": "assets/img/food-menu/food-menu-img-19.jpg",
+          "oldPrice": "Stor: 259,-",
+          "price": "Medium: 219,-"
+        },
+        {
+          "id": 20,
+          "name": "Amiho",
+          "description": "Kjøttdeig, pepperoni, tomat, jalapeno, hvitløk, tacosaus og peppermix",
+          "image": "assets/img/food-menu/food-menu-img-20.jpg",
+          "oldPrice": "Stor: 259,-",
+          "price": "Medium: 219,-"
+        },
+        {
+          "id": 21,
+          "name": "Napoli",
+          "description": "Marinert biff, pepperoni, tomat, jalapeno og meksikansk krydder",
+          "image": "assets/img/food-menu/food-menu-img-21.jpg",
+          "oldPrice": "Stor: 259,-",
+          "price": "Medium: 219,-"
+        },
+        {
+          "id": 22,
+          "name": "Asteka",
+          "description": "Skinke, pepperoni, kjøttdeig, tomatskiver, jalapeno, meksikansk krydder",
+          "image": "assets/img/food-menu/food-menu-img-22.jpg",
+          "oldPrice": "Stor: 259,-",
+          "price": "Medium: 219,-"
+        },
+        {
+          "id": 23,
+          "name": "Half Half",
+          "description": "Velg fritt 2 pizza",
+          "image": "assets/img/food-menu/food-menu-img-23.jpg",
+          "oldPrice": "Stor: 289,-",
+          "price": "Medium: 245,-"
+        },
+        {
+          "id": 24,
+          "name": "Galaxy Spesial",
+          "description": "Pølser, skinke, bacon, løk og paprika",
+          "image": "assets/img/food-menu/food-menu-img-24.jpg",
+          "oldPrice": "Stor: 259,-",
+          "price": "Medium: 219,-"
+        },
+        {
+          "id": 25,
+          "name": "Kylling Spesial",
+          "description": "Marinert kylling, skinke, bacon og ananas",
+          "image": "assets/img/food-menu/food-menu-img-25.jpg",
+          "oldPrice": "Stor: 259,-",
+          "price": "Medium: 219,-"
+        },
+        {
+          "id": 26,
+          "name": "Galaxy Mix",
+          "description": "Marinert kylling, marinert biff, marinert kjøttdeig, bacon, rødløk og purreløk",
+          "image": "assets/img/food-menu/food-menu-img-26.jpg",
+          "oldPrice": "Stor: 279,-",
+          "price": "Medium: 235,-"
+        },
+        {
+          "id": 27,
+          "name": "Lag Din Egen",
+          "description": "Velg fritt i vårt 6 utvalgt av garnityr",
+          "image": "assets/img/food-menu/food-menu-img-27.jpg",
+          "oldPrice": "Stor: 289,-",
+          "price": "Medium: 245,-"
+        },
+        {
+          "id": 28,
+          "name": "Morten Pizza",
+          "description": "Skinke, pepperoni, kylling og biff",
+          "image": "assets/img/food-menu/food-menu-img-28.jpg",
+          "oldPrice": "Stor: 279,-",
+          "price": "Medium: 235,-"
         }
       ]
     },
-    {
-      "category": "breakfast",
+     {
+      "category": " Italiensk Pizza",
+      "items": [
+        {
+          "id": 51,
+          "name": "Margherita",
+          "description": "Pizza sauce, mozzarella, and olive oil",
+          "image": "assets/img/food-menu/food-menu-img-29.jpg",
+          "oldPrice": "Stor: 180,-",
+          "price": "Medium: 160,-"
+        },
+        {
+          "id": 52,
+          "name": "Veggie",
+          "description": "Sun-dried cherry tomatoes, red onion, green pepper, mushrooms, and olives",
+          "image": "assets/img/food-menu/food-menu-img-30.jpg",
+          "oldPrice": "Stor: 219,-",
+          "price": "Medium: 179,-"
+        },
+        {
+          "id": 53,
+          "name": "Parma",
+          "description": "Tomato, cheese, parmesan, pine nuts, parma ham, and arugula (added after baking)",
+          "image": "assets/img/food-menu/food-menu-img-31.jpg",
+          "oldPrice": "Stor: 279,-",
+          "price": "Medium: 235,-"
+        },
+        {
+          "id": 55,
+          "name": "Cheesy Bacon",
+          "description": "Bacon, cheddar, mozzarella, and sauce",
+          "image": "assets/img/food-menu/food-menu-img-32.jpg",
+          "oldPrice": "Stor: 229,-",
+          "price": "Medium: 185,-"
+        },
+        {
+          "id": 56,
+          "name": "Bahamas",
+          "description": "Ham, bacon, mozzarella, sauce",
+          "image": "assets/img/food-menu/food-menu-img-33.jpg",
+          "oldPrice": "Stor: 259,-",
+          "price": "Medium: 219,-"
+        },
+        {
+          "id": 57,
+          "name": "Salame",
+          "description": "Tomato, sauce, mozzarella, salami, olives, red onion, and oregano",
+          "image": "assets/img/food-menu/food-menu-img-34.jpg",
+          "oldPrice": "Stor: 239,-",
+          "price": "Medium: 185,-"
+        },
+        {
+          "id": 58,
+          "name": "Primo",
+          "description": "Marinated chicken, marinated beef, bacon, red onion, mozzarella, and sauce",
+          "image": "assets/img/food-menu/food-menu-img-35.jpg",
+          "oldPrice": "Stor: 279,-",
+          "price": "Medium: 235,-"
+        },
+        {
+          "id": 59,
+          "name": "Rustica",
+          "description": "Sauce, mozzarella, garlic, pepperoni, and oregano",
+          "image": "assets/img/food-menu/food-menu-img-36.jpg",
+          "oldPrice": "Stor: 229,-",
+          "price": "Medium: 209,-"
+        },
+        {
+          "id": 60,
+          "name": "Tacoram",
+          "description": "Beef, jalapeños, peppers, corn, nacho chips, mozzarella, and sauce",
+          "image": "assets/img/food-menu/food-menu-img-37.jpg",
+          "oldPrice": "Stor: 259,-",
+          "price": "Medium: 219,-"
+        },
+        {
+          "id": 61,
+          "name": "BBQ Chicken",
+          "description": "Chicken, red onion, mozzarella, topped with cheddar and BBQ sauce",
+          "image": "assets/img/food-menu/food-menu-img-38.jpg",
+          "oldPrice": "Stor: 259,-",
+          "price": "Medium: 219,-"
+        },
+        {
+          "id": 62,
+          "name": "Lag Din Egen (Create your own)",
+          "description": "",
+          "image": "assets/img/food-menu/food-menu-img-39.jpg",
+          "oldPrice": "Stor: 289,-",
+          "price": "Medium: 245,-"
+        }
+      ]
+    },
+     {
+      "category": "Pizzarull (Pizza Rolls)",
       "items": [
         {
           "id": 100,
-          "name": "Chicken Nuggets",
-          "description": "6 stk. Chicken nuggets med pommes frites",
-          "image": "assets/img/food-menu/food-menu-img-3-2.jpg",
-          "oldPrice": "Stor: 139 kr",
-          "price": "119 kr"
-        }, {
+          "name": "Skinke (Ham)",
+          "description": "Includes iceberg lettuce, corn, cucumber, tomato, and onion",
+          "image": "assets/img/food-menu/food-menu-img-40.jpg",
+          "oldPrice": "159,-",
+          "price": "159,-"
+        },
+        {
           "id": 101,
-          "name": "Chicken 101",
-          "description": "6 stk. Chicken nuggets med pommes frites",
-          "image": "assets/img/food-menu/food-menu-img-3-2.jpg",
-          "oldPrice": "Stor: 139 kr",
-          "price": "101 kr"
+          "name": "Peproni (Pepperoni)",
+          "description": "Includes iceberg lettuce, corn, cucumber, tomato, and onion",
+          "image": "assets/img/food-menu/food-menu-img-41.jpg",
+          "oldPrice": "159,-",
+          "price": "159,-"
+        },
+        {
+          "id": 102,
+          "name": "Skinke & Pepperoni",
+          "description": "Includes iceberg lettuce, corn, cucumber, tomato, and onion",
+          "image": "assets/img/food-menu/food-menu-img-42.jpg",
+          "oldPrice": "169,-",
+          "price": "169,-"
+        },
+        {
+          "id": 103,
+          "name": "Biff (Beef)",
+          "description": "Includes iceberg lettuce, corn, cucumber, tomato, and onion",
+          "image": "assets/img/food-menu/food-menu-img-43.jpg",
+          "oldPrice": "179,-",
+          "price": "179,-"
+        },
+        {
+          "id": 104,
+          "name": "Kylling (Chicken)",
+          "description": "Includes iceberg lettuce, corn, cucumber, tomato, and onion",
+          "image": "assets/img/food-menu/food-menu-img-44.jpg",
+          "oldPrice": "179,-",
+          "price": "179,-"
+        },
+        {
+          "id": 105,
+          "name": "Kebab",
+          "description": "Includes iceberg lettuce, corn, cucumber, tomato, and onion",
+          "image": "assets/img/food-menu/food-menu-img-45.jpg",
+          "oldPrice": "179,-",
+          "price": "179,-"
         }
       ]
     },
     {
-      "category": "lunch",
+      "category": "Innbakt Pizza (Calzones)",
       "items": [
         {
-          "id": 200,
-          "name": "Chicken Nuggets",
-          "description": "6 stk. Chicken nuggets med pommes frites",
-          "image": "assets/img/food-menu/food-menu-img-3-2.jpg",
-          "oldPrice": "Stor: 139 kr",
-          "price": "119 kr"
+          "id": 150,
+          "name": "Calzone",
+          "description": "Cheese and ham",
+          "image": "assets/img/food-menu/food-menu-img-46.jpg",
+          "oldPrice": "149,-",
+          "price": "149,-"
+        },
+        {
+          "id": 151,
+          "name": "UFO",
+          "description": "Minced meat, ham, pepperoni, and mushrooms",
+          "image": "assets/img/food-menu/food-menu-img-47.jpg",
+          "oldPrice": "159,-",
+          "price": "159,-"
+        },
+        {
+          "id": 152,
+          "name": "Capri",
+          "description": "Pepperoni, minced meat, and onion",
+          "image": "assets/img/food-menu/food-menu-img-48.jpg",
+          "oldPrice": "169,-",
+          "price": "169,-"
+        },
+        {
+          "id": 153,
+          "name": "Roma",
+          "description": "Marinated beef, ham, peppers, and Mexican spices",
+          "image": "assets/img/food-menu/food-menu-img-49.jpg",
+          "oldPrice": "179,-",
+          "price": "179,-"
+        },
+        {
+          "id": 154,
+          "name": "Acapulco",
+          "description": "Marinated beef, ham, jalapeño, and Mexican spices",
+          "image": "assets/img/food-menu/food-menu-img-50.jpg",
+          "oldPrice": "179,-",
+          "price": "179,-"
         }
       ]
     },
     {
-      "category": "dinner",
+      "category": " Kebab Retter",
       "items": [
-        {
-          "id": 300,
-          "name": "New Stuffed Strawberry",
-          "description": "Dimer chop, Lau Chingri, Ruti",
-          "image": "assets/img/food-menu/food-menu-img-3-1.jpg",
-          "oldPrice": "$119.99",
-          "price": "$99.99"
-        },
-        {
-          "id": 301,
-          "name": "Chipotle Chicken Bowl",
-          "description": "Red Rice, Tehari, Drinks",
-          "image": "assets/img/food-menu/food-menu-img-3-10.jpg",
-          "oldPrice": "$42.00",
-          "price": "$36.00"
-        },
-        {
-          "id": 302,
-          "name": "Grilled Smoked Chicken",
-          "description": "Morog Polao, Biryani, Soft Drink",
-          "image": "assets/img/food-menu/food-menu-img-3-2.jpg",
-          "oldPrice": "$120",
-          "price": "$100"
-        },
-        {
-          "id": 303,
-          "name": "Chipotle Chicken Bowl",
-          "description": "Sauce, Hot Burger, Soft Drink",
-          "image": "assets/img/food-menu/food-menu-img-3-9.jpg",
-          "oldPrice": "$24.99",
-          "price": "$19.99"
-        },
-        {
-          "id": 304,
-          "name": "Cream Chicken chiladas",
-          "description": "Sauce, Hot Burger, Soft Drink",
-          "image": "assets/img/food-menu/food-menu-img-3-3.jpg",
-          "oldPrice": "$24.99",
-          "price": "$19.99"
-        },
-        {
-          "id": 305,
-          "name": "Antioxidant Fruits Mix",
-          "description": "Sauce, Hot Burger, Soft Drink",
-          "image": "assets/img/food-menu/food-menu-img-3-8.jpg",
-          "oldPrice": "$24.99",
-          "price": "$19.99"
-        },
-        {
-          "id": 306,
-          "name": "Party Platter Wings",
-          "description": "Sauce, Hot Burger, Soft Drink",
-          "image": "assets/img/food-menu/food-menu-img-3-4.jpg",
-          "oldPrice": "$24.99",
-          "price": "$19.99"
-        },
-        {
-          "id": 307,
-          "name": "Philadelphia salmon",
-          "description": "Sauce, Hot Burger, Soft Drink",
-          "image": "assets/img/food-menu/food-menu-img-3-7.jpg",
-          "oldPrice": "$24.99",
-          "price": "$19.99"
-        },
-        {
-          "id": 308,
-          "name": "Caffè macchiato",
-          "description": "Sauce, Hot Burger, Soft Drink",
-          "image": "assets/img/food-menu/food-menu-img-3-5.jpg",
-          "oldPrice": "$24.99",
-          "price": "$19.99"
-        }
+        {"id": 200, "name": "Kebab i Pita", "description": "", "image": "assets/img/food-menu/food-menu-img-51.jpg", "oldPrice": "125,-", "price": "115,-"},
+        {"id": 201, "name": "Döner i Pita", "description": "", "image": "assets/img/food-menu/food-menu-img-52.jpg", "oldPrice": "155,-", "price": "140,-"},
+        {"id": 202, "name": "Kylling Kebab i Pita", "description": "", "image": "assets/img/food-menu/food-menu-img-53.jpg", "oldPrice": "155,-", "price": "140,-"},
+        {"id": 203, "name": "Biff Kebab i Pita", "description": "", "image": "assets/img/food-menu/food-menu-img-54.jpg", "oldPrice": "165,-", "price": "145,-"},
+        {"id": 204, "name": "Shawarma Kebab i Pita", "description": "", "image": "assets/img/food-menu/food-menu-img-55.jpg", "oldPrice": "165,-", "price": "145,-"},
+        {"id": 205, "name": "Mix Kebab i Pita", "description": "", "image": "assets/img/food-menu/food-menu-img-56.jpg", "oldPrice": "175,-", "price": "155,-"},
+        {"id": 206, "name": "Kebab Rull", "description": "", "image": "assets/img/food-menu/food-menu-img-57.jpg", "oldPrice": "145,-", "price": "130,-"},
+        {"id": 207, "name": "Döner Rull", "description": "", "image": "assets/img/food-menu/food-menu-img-58.jpg", "oldPrice": "170,-", "price": "150,-"},
+        {"id": 208, "name": "Kylling Rull", "description": "", "image": "assets/img/food-menu/food-menu-img-59.jpg", "oldPrice": "170,-", "price": "150,-"},
+        {"id": 209, "name": "Biff Rull", "description": "", "image": "assets/img/food-menu/food-menu-img-60.jpg", "oldPrice": "170,-", "price": "150,-"},
+        {"id": 210, "name": "Shish Kebab Rull (Lam)", "description": "", "image": "assets/img/food-menu/food-menu-img-61.jpg", "oldPrice": "170,-", "price": "150,-"},
+        {"id": 211, "name": "Mix Rull", "description": "", "image": "assets/img/food-menu/food-menu-img-62.jpg", "oldPrice": "180,-", "price": "160,-"}
       ]
     },
     {
-      "category": "others",
+      "category": "Barne Meny",
       "items": [
-        {
-          "id": 400,
-          "name": "New Stuffed Strawberry",
-          "description": "Dimer chop, Lau Chingri, Ruti",
-          "image": "assets/img/food-menu/food-menu-img-3-10.jpg",
-          "oldPrice": "$119.99",
-          "price": "$99.99"
-        },
-        {
-          "id": 401,
-          "name": "Chipotle Chicken Bowl",
-          "description": "Red Rice, Tehari, Drinks",
-          "image": "assets/img/food-menu/food-menu-img-3-7.jpg",
-          "oldPrice": "$42.00",
-          "price": "$36.00"
-        },
-        {
-          "id": 402,
-          "name": "Grilled Smoked Chicken",
-          "description": "Morog Polao, Biryani, Soft Drink",
-          "image": "assets/img/food-menu/food-menu-img-3-8.jpg",
-          "oldPrice": "$120",
-          "price": "$100"
-        },
-        {
-          "id": 403,
-          "name": "Antioxidant Fruits Mix",
-          "description": "Sauce, Hot Burger, Soft Drink",
-          "image": "assets/img/food-menu/food-menu-img-3-5.jpg",
-          "oldPrice": "$24.99",
-          "price": "$19.99"
-        },
-        {
-          "id": 404,
-          "name": "Italian Tasting Platter",
-          "description": "Sauce, Hot Burger, Soft Drink",
-          "image": "assets/img/food-menu/food-menu-img-3-6.jpg",
-          "oldPrice": "$24.99",
-          "price": "$19.99"
-        },
-        {
-          "id": 405,
-          "name": "Western Sunrise",
-          "description": "Sauce, Hot Burger, Soft Drink",
-          "image": "assets/img/food-menu/food-menu-img-3-3.jpg",
-          "oldPrice": "$24.99",
-          "price": "$19.99"
-        },
-        {
-          "id": 406,
-          "name": "Boiled Organic Egg",
-          "description": "Sauce, Hot Burger, Soft Drink",
-          "image": "assets/img/food-menu/food-menu-img-3-1.jpg",
-          "oldPrice": "$62.99",
-          "price": "$52.99"
-        },
-        {
-          "id": 407,
-          "name": "Philadelphia salmon",
-          "description": "Sauce, Hot Burger, Soft Drink",
-          "image": "assets/img/food-menu/food-menu-img-3-2.jpg",
-          "oldPrice": "$24.99",
-          "price": "$19.99"
-        },
-        {
-          "id": 408,
-          "name": "Hot Masala Gril",
-          "description": "Sauce, Hot Burger, Soft Drink",
-          "image": "assets/img/food-menu/food-menu-img-3-9.jpg",
-          "oldPrice": "$29.99",
-          "price": "$24.99"
-        }
+        {"id": 250, "name": "Burger Middag (100g)", "description": "", "image": "assets/img/food-menu/food-menu-img-63.jpg", "oldPrice": "129,-", "price": "129,-"},
+        {"id": 251, "name": "Kebab Middag", "description": "", "image": "assets/img/food-menu/food-menu-img-64.jpg", "oldPrice": "129,-", "price": "129,-"},
+        {"id": 252, "name": "Pølser Middag", "description": "", "image": "assets/img/food-menu/food-menu-img-65.jpg", "oldPrice": "129,-", "price": "129,-"}
       ]
+    },
+    {
+      "category": "Burger Retter",
+      "items": [
+        {"id": 300, "name": "Big Burger", "description": "", "image": "assets/img/food-menu/food-menu-img-66.jpg", "oldPrice": "159,-", "price": "99,-"},
+        {"id": 301, "name": "Big Cheese Burger", "description": "", "image": "assets/img/food-menu/food-menu-img-67.jpg", "oldPrice": "169,-", "price": "119,-"},
+        {"id": 302, "name": "Hawai Burger", "description": "", "image": "assets/img/food-menu/food-menu-img-68.jpg", "oldPrice": "179,-", "price": "129,-"},
+        {"id": 303, "name": "Bacon Burger", "description": "", "image": "assets/img/food-menu/food-menu-img-69.jpg", "oldPrice": "179,-", "price": "129,-"},
+        {"id": 304, "name": "Meksikansk", "description": "", "image": "assets/img/food-menu/food-menu-img-70.jpg", "oldPrice": "189,-", "price": "139,-"},
+        {"id": 305, "name": "BBQ Burger", "description": "", "image": "assets/img/food-menu/food-menu-img-71.jpg", "oldPrice": "189,-", "price": "139,-"},
+        {"id": 306, "name": "Biff Burger", "description": "", "image": "assets/img/food-menu/food-menu-img-72.jpg", "oldPrice": "169,-", "price": "169,-"},
+        {"id": 307, "name": "Kylling Burger", "description": "", "image": "assets/img/food-menu/food-menu-img-73.jpg", "oldPrice": "129,-", "price": "129,-"},
+        {"id": 308, "name": "Fish Burger", "description": "", "image": "assets/img/food-menu/food-menu-img-74.jpg", "oldPrice": "129,-", "price": "129,-"},
+        {"id": 309, "name": "Løvbiff Burger", "description": "", "image": "assets/img/food-menu/food-menu-img-75.jpg", "oldPrice": "129,-", "price": "129,-"}
+      ]
+    },
+      {
+      "category": "MIDDAGSRETTER",
+      "items": [
+        {"id": 350, "name": "Kebab Middag", "description": "", "image": "assets/img/food-menu/food-menu-img-76.jpg", "oldPrice": "159,- ", "price": "179,-"},
+        {"id": 351, "name": "Kylling Kebab Middag", "description": "", "image": "assets/img/food-menu/food-menu-img-77.jpg", "oldPrice": "209,-", "price": "229,-"},
+        {"id": 352, "name": "Shawarma Middag (Lam/Biff/Kylling)", "description": "", "image": "assets/img/food-menu/food-menu-img-78.jpg", "oldPrice": "209,- ", "price": "229,-"},
+        {"id": 353, "name": "Biffsnadder Middag", "description": "", "image": "assets/img/food-menu/food-menu-img-79.jpg", "oldPrice": "209,- -", "price": "229,-"},
+        {"id": 354, "name": "Fishburger Middag", "description": "", "image": "assets/img/food-menu/food-menu-img-80.jpg", "oldPrice": "189,-", "price": "189,-"},
+        {"id": 355, "name": "Kylling Burger Middag", "description": "", "image": "assets/img/food-menu/food-menu-img-81.jpg", "oldPrice": "189,-", "price": "189,-"},
+        {"id": 356, "name": "Løvbiff Middag M/bernaise saus", "description": "", "image": "assets/img/food-menu/food-menu-img-82.jpg", "oldPrice": "199,-", "price": "199,-"},
+        {"id": 357, "name": "Løvbiff Burger Middag M/brød", "description": "", "image": "assets/img/food-menu/food-menu-img-83.jpg", "oldPrice": "199,-", "price": "199,-"},
+        {"id": 358, "name": "½ Kylling Middag", "description": "", "image": "assets/img/food-menu/food-menu-img-84.jpg", "oldPrice": "199,-", "price": "199,-"},
+        {"id": 359, "name": "Pølser Middag (2 pølser med frites og salat)", "description": "", "image": "assets/img/food-menu/food-menu-img-85.jpg", "oldPrice": "139,-", "price": "139,-"},
+        {"id": 360, "name": "Kylling Nuggets Middag 9 stk.", "description": "", "image": "assets/img/food-menu/food-menu-img-86.jpg", "oldPrice": "179,-", "price": "179,-"},
+        {"id": 361, "name": "Vegetar Nuggets Middag 9 stk.", "description": "", "image": "assets/img/food-menu/food-menu-img-87.jpg", "oldPrice": "169,-", "price": "169,-"},
+        {"id": 362, "name": "Burger Middag", "description": "", "image": "", "oldPrice": "145,- / 165,- / 185,- ", "price": "205,-"},
+        {"id": 363, "name": "Cheeseburger Middag", "description": "", "image": "", "oldPrice": "160,- / 175,- / 195,- ", "price": "215,-"},
+        {"id": 364, "name": "Mexicansk Burger Middag", "description": "", "image": "", "oldPrice": "170,- / 185,- / 205,- ", "price": "225,-"},
+        {"id": 365, "name": "BBQ Burger Middag", "description": "", "image": "", "oldPrice": "170,- / 185,- / 205,- ", "price": "225,-"},
+        {"id": 366, "name": "Biffburger Middag", "description": "", "image": "", "oldPrice": "215,-", "price": "215 Kr"}
+      ]
+    },
+     {
+      "category": "RIS RETTER",
+      "items": [
+        {"id": 400, "description": "", "image": "assets/img/food-menu/food-menu-img-93.jpg", "oldPrice": "219,-", "price": "219,-"},
+        {"id": 401, "description": "", "image": "assets/img/food-menu/food-menu-img-94.jpg", "oldPrice": "229,-", "price": "229,-"},
+        {"id": 402, "description": "", "image": "assets/img/food-menu/food-menu-img-95.jpg", "oldPrice": "239,-", "price": "239,-"}
+      ]
+    },
+    {
+      "category": "VEGG RETTER",
+      "items": [
+        {"id": 450, "description": "", "image": "assets/img/food-menu/food-menu-img-96.jpg", "oldPrice": "85,-", "price": "85,-"},
+        {"id": 451, "description": "", "image": "assets/img/food-menu/food-menu-img-97.jpg", "oldPrice": "90,-", "price": "90,-"},
+        {"id": 452, "description": "", "image": "assets/img/food-menu/food-menu-img-98.jpg", "oldPrice": "129,-", "price": "129,-"},
+        {"id": 453, "description": "", "image": "assets/img/food-menu/food-menu-img-99.jpg", "oldPrice": "129,-", "price": "129,-"},
+        {"id": 454, "description": "", "image": "assets/img/food-menu/food-menu-img-100.jpg", "oldPrice": "139,-", "price": "139,-"}
+      ]
+    },
+    {
+      "category": " SMÅ RETTER",
+      "items": [
+        {"id": 500, "description": "", "image": "assets/img/food-menu/food-menu-img-101.jpg", "oldPrice": "70,-", "price": "70,-"},
+        {"id": 501, "description": "", "image": "assets/img/food-menu/food-menu-img-102.jpg", "oldPrice": "109,-", "price": "109,-"},
+        {"id": 502, "description": "", "image": "assets/img/food-menu/food-menu-img-103.jpg", "oldPrice": "129,-", "price": "129,-"},
+        {"id": 503, "description": "", "image": "assets/img/food-menu/food-menu-img-104.jpg", "oldPrice": "129,-", "price": "129,-"},
+        {"id": 504, "description": "", "image": "assets/img/food-menu/food-menu-img-105.jpg", "oldPrice": "129,-", "price": "129,-"},
+        {"id": 505, "description": "", "image": "assets/img/food-menu/food-menu-img-106.jpg", "oldPrice": "129,-", "price": "129,-"},
+        {"id": 506, "description": "", "image": "assets/img/food-menu/food-menu-img-107.jpg", "oldPrice": "129,-", "price": "129,-"}
+      ]
+    },
+    {
+      "category": "SALATER",
+      "items": [
+        {"id": 550, "description": "", "image": "assets/img/food-menu/food-menu-img-108.jpg", "oldPrice": "179,-", "price": "179,-"},
+        {"id": 551, "description": "", "image": "assets/img/food-menu/food-menu-img-109.jpg", "oldPrice": "179,-", "price": "179,-"}
+      ]
+    },
+    {
+  "category": "Tilbehør (Sides)",
+  "items": [
+    {
+      "id": "",
+      "name": "Extra Ost",
+      "description": "",
+      "oldPrice": "",
+      "price": "40,-"
+    },
+    {
+      "id": "",
+      "name": "Bernaise Saus",
+      "description": "",
+      "oldPrice": "",
+      "price": "35,-"
+    },
+    {
+      "id": "",
+      "name": "Rømme Dressing",
+      "description": "",
+      "oldPrice": "",
+      "price": "35,-"
+    },
+    {
+      "id": "",
+      "name": "Hvitløk Dressing",
+      "description": "",
+      "oldPrice": "",
+      "price": "35,-"
+    },
+    {
+      "id": "",
+      "name": "Taco Saus",
+      "description": "",
+      "oldPrice": "",
+      "price": "35,-"
+    },
+    {
+      "id": "",
+      "name": "Sterk Saus",
+      "description": "",
+      "oldPrice": "",
+      "price": "35,-"
+    },
+    {
+      "id": "",
+      "name": "Pizza Saus",
+      "description": "",
+      "oldPrice": "",
+      "price": "35,-"
+    },
+    {
+      "id": "",
+      "name": "Ekstra Kjøtt",
+      "description": "",
+      "oldPrice": "",
+      "price": "40,-"
     }
   ]
 }
+
+  ]
+}
+  
+  
+
+  
