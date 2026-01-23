@@ -76,11 +76,13 @@
 }
 
 .menu-card-header h3 {
-    font-family: 'Rufina', serif;
-    font-size: 28px;
-    font-weight: 700;
+    font-family: 'Poppins', sans-serif;
+    font-size: 18px;
+    font-weight: 600;
     color: #000000;
     margin-bottom: 0px;
+    white-space: nowrap;
+    flex: 1;
 }
 
 /* Price (inline/legacy) */
@@ -174,7 +176,7 @@
 }
 
 .menu-price-item {
-    font-size: 15px;
+    font-size: 12px;
     width: 48%;
     color: #000000;
     font-weight: 700;

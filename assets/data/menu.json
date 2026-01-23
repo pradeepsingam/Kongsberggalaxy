@@ -8,224 +8,224 @@
           "name": "01. Norwegian Man",
           "description": "Skinke, champignon",
           "image": "assets/img/food-menu/pizza.png",
-          "price2": "Stor:  229",
-          "price1": "Medium:  185"
+          "price2": "Stor: Kr. 229",
+          "price1": "Medium: Kr. 185"
         },
         {
           "id": 2,
           "name": "02. Pepperoni",
           "description": "Pepperoni, ananas",
           "image": "assets/img/food-menu/pizza.png",
-          "price2": "Stor:  229",
-          "price1": "Medium:  185"
+          "price2": "Stor: Kr. 229",
+          "price1": "Medium: Kr. 185"
         },
         {
           "id": 3,
           "name": "03. Felini",
           "description": "Biff og bernaisesaus",
           "image": "assets/img/food-menu/pizza.png",
-          "price2": "Stor:  249",
-          "price1": "Medium:  195"
+          "price2": "Stor: Kr. 249",
+          "price1": "Medium: Kr. 195"
         },
         {
           "id": 4,
           "name": "04. Hawai",
           "description": "Skinke, pepperoni og ananas",
           "image": "assets/img/food-menu/pizza.png",
-          "price2": "Stor:  249",
-          "price1": "Medium:  195"
+          "price2": "Stor: Kr. 249",
+          "price1": "Medium: Kr. 195"
         },
         {
           "id": 5,
           "name": "05.Vegetarian",
           "description": "Champignon, løk, paprika, oliven, tomat og mais",
           "image": "assets/img/food-menu/pizza.png",
-          "price2": "Stor:  219",
-          "price1": "Medium:  179"
+          "price2": "Stor: Kr. 219",
+          "price1": "Medium: Kr. 179"
         },
         {
           "id": 6,
           "name": "06. New Yok",
           "description": "Skinke, kjøttdeig, champignon, løk og bernaisesaus",
           "image": "assets/img/food-menu/pizza.png",
-          "price2": "Stor:  249",
-          "price1": "Medium:  195"
+          "price2": "Stor: Kr. 249",
+          "price1": "Medium: Kr. 195"
         },
         {
           "id": 7,
           "name": "07. Kebab Pizza",
           "description": "Kebabkjøtt, mais og løk",
           "image": "assets/img/food-menu/pizza.png",
-          "price2": "Stor:  249",
-          "price1": "Medium:  195"
+          "price2": "Stor: Kr. 249",
+          "price1": "Medium: Kr. 195"
         },
         {
           "id": 8,
           "name": "08. Taco Pizza",
           "description": "Kjøttdeig, mais, løk, paprika og tacosaus",
           "image": "assets/img/food-menu/pizza.png",
-          "price2": "Stor:  249",
-          "price1": "Medium:  195"
+          "price2": "Stor: Kr. 249",
+          "price1": "Medium: Kr. 195"
         },
         {
           "id": 9,
           "name": "09. Baker's",
           "description": "Skinke, pepperoni, bacon og løk",
           "image": "assets/img/food-menu/pizza.png",
-          "price2": "Stor:  249",
-          "price1": "Medium:  195"
+          "price2": "Stor: Kr. 249",
+          "price1": "Medium: Kr. 195"
         },
         {
           "id": 10,
           "name": "10. Chicken Pizza",
           "description": "Kylling, ananas, purreløk og paprika",
           "image": "assets/img/food-menu/pizza.png",
-          "price2": "Stor:  259",
-          "price1": "Medium:  215"
+          "price2": "Stor: Kr. 259",
+          "price1": "Medium: Kr. 215"
         },
         {
           "id": 11,
           "name": "11. Miami",
           "description": "Marinert biff, champignon og paprika",
           "image": "assets/img/food-menu/pizza.png",
-          "price2": "Stor:  229",
-          "price1": "Medium:  185"
+          "price2": "Stor: Kr. 229",
+          "price1": "Medium: Kr. 185"
         },
         {
           "id": 12,
           "name": "12. Ceylon Hot",
           "description": "Marinert biff, løk, paprika, oliven og jalapeno",
           "image": "assets/img/food-menu/pizza.png",
-          "price2": "Stor:  259",
-          "price1": "Medium:  219"
+          "price2": "Stor: Kr. 259",
+          "price1": "Medium: Kr. 219"
         },
         {
           "id": 13,
           "name": "13. American House",
           "description": "Skinke, pepperoni, marinert biff, champig. og løk",
           "image": "assets/img/food-menu/pizza.png",
-          "price2": "Stor:  259",
-          "price1": "Medium:  219"
+          "price2": "Stor: Kr. 259",
+          "price1": "Medium: Kr. 219"
         },
         {
           "id": 14,
           "name": "14. Galaxy Expo",
           "description": "Marinert biff, kjøttdeig, bacon, mais og løk",
           "image": "assets/img/food-menu/pizza.png",
-          "price2": "Stor:  259",
-          "price1": "Medium:  219"
+          "price2": "Stor: Kr. 259",
+          "price1": "Medium: Kr. 219"
         },
         {
           "id": 15,
           "name": "15. Weekend Tandoori Pizza",
           "description": "Kylling, løk, mais, paprika, tomat og hvitløk",
           "image": "assets/img/food-menu/pizza.png",
-          "price2": "Stor:  259",
-          "price1": "Medium:  219"
+          "price2": "Stor: Kr. 259",
+          "price1": "Medium: Kr. 219"
         },
         {
           "id": 16,
           "name": "16. Monte Carlos",
           "description": "Marinert biff, kjøttdeig, pepperoni, champig. og løk",
           "image": "assets/img/food-menu/pizza.png",
-          "price2": "Stor:  259",
-          "price1": "Medium:  219"
+          "price2": "Stor: Kr. 259",
+          "price1": "Medium: Kr. 219"
         },
         {
           "id": 17,
           "name": "17. Meksikansk Pizza",
           "description": "Marinert biff, paprika, jalapen, løk og meksi. krydder",
           "image": "assets/img/food-menu/pizza.png",
-          "price2": "Stor:  259",
-          "price1": "Medium:  219"
+          "price2": "Stor: Kr. 259",
+          "price1": "Medium: Kr. 219"
         },
         {
           "id": 18,
           "name": "18. Kongsberg Spesial",
           "description": "Bacon, skinke, løk, tomatskiver og hvitløk",
           "image": "assets/img/food-menu/pizza.png",
-          "price2": "Stor:  259",
-          "price1": "Medium:  219"
+          "price2": "Stor: Kr. 259",
+          "price1": "Medium: Kr. 219"
         },
         {
           "id": 19,
           "name": "19. Mama Rosa",
           "description": "Skinke, marinert biff, kjøttdeig, løk, champig og paprika",
           "image": "assets/img/food-menu/pizza.png",
-          "price2": "Stor:  259",
-          "price1": "Medium:  219"
+          "price2": "Stor: Kr. 259",
+          "price1": "Medium: Kr. 219"
         },
         {
           "id": 20,
           "name": "20. Amiho",
           "description": "Kjøttdeig, pepperoni, tomat, jalapeno, hvitløk, tacosaus og peppermix",
           "image": "assets/img/food-menu/pizza.png",
-          "price2": "Stor:  259",
-          "price1": "Medium:  219"
+          "price2": "Stor: Kr. 259",
+          "price1": "Medium: Kr. 219"
         },
         {
           "id": 21,
           "name": "21. Napoli",
           "description": "Marinert biff, pepperoni, tomat, jalapeno og meksikansk krydder",
           "image": "assets/img/food-menu/pizza.png",
-          "price2": "Stor:  259",
-          "price1": "Medium:  219"
+          "price2": "Stor: Kr. 259",
+          "price1": "Medium: Kr. 219"
         },
         {
           "id": 22,
           "name": "22. Asteka",
           "description": "Skinke, pepperoni, kjøttdeig, tomatskiver, jalapeno, meksikansk krydder",
           "image": "assets/img/food-menu/pizza.png",
-          "price2": "Stor:  259",
-          "price1": "Medium:  219"
+          "price2": "Stor: Kr. 259",
+          "price1": "Medium: Kr. 219"
         },
         {
           "id": 23,
           "name": "23. Half Half",
           "description": "Velg fritt 2 pizza",
           "image": "assets/img/food-menu/pizza.png",
-          "price2": "Stor:  259",
-          "price1": "Medium:  219"
+          "price2": "Stor: Kr. 259",
+          "price1": "Medium: Kr. 219"
         },
         {
           "id": 24,
           "name": "24. Galaxy Spesial",
           "description": "Pølser, skinke, bacon, løk og paprika",
           "image": "assets/img/food-menu/pizza.png",
-          "price2": "Stor:  259",
-          "price1": "Medium:  219"
+          "price2": "Stor: Kr. 259",
+          "price1": "Medium: Kr. 219"
         },
         {
           "id": 25,
           "name": "25. Kylling Spesial",
           "description": "Marinert kylling, skinke, bacon og ananas",
           "image": "assets/img/food-menu/pizza.png",
-          "price2": "Stor:  259",
-          "price1": "Medium:  219"
+          "price2": "Stor: Kr. 259",
+          "price1": "Medium: Kr. 219"
         },
         {
           "id": 26,
           "name": "26. Galaxy Mix",
           "description": "Marinert kylling, marinert biff, marinert kjøttdeig, bacon, rødløk og purreløk",
           "image": "assets/img/food-menu/pizza.png",
-          "price2": "Stor:  279",
-          "price1": "Medium:  235"
+          "price2": "Stor: Kr. 279",
+          "price1": "Medium: Kr. 235"
         },
         {
           "id": 27,
           "name": "27. Lag Din Egen",
           "description": "Velg fritt i vårt 6 utvalgt av garnityr",
           "image": "assets/img/food-menu/pizza.png",
-          "price2": "Stor:  289",
-          "price1": "Medium:  245"
+          "price2": "Stor: Kr. 289",
+          "price1": "Medium: Kr. 245"
         },
         {
           "id": 28,
           "name": "28. Morten Pizza",
           "description": "Skinke, pepperoni, kylling og biff",
           "image": "assets/img/food-menu/pizza.png",
-          "price2": "Stor:  279",
-          "price1": "Medium:  235"
+          "price2": "Stor: Kr. 279",
+          "price1": "Medium: Kr. 235"
         }
       ]
     },
@@ -237,88 +237,88 @@
           "name": "29. Margherita",
           "description": "Pizza sauce, mozzarella, and olive oil",
           "image": "assets/img/food-menu/pizza.png",
-          "price2": "Stor:  180",
-          "price1": "Medium:  160"
+          "price2": "Stor: Kr. 180",
+          "price1": "Medium: Kr. 160"
         },
         {
           "id": 52,
           "name": "30. Veggie",
           "description": "Sun-dried cherry tomatoes, red onion, green pepper, mushrooms, and olives",
           "image": "assets/img/food-menu/pizza.png",
-          "price2": "Stor:  219",
-          "price1": "Medium:  179"
+          "price2": "Stor: Kr. 219",
+          "price1": "Medium: Kr. 179"
         },
         {
           "id": 53,
           "name": "31. Parma",
           "description": "Tomato, cheese, parmesan, pine nuts, parma ham, and arugula (added after baking)",
           "image": "assets/img/food-menu/pizza.png",
-          "price2": "Stor:  279",
-          "price1": "Medium:  235"
+          "price2": "Stor: Kr. 279",
+          "price1": "Medium: Kr. 235"
         },
         {
           "id": 55,
           "name": "32. Cheesy Bacon",
           "description": "Bacon, cheddar, mozzarella, and sauce",
           "image": "assets/img/food-menu/pizza.png",
-          "price2": "Stor:  229",
-          "price1": "Medium:  185"
+          "price2": "Stor: Kr. 229",
+          "price1": "Medium: Kr. 185"
         },
         {
           "id": 56,
           "name": "33. Bahamas",
           "description": "Ham, bacon, mozzarella, sauce",
           "image": "assets/img/food-menu/pizza.png",
-          "price2": "Stor:  259",
-          "price1": "Medium:  219"
+          "price2": "Stor: Kr. 259",
+          "price1": "Medium: Kr. 219"
         },
         {
           "id": 57,
           "name": "34. Salame",
           "description": "Tomato, sauce, mozzarella, salami, olives, red onion, and oregano",
           "image": "assets/img/food-menu/pizza.png",
-          "price2": "Stor:  239",
-          "price1": "Medium:  185"
+          "price2": "Stor: Kr. 239",
+          "price1": "Medium: Kr. 185"
         },
         {
           "id": 58,
           "name": "35. Primo",
           "description": "Marinated chicken, marinated beef, bacon, red onion, mozzarella, and sauce",
           "image": "assets/img/food-menu/pizza.png",
-          "price2": "Stor:  279",
-          "price1": "Medium:  235"
+          "price2": "Stor: Kr. 279",
+          "price1": "Medium: Kr. 235"
         },
         {
           "id": 59,
           "name": "36. Rustica",
           "description": "Sauce, mozzarella, garlic, pepperoni, and oregano",
           "image": "assets/img/food-menu/pizza.png",
-          "price2": "Stor:  229",
-          "price1": "Medium:  209"
+          "price2": "Stor: Kr. 229",
+          "price1": "Medium: Kr. 209"
         },
         {
           "id": 60,
           "name": "37. Tacoram",
           "description": "Beef, jalapeños, peppers, corn, nacho chips, mozzarella, and sauce",
           "image": "assets/img/food-menu/pizza.png",
-          "price2": "Stor:  259",
-          "price1": "Medium:  219"
+          "price2": "Stor: Kr. 259",
+          "price1": "Medium: Kr. 219"
         },
         {
           "id": 61,
           "name": "38. BBQ Chicken",
           "description": "Chicken, red onion, mozzarella, topped with cheddar and BBQ sauce",
           "image": "assets/img/food-menu/pizza.png",
-          "price2": "Stor:  259",
-          "price1": "Medium:  219"
+          "price2": "Stor: Kr. 259",
+          "price1": "Medium: Kr. 219"
         },
         {
           "id": 62,
           "name": "39. Lag Din Egen",
           "description": "",
           "image": "assets/img/food-menu/pizza.png",
-          "price2": "Stor:  289",
-          "price1": "Medium:  245"
+          "price2": "Stor: Kr. 289",
+          "price1": "Medium: Kr. 245"
         }
       ]
     },
@@ -417,96 +417,96 @@
           "name": "51. Kebab i Pita",
           "description": "",
           "image": "assets/img/food-menu/kebab-retter.jpg",
-          "price2": "Stor:  125",
-          "price1": "Medium:  115"
+          "price2": "Stor: Kr. 125",
+          "price1": "Medium: Kr. 115"
         },
         {
           "id": 201,
           "name": "52. Duner i Pita",
           "description": "",
           "image": "assets/img/food-menu/kebab-retter.jpg",
-          "price2": "Stor:  155",
-          "price1": "Medium:  140"
+          "price2": "Stor: Kr. 155",
+          "price1": "Medium: Kr. 140"
         },
         {
           "id": 202,
           "name": "53. Kylling Kebab i Pita",
           "description": "",
           "image": "assets/img/food-menu/kebab-retter.jpg",
-          "price2": "Stor:  155",
-          "price1": "Medium:  140"
+          "price2": "Stor: Kr. 155",
+          "price1": "Medium: Kr. 140"
         },
         {
           "id": 203,
           "name": "54. Biff Kebab i Pita",
           "description": "",
           "image": "assets/img/food-menu/kebab-retter.jpg",
-          "price2": "Stor:  165",
-          "price1": "Medium:  145"
+          "price2": "Stor: Kr. 165",
+          "price1": "Medium: Kr. 145"
         },
         {
           "id": 204,
           "name": "55. Shawarma Kebab i Pita",
           "description": "",
           "image": "assets/img/food-menu/kebab-retter.jpg",
-          "price2": "Stor:  165",
-          "price1": "Medium:  145"
+          "price2": "Stor: Kr. 165",
+          "price1": "Medium: Kr. 145"
         },
         {
           "id": 205,
           "name": "56. Mix Kebab i Pita",
           "description": "",
           "image": "assets/img/food-menu/kebab-retter.jpg",
-          "price2": "Stor:  175",
-          "price1": "Medium:  155"
+          "price2": "Stor: Kr. 175",
+          "price1": "Medium: Kr. 155"
         },
         {
           "id": 206,
           "name": "57. Kebab Rull",
           "description": "",
           "image": "assets/img/food-menu/kebab-retter.jpg",
-          "price2": "Stor:  145",
-          "price1": "Medium:  130"
+          "price2": "Stor: Kr. 145",
+          "price1": "Medium: Kr. 130"
         },
         {
           "id": 207,
           "name": "58. Döner Rull",
           "description": "",
           "image": "assets/img/food-menu/kebab-retter.jpg",
-          "price2": "Stor:  170",
-          "price1": "Medium:  150"
+          "price2": "Stor: Kr. 170",
+          "price1": "Medium: Kr. 150"
         },
         {
           "id": 208,
           "name": "59. Kylling Rull",
           "description": "",
           "image": "assets/img/food-menu/kebab-retter.jpg",
-          "price2": "Stor:  170",
-          "price1": "Medium:  150"
+          "price2": "Stor: Kr. 170",
+          "price1": "Medium: Kr. 150"
         },
         {
           "id": 209,
           "name": "60. Biff Rull",
           "description": "",
           "image": "assets/img/food-menu/kebab-retter.jpg",
-          "price2": "Stor:  170",
-          "price1": "Medium:  150"
+          "price2": "Stor: Kr. 170",
+          "price1": "Medium: Kr. 150"
         },
         {
           "id": 210,
           "name": "61. Shish Kebab Rull (Lam)",
           "description": "",
           "image": "assets/img/food-menu/kebab-retter.jpg",
-          "price2": "Stor:  170",
-          "price1": "Medium:  150"
+          "price2": "Stor: Kr. 170",
+          "price1": "Medium: Kr. 150"
         },
         {
           "id": 211,
           "name": "62. Mix Rull",
           "description": "",
           "image": "assets/img/food-menu/kebab-retter.jpg",
-          "price2": "Stor:  180",
-          "price1": "Medium:  160"
+          "price2": "Stor: Kr. 180",
+          "price1": "Medium: Kr. 160"
         }
       ]
     },
@@ -544,88 +544,88 @@
           "name": "66. Big Burger",
           "description": "",
           "image": "assets/img/food-menu/burgerretter.png",
-          "price1": "100g:  99",
-          "price2": "160g:  119",
-          "price3": "200g:  129",
-          "price4": "320g:  159"
+          "price1": "100g: Kr. 99",
+          "price2": "160g: Kr. 119",
+          "price3": "200g: Kr. 129",
+          "price4": "320g: Kr. 159"
         },
         {
           "id": 301,
           "name": "67. Big Cheese Burger",
           "description": "",
           "image": "assets/img/food-menu/burgerretter.png",
-          "price1": "100g:  119",
-          "price2": "160g:  129",
-          "price3": "200g:  139",
-          "price4": "320g:  169"
+          "price1": "100g: Kr. 119",
+          "price2": "160g: Kr. 129",
+          "price3": "200g: Kr. 139",
+          "price4": "320g: Kr. 169"
         },
         {
           "id": 302,
           "name": "68. Hawai Burger",
           "description": "",
           "image": "assets/img/food-menu/burgerretter.png",
-          "price1": "100g:  129",
-          "price2": "160g:  139",
-          "price3": "200g:  149",
-          "price4": "320g:  179"
+          "price1": "100g: Kr. 129",
+          "price2": "160g: Kr. 139",
+          "price3": "200g: Kr. 149",
+          "price4": "320g: Kr. 179"
         },
         {
           "id": 303,
           "name": "69. Bacon Burger",
           "description": "",
           "image": "assets/img/food-menu/burgerretter.png",
-          "price1": "100g:  129",
-          "price2": "160g:  139",
-          "price3": "200g:  149",
-          "price4": "320g:  179"
+          "price1": "100g: Kr. 129",
+          "price2": "160g: Kr. 139",
+          "price3": "200g: Kr. 149",
+          "price4": "320g: Kr. 179"
         },
         {
           "id": 304,
           "name": "70. Meksikansk",
           "description": "",
           "image": "assets/img/food-menu/burgerretter.png",
-          "price1": "100g:  139",
-          "price2": "160g:  149",
-          "price3": "200g:  159",
-          "price4": "320g:  189"
+          "price1": "100g: Kr. 139",
+          "price2": "160g: Kr. 149",
+          "price3": "200g: Kr. 159",
+          "price4": "320g: Kr. 189"
         },
         {
           "id": 305,
           "name": "71. BBQ Burger",
           "description": "",
           "image": "assets/img/food-menu/burgerretter.png",
-          "price1": "100g:  139",
-          "price2": "160g:  149",
-          "price3": "200g:  159",
-          "price4": "320g:  189"
+          "price1": "100g: Kr. 139",
+          "price2": "160g: Kr. 149",
+          "price3": "200g: Kr. 159",
+          "price4": "320g: Kr. 189"
         },
         {
           "id": 306,
           "name": "72. Biff Burger",
           "description": "",
           "image": "assets/img/food-menu/burgerretter.png",
-          "price1": "160g:  169"
+          "price1": "160g: Kr. 169"
         },
         {
           "id": 307,
           "name": "73. Kylling Burger",
           "description": "",
           "image": "assets/img/food-menu/burgerretter.png",
-          "price1": "160g:  129"
+          "price1": "160g: Kr. 129"
         },
         {
           "id": 308,
           "name": "74. Fish Burger",
           "description": "",
           "image": "assets/img/food-menu/burgerretter.png",
-          "price1": "160g:  129"
+          "price1": "160g: Kr. 129"
         },
         {
           "id": 309,
           "name": "75. Løvbiff Burger",
           "description": "",
           "image": "assets/img/food-menu/burgerretter.png",
-          "price1": "160g:  129"
+          "price1": "160g: Kr. 129"
         }
       ]
     },
@@ -637,39 +637,39 @@
           "name": "76. Kebab Middag",
           "description": "",
           "image": "assets/img/food-menu/MIDDAGSRETTER.jpeg",
-          "price2": "Stor:  179",
-          "price1": "Medium:  159"
+          "price2": "Stor: Kr. 179",
+          "price1": "Medium: Kr. 159"
         },
         {
           "id": 351,
           "name": "77. Kylling Kebab Middag",
           "description": "",
           "image": "assets/img/food-menu/MIDDAGSRETTER.jpeg",
-          "price2": "Stor:  229",
-          "price1": "Medium:  209"
+          "price2": "Stor: Kr. 229",
+          "price1": "Medium: Kr. 209"
         },
         {
           "id": 352,
           "name": "78. Shawarma Middag (Lam/Biff/Kylling)",
           "description": "",
           "image": "assets/img/food-menu/MIDDAGSRETTER.jpeg",
-          "price2": "Stor:  229",
-          "price1": "Medium:  209"
+          "price2": "Stor: Kr. 229",
+          "price1": "Medium: Kr. 209"
         },
         {
           "id": 353,
           "name": "79. Biffsnadder Middag",
           "description": "",
           "image": "assets/img/food-menu/MIDDAGSRETTER.jpeg",
-          "price2": "Stor:  229",
-          "price1": "Medium:  209"
+          "price2": "Stor: Kr. 229",
+          "price1": "Medium: Kr. 209"
         },
         {
           "id": 354,
           "name": "80. Fishburger Middag",
           "description": "",
           "image": "assets/img/food-menu/MIDDAGSRETTER.jpeg",
-          "price2": "Stor:  189",
+          "price2": "Stor: Kr. 189",
           "price1": ""
         },
         {
@@ -677,7 +677,7 @@
           "name": "81. Kylling Burger Middag",
           "description": "",
           "image": "assets/img/food-menu/MIDDAGSRETTER.jpeg",
-          "price2": "Stor:  189",
+          "price2": "Stor: Kr. 189",
           "price1": ""
         },
         {
@@ -685,7 +685,7 @@
           "name": "82. Løvbiff Middag M/bernaise saus",
           "description": "",
           "image": "assets/img/food-menu/MIDDAGSRETTER.jpeg",
-          "price2": "Stor:  199",
+          "price2": "Stor: Kr. 199",
           "price1": ""
         },
         {
@@ -693,7 +693,7 @@
           "name": "83. Løvbiff Burger Middag M/brød",
           "description": "",
           "image": "assets/img/food-menu/MIDDAGSRETTER.jpeg",
-          "price1": "Stor:  199",
+          "price1": "Stor: Kr. 199",
           "price2": ""
         },
         {
@@ -701,7 +701,7 @@
           "name": "84. ½ Kylling Middag",
           "description": "",
           "image": "assets/img/food-menu/MIDDAGSRETTER.jpeg",
-          "price1": "Stor:  199",
+          "price1": "Stor: Kr. 199",
           "price2": ""
         },
         {
@@ -709,7 +709,7 @@
           "name": "85. Pølser Middag (2 pølser med frites og salat)",
           "description": "",
           "image": "assets/img/food-menu/MIDDAGSRETTER.jpeg",
-          "price1": "Stor:  139",
+          "price1": "Stor: Kr. 139",
           "price2": ""
         },
         {
@@ -717,7 +717,7 @@
           "name": "86. Kylling Nuggets Middag 9 stk.",
           "description": "",
           "image": "assets/img/food-menu/MIDDAGSRETTER.jpeg",
-          "price1": "Stor:  179",
+          "price1": "Stor: Kr. 179",
           "price2": ""
         },
         {
@@ -725,7 +725,7 @@
           "name": "87. Vegetar Nuggets Middag 9 stk.",
           "description": "",
           "image": "assets/img/food-menu/MIDDAGSRETTER.jpeg",
-          "price1": "Stor:  169",
+          "price1": "Stor: Kr. 169",
           "price2": ""
         },
         {
@@ -733,47 +733,47 @@
           "name": "88. Burger Middag",
           "description": "",
           "image": "assets/img/food-menu/MIDDAGSRETTER.jpeg",
-          "price1": "100g:  145",
-          "price2": "160g:  165",
-          "price3": "200g:  185",
-          "price4": "320g:  205"
+          "price1": "100g: Kr. 145",
+          "price2": "160g: Kr. 165",
+          "price3": "200g: Kr. 185",
+          "price4": "320g: Kr. 205"
         },
         {
           "id": 363,
           "name": "89. Cheeseburger Middag",
           "description": "",
           "image": "assets/img/food-menu/MIDDAGSRETTER.jpeg",
-          "price1": "100g:  160",
-          "price2": "160g:  175",
-          "price3": "200g:  195",
-          "price4": "320g:  215"
+          "price1": "100g: Kr. 160",
+          "price2": "160g: Kr. 175",
+          "price3": "200g: Kr. 195",
+          "price4": "320g: Kr. 215"
         },
         {
           "id": 364,
           "name": "90. Mexicansk Burger Middag",
           "description": "",
           "image": "assets/img/food-menu/MIDDAGSRETTER.jpeg",
-          "price1": "100g:  170",
-          "price2": "160g:  185",
-          "price3": "200g:  205",
-          "price4": "320g:  225"
+          "price1": "100g: Kr. 170",
+          "price2": "160g: Kr. 185",
+          "price3": "200g: Kr. 205",
+          "price4": "320g: Kr. 225"
         },
         {
           "id": 365,
           "name": "91. BBQ Burger Middag",
           "description": "",
           "image": "assets/img/food-menu/MIDDAGSRETTER.jpeg",
-          "price1": "100g:  170",
-          "price2": "160g:  185",
-          "price3": "200g:  205",
-          "price4": "320g:  225"
+          "price1": "100g: Kr. 170",
+          "price2": "160g: Kr. 185",
+          "price3": "200g: Kr. 205",
+          "price4": "320g: Kr. 225"
         },
         {
           "id": 366,
           "name": "92. Biffburger Middag",
           "description": "",
           "image": "assets/img/food-menu/MIDDAGSRETTER.jpeg",
-          "price1": "160g:  215"
+          "price1": "160g: Kr. 215"
         }
       ]
     },
@@ -851,49 +851,49 @@
           "name": "101. Pommes Frites",
           "description": "",
           "image": "assets/img/food-menu/smaretter.jpg",
-          "price1": "  70"
+          "price1": "Kr. 70"
         },
         {
           "id": 501,
           "name": "102. Pølser med frites (2 stk.)",
           "description": "",
           "image": "assets/img/food-menu/smaretter.jpg",
-          "price1": "  109"
+          "price1": "Kr. 109"
         },
         {
           "id": 502,
           "name": "103. Løkringer (12 stk.)",
           "description": "",
           "image": "assets/img/food-menu/smaretter.jpg",
-          "price1": "  129"
+          "price1": "Kr. 129"
         },
         {
           "id": 503,
           "name": "104. Mozzarella (12 stk.)",
           "description": "",
           "image": "assets/img/food-menu/smaretter.jpg",
-          "price1": "  129"
+          "price1": "Kr. 129"
         },
         {
           "id": 504,
           "name": "105. Chilli Cheese (12 stk.)",
           "description": "",
           "image": "assets/img/food-menu/smaretter.jpg",
-          "price1": "  129"
+          "price1": "Kr. 129"
         },
         {
           "id": 505,
           "name": "106. Kylling Nuggets (9 stk.)",
           "description": "",
           "image": "assets/img/food-menu/smaretter.jpg",
-          "price1": "  129"
+          "price1": "Kr. 129"
         },
         {
           "id": 506,
           "name": "107. Vegg Nuggets (9 stk.)",
           "description": "",
           "image": "assets/img/food-menu/smaretter.jpg",
-          "price1": "  129"
+          "price1": "Kr. 129"
         }
       ]
     },
@@ -905,14 +905,14 @@
           "name": "108. Kylling Salat",
           "description": "",
           "image": "assets/img/food-menu/salater.jpg",
-          "price1": "  179"
+          "price1": "Kr. 179"
         },
         {
           "id": 551,
           "name": "109. Skinke Salat",
           "description": "",
           "image": "assets/img/food-menu/salater.jpg",
-          "price1": "  179"
+          "price1": "Kr. 179"
         }
       ]
     },
@@ -924,56 +924,56 @@
           "name": "Extra Ost",
           "description": "",
           "image": "assets/img/food-menu/extra.jpg",
-          "price1": "  40"
+          "price1": "Kr. 40"
         },
         {
           "id": 901,
           "name": "Bernaise Saus",
           "description": "",
           "image": "assets/img/food-menu/extra.jpg",
-          "price1": "  35"
+          "price1": "Kr. 35"
         },
         {
           "id": 902,
           "name": "Rømme Dressing",
           "description": "",
           "image": "assets/img/food-menu/extra.jpg",
-          "price1": "  35"
+          "price1": "Kr. 35"
         },
         {
           "id": 903,
           "name": "Hvitløk Dressing",
           "description": "",
           "image": "assets/img/food-menu/extra.jpg",
-          "price1": "  35"
+          "price1": "Kr. 35"
         },
         {
           "id": 904,
           "name": "Taco Saus",
           "description": "",
           "image": "assets/img/food-menu/extra.jpg",
-          "price1": "  35"
+          "price1": "Kr. 35"
         },
         {
           "id": 905,
           "name": "Sterk Saus",
           "description": "",
           "image": "assets/img/food-menu/extra.jpg",
-          "price1": "  35"
+          "price1": "Kr. 35"
         },
         {
           "id": 906,
           "name": "Pizza Saus",
           "description": "",
           "image": "assets/img/food-menu/extra.jpg",
-          "price1": "  35"
+          "price1": "Kr. 35"
         },
         {
           "id": 907,
           "name": "Ekstra Kjøtt",
           "description": "",
           "image": "assets/img/food-menu/extra.jpg",
-          "price1": "  40"
+          "price1": "Kr. 40"
         }
       ]
     },
@@ -985,35 +985,35 @@
           "name": "Kuli Box",
           "description": "",
           "image": "assets/img/food-menu/drinks.jpg",
-          "price1": "  29"
+          "price1": "Kr. 29"
         },
         {
           "id": 951,
           "name": "Mineralvann 0,5 L",
           "description": "",
           "image": "assets/img/food-menu/drinks.jpg",
-          "price1": "  39"
+          "price1": "Kr. 39"
         },
         {
           "id": 952,
           "name": "Mineralvann 1,5 L",
           "description": "",
           "image": "assets/img/food-menu/drinks.jpg",
-          "price1": "  55"
+          "price1": "Kr. 55"
         },
         {
           "id": 953,
           "name": "Burn",
           "description": "",
           "image": "assets/img/food-menu/drinks.jpg",
-          "price1": "  55"
+          "price1": "Kr. 55"
         },
         {
           "id": 954,
           "name": "CocaCola",
           "description": "",
           "image": "assets/img/food-menu/drinks.jpg",
-          "price1": "  "
+          "price1": ""
         },
         {
           "id": 955,
