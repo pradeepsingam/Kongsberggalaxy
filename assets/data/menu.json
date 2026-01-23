@@ -53,7 +53,7 @@
         },
         {
           "id": 7,
-          "name": "07.Kebab Pizza",
+          "name": "07. Kebab Pizza",
           "description": "Kebabkjøtt, mais og løk",
           "image": "assets/img/food-menu/pizza.png",
           "price2": "Stor:  249",
@@ -205,7 +205,7 @@
         },
         {
           "id": 26,
-          "name": "26.Galaxy Mix",
+          "name": "26. Galaxy Mix",
           "description": "Marinert kylling, marinert biff, marinert kjøttdeig, bacon, rødløk og purreløk",
           "image": "assets/img/food-menu/pizza.png",
           "price2": "Stor:  279",
@@ -314,7 +314,7 @@
         },
         {
           "id": 62,
-          "name": "39.Lag Din Egen",
+          "name": "39. Lag Din Egen",
           "description": "",
           "image": "assets/img/food-menu/pizza.png",
           "price2": "Stor:  289",
@@ -323,18 +323,18 @@
       ]
     },
     {
-      "category": "Pizzarull (Pizza Rolls)",
+      "category": "Pizzarull",
       "items": [
         {
           "id": 100,
-          "name": "40. Skinke (Ham)",
+          "name": "40. Skinke",
           "description": "Includes iceberg lettuce, corn, cucumber, tomato, and onion",
           "image": "assets/img/food-menu/pizza.png",
           "price1": "  159"
         },
         {
           "id": 101,
-          "name": "41. Peproni (Pepperoni)",
+          "name": "41. Peproni",
           "description": "Includes iceberg lettuce, corn, cucumber, tomato, and onion",
           "image": "assets/img/food-menu/pizza.png",
           "price1": "  159"
@@ -348,7 +348,7 @@
         },
         {
           "id": 103,
-          "name": "43. Biff (Beef)",
+          "name": "43. Biff",
           "description": "Includes iceberg lettuce, corn, cucumber, tomato, and onion",
           "image": "assets/img/food-menu/pizza.png",
           "price1": "  179"
@@ -370,7 +370,7 @@
       ]
     },
     {
-      "category": "Innbakt Pizza (Calzones)",
+      "category": "Innbakt Pizza",
       "items": [
         {
           "id": 150,
@@ -422,7 +422,7 @@
         },
         {
           "id": 201,
-          "name": "52. Döner i Pita",
+          "name": "52. Duner i Pita",
           "description": "",
           "image": "assets/img/food-menu/kebab-retter.jpg",
           "price2": "Stor:  155",
@@ -666,7 +666,7 @@
         },
         {
           "id": 354,
-          "name": "80.Fishburger Middag",
+          "name": "80. Fishburger Middag",
           "description": "",
           "image": "assets/img/food-menu/MIDDAGSRETTER.jpeg",
           "price2": "Stor:  189",
@@ -782,21 +782,21 @@
       "items": [
         {
           "id": 400,
-          "name": "93. ",
+          "name": "93. Kylling Karri (Ris og salat)",
           "description": "",
           "image": "assets/img/food-menu/riseretter.jpg",
           "price1": "  219"
         },
         {
           "id": 401,
-          "name": "94. ",
+          "name": "94. Lam Karri (Ris og salat)",
           "description": "",
           "image": "assets/img/food-menu/riseretter.jpg",
           "price1": "  229"
         },
         {
           "id": 402,
-          "name": "95. ",
+          "name": "95. Stekt Ris (Kylling / Biff)",
           "description": "",
           "image": "assets/img/food-menu/riseretter.jpg",
           "price1": "  239"
@@ -808,35 +808,35 @@
       "items": [
         {
           "id": 450,
-          "name": "96. ",
+          "name": "96. Vegg Kebab",
           "description": "",
           "image": "assets/img/food-menu/vegg.jpeg",
           "price1": "  85"
         },
         {
           "id": 451,
-          "name": "97. ",
+          "name": "97. Vegg Rull",
           "description": "",
           "image": "assets/img/food-menu/vegg.jpeg",
           "price1": "  90"
         },
         {
           "id": 452,
-          "name": "98. ",
+          "name": "98. Vegg Burger",
           "description": "",
           "image": "assets/img/food-menu/vegg.jpeg",
           "price1": "  129"
         },
         {
           "id": 453,
-          "name": "99. ",
+          "name": "99. Falafel",
           "description": "",
           "image": "assets/img/food-menu/vegg.jpeg",
           "price1": "  129"
         },
         {
           "id": 454,
-          "name": "100. ",
+          "name": "100. Falafel Rull",
           "description": "",
           "image": "assets/img/food-menu/vegg.jpeg",
           "price1": "  139"
@@ -844,53 +844,53 @@
       ]
     },
     {
-      "category": " Sma Retter",
+      "category": " Små Retter",
       "items": [
         {
           "id": 500,
-          "name": "101. ",
+          "name": "101. Pommes Frites",
           "description": "",
           "image": "assets/img/food-menu/smaretter.jpg",
           "price1": "  70"
         },
         {
           "id": 501,
-          "name": "102. ",
+          "name": "102. Pølser med frites (2 stk.)",
           "description": "",
           "image": "assets/img/food-menu/smaretter.jpg",
           "price1": "  109"
         },
         {
           "id": 502,
-          "name": "103. ",
+          "name": "103. Løkringer (12 stk.)",
           "description": "",
           "image": "assets/img/food-menu/smaretter.jpg",
           "price1": "  129"
         },
         {
           "id": 503,
-          "name": "104. ",
+          "name": "104. Mozzarella (12 stk.)",
           "description": "",
           "image": "assets/img/food-menu/smaretter.jpg",
           "price1": "  129"
         },
         {
           "id": 504,
-          "name": "105. ",
+          "name": "105. Chilli Cheese (12 stk.)",
           "description": "",
           "image": "assets/img/food-menu/smaretter.jpg",
           "price1": "  129"
         },
         {
           "id": 505,
-          "name": "106. ",
+          "name": "106. Kylling Nuggets (9 stk.)",
           "description": "",
           "image": "assets/img/food-menu/smaretter.jpg",
           "price1": "  129"
         },
         {
           "id": 506,
-          "name": "107. ",
+          "name": "107. Vegg Nuggets (9 stk.)",
           "description": "",
           "image": "assets/img/food-menu/smaretter.jpg",
           "price1": "  129"
@@ -898,18 +898,18 @@
       ]
     },
     {
-      "category": "Salatter",
+      "category": "Salater",
       "items": [
         {
           "id": 550,
-          "name": "108. ",
+          "name": "108. Kylling Salat",
           "description": "",
           "image": "assets/img/food-menu/salater.jpg",
           "price1": "  179"
         },
         {
           "id": 551,
-          "name": "109. ",
+          "name": "109. Skinke Salat",
           "description": "",
           "image": "assets/img/food-menu/salater.jpg",
           "price1": "  179"
@@ -917,7 +917,7 @@
       ]
     },
     {
-      "category": "Tilbehør (Sides)",
+      "category": "Tilbehør",
       "items": [
         {
           "id": 900,
@@ -974,6 +974,88 @@
           "description": "",
           "image": "assets/img/food-menu/extra.jpg",
           "price1": "  40"
+        }
+      ]
+    },
+    {
+      "category": "Drikke",
+      "items": [
+        {
+          "id": 950,
+          "name": "Kuli Box",
+          "description": "",
+          "image": "assets/img/food-menu/drinks.jpg",
+          "price1": "  29"
+        },
+        {
+          "id": 951,
+          "name": "Mineralvann 0,5 L",
+          "description": "",
+          "image": "assets/img/food-menu/drinks.jpg",
+          "price1": "  39"
+        },
+        {
+          "id": 952,
+          "name": "Mineralvann 1,5 L",
+          "description": "",
+          "image": "assets/img/food-menu/drinks.jpg",
+          "price1": "  55"
+        },
+        {
+          "id": 953,
+          "name": "Burn",
+          "description": "",
+          "image": "assets/img/food-menu/drinks.jpg",
+          "price1": "  55"
+        },
+        {
+          "id": 954,
+          "name": "CocaCola",
+          "description": "",
+          "image": "assets/img/food-menu/drinks.jpg",
+          "price1": "  "
+        },
+        {
+          "id": 955,
+          "name": "CocaCola Zero",
+          "description": "",
+          "image": "assets/img/food-menu/drinks.jpg",
+          "price1": "  "
+        },
+        {
+          "id": 956,
+          "name": "Sprite",
+          "description": "",
+          "image": "assets/img/food-menu/drinks.jpg",
+          "price1": "  "
+        },
+        {
+          "id": 957,
+          "name": "Farris",
+          "description": "",
+          "image": "assets/img/food-menu/drinks.jpg",
+          "price1": "  "
+        },
+        {
+          "id": 958,
+          "name": "CocaCola Zero",
+          "description": "",
+          "image": "assets/img/food-menu/drinks.jpg",
+          "price1": "  "
+        },
+        {
+          "id": 960,
+          "name": "Fanta",
+          "description": "",
+          "image": "assets/img/food-menu/drinks.jpg",
+          "price1": "  "
+        },
+        {
+          "id": 961,
+          "name": "Imsdal",
+          "description": "",
+          "image": "assets/img/food-menu/drinks.jpg",
+          "price1": "  "
         }
       ]
     }
