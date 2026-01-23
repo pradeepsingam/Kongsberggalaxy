@@ -984,23 +984,93 @@
           "id": 950,
           "name": "Kuli Box",
           "description": "",
+<<<<<<< HEAD
           "image": "assets/img/food-menu/min.png",
+=======
+          "image": "assets/img/food-menu/drinks.jpg",
+>>>>>>> 21330b3d2131f98a8aa3af259fc559689d8f42bf
           "price1": "Kr. 29"
         },
         {
           "id": 951,
           "name": "Mineralvann",
           "description": "",
+<<<<<<< HEAD
           "image": "assets/img/food-menu/min.png",
           "price1": "0,5L: Kr. 39",
           "price2": "1,5L: Kr. 55"
+=======
+          "image": "assets/img/food-menu/drinks.jpg",
+          "price1": "Kr. 39"
+        },
+        {
+          "id": 952,
+          "name": "Mineralvann 1,5 L",
+          "description": "",
+          "image": "assets/img/food-menu/drinks.jpg",
+          "price1": "Kr. 55"
+>>>>>>> 21330b3d2131f98a8aa3af259fc559689d8f42bf
         },
         {
           "id": 953,
           "name": "Burn",
           "description": "",
+<<<<<<< HEAD
           "image": "assets/img/food-menu/min.png",
           "price1": "Kr. 55"
+=======
+          "image": "assets/img/food-menu/drinks.jpg",
+          "price1": "Kr. 55"
+        },
+        {
+          "id": 954,
+          "name": "CocaCola",
+          "description": "",
+          "image": "assets/img/food-menu/drinks.jpg",
+          "price1": ""
+        },
+        {
+          "id": 955,
+          "name": "CocaCola Zero",
+          "description": "",
+          "image": "assets/img/food-menu/drinks.jpg",
+          "price1": "  "
+        },
+        {
+          "id": 956,
+          "name": "Sprite",
+          "description": "",
+          "image": "assets/img/food-menu/drinks.jpg",
+          "price1": "  "
+        },
+        {
+          "id": 957,
+          "name": "Farris",
+          "description": "",
+          "image": "assets/img/food-menu/drinks.jpg",
+          "price1": "  "
+        },
+        {
+          "id": 958,
+          "name": "CocaCola Zero",
+          "description": "",
+          "image": "assets/img/food-menu/drinks.jpg",
+          "price1": "  "
+        },
+        {
+          "id": 960,
+          "name": "Fanta",
+          "description": "",
+          "image": "assets/img/food-menu/drinks.jpg",
+          "price1": "  "
+        },
+        {
+          "id": 961,
+          "name": "Imsdal",
+          "description": "",
+          "image": "assets/img/food-menu/drinks.jpg",
+          "price1": "  "
+>>>>>>> 21330b3d2131f98a8aa3af259fc559689d8f42bf
         }
       ]
     }
