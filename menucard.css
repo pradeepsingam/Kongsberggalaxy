@@ -181,9 +181,8 @@
 }
 
 .menu-price-item {
-    <<<<<<< HEAD font-size: 16px;
-    =======font-size: 12px;
-    >>>>>>>21330b3d2131f98a8aa3af259fc559689d8f42bf width: 48%;
+    font-size: 16px;
+    width: 48%;
     color: #000000;
     font-weight: 700;
     font-family: 'Roboto', sans-serif;
