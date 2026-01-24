@@ -53,6 +53,7 @@
     <!-- Theme Color CSS -->
     <link rel="stylesheet" href="assets/css/theme-color1.css">
     <link rel="stylesheet" id="themeColor" href="#">
+    <link rel="stylesheet" href="assets/css/gdpr-banner.css">
 
 </head>
 
@@ -100,7 +101,7 @@
     <!--========================
     Sticky Header
     ========================-->
-        <div class="sticky-header-wrap sticky-header py-1 py-sm-2 py-lg-1">
+    <div class="sticky-header-wrap sticky-header py-1 py-sm-2 py-lg-1">
         <div class="container position-relative">
             <div class="row align-items-center">
                 <div class="col-5 col-md-3">
@@ -110,14 +111,14 @@
                 </div>
                 <div class="col-7 col-md-9 text-right position-static">
                     <nav class="main-menu menu-sticky1 d-none d-lg-block link-inherit">
-                                                <ul>
+                        <ul>
                             <li>
                                 <a href="index.html">Hjem</a>
                             </li>
                             <li>
                                 <a href="meny.html">Meny</a>
                             </li>
-                            
+
                             <li>
                                 <a href="contact.html">Kontakt oss</a>
                             </li>
@@ -132,7 +133,7 @@
     <!--==============================
     Mobile Menu
   ============================== -->
-        <div class="vs-menu-wrapper">
+    <div class="vs-menu-wrapper">
         <div class="vs-menu-area">
             <button class="vs-menu-toggle text-theme"><i class="fal fa-times"></i></button>
             <div class="mobile-logo">
@@ -144,7 +145,7 @@
     <!--==============================
         Header Area
     ==============================-->
-  <header class="header-wrapper header-layout2 bg-dark dark-style py-2 py-lg-0 px-xl-115">
+    <header class="header-wrapper header-layout2 bg-dark dark-style py-2 py-lg-0 px-xl-115">
         <div class="container-fluid position-relative">
             <div class="row align-items-center">
                 <div class="col-6 col-md-3 col-lg-2 col-xl-2">
@@ -161,7 +162,7 @@
                             <li>
                                 <a href="meny.html">Meny</a>
                             </li>
-                            
+
                             <li>
                                 <a href="contact.html">Kontakt oss</a>
                             </li>
@@ -179,21 +180,21 @@
                             <div class="media-body">
                                 <style>
                                     .fa-phone {
-                                 transform: rotate(90deg) scale(1);
-}
+                                        transform: rotate(90deg) scale(1);
+                                    }
                                 </style>
                                 <span class="d-block mb-1 text-white-light">Ring og bestill</span>
                                 <p class="mb-0 h4 text-font1"><a href="tel:+4732722327">+47 32 72 23 27</a></p>
                             </div>
                         </div>
-                      
+
                         <div class="header-btn pl-lg-50">
-                               <a href="meny.html" class="vs-btn mask-style2">Se Meny Her</a>
+                            <a href="meny.html" class="vs-btn mask-style2">Se Meny Her</a>
                             <!-- <a href="#" class="icon-btn text-theme mr-15 searchBoxTggler"><i
                                     class="fal fa-search"></i></a>
                             <a href="#" class="icon-btn text-theme sideMenuToggler cart-btn"><span
                                     class="number bg-theme">9</span><i class="fal fa-shopping-cart"></i></a> -->
-                        </div> 
+                        </div>
                     </div>
                 </div>
             </div>
@@ -202,61 +203,68 @@
     <!--==============================
     Breadcumb
 ============================== -->
-      <style>
-      .menu-header {
-        position: relative; /* Essential to contain the background text */
-        height: 400px;
-        display: flex;
-        align-items: center;
-        justify-content: center;
-        overflow: hidden; /* Prevents the giant text from causing scrollbars */
-        background-color: #000; /* Or your dark theme color */
-      }
-
-      .bg-text-blur {
-        position: absolute;
-        font-size: 250px; /* Adjust based on how big you want it */
-        font-weight: 900;
-        color: rgba(
-          255,
-          255,
-          255,
-          0.05
-        ); /* Very low opacity for the "blur" look */
-        letter-spacing: 20px;
-        text-transform: uppercase;
-        z-index: 1;
-        pointer-events: none; /* User can click through it */
-        white-space: nowrap;
-
-        /* Optional: Adding a real blur filter */
-        filter: blur(2px);
-      }
-
-      .header-content {
-        position: relative;
-        z-index: 2; /* Ensures this stays on top of the background text */
-        text-align: center;
-        color: white;
-      }
-
-      .main-title {
-        font-size: 3rem;
-        color: #fa8507; /* Your orange color */
-      }
-      @media (max-width: 768px) {
-        .bg-text-blur {
-          font-size: 100px;
-          letter-spacing: 10px;
+    <style>
+        .menu-header {
+            position: relative;
+            /* Essential to contain the background text */
+            height: 400px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            overflow: hidden;
+            /* Prevents the giant text from causing scrollbars */
+            background-color: #000;
+            /* Or your dark theme color */
         }
-      }
+
+        .bg-text-blur {
+            position: absolute;
+            font-size: 250px;
+            /* Adjust based on how big you want it */
+            font-weight: 900;
+            color: rgba(255,
+                    255,
+                    255,
+                    0.05);
+            /* Very low opacity for the "blur" look */
+            letter-spacing: 20px;
+            text-transform: uppercase;
+            z-index: 1;
+            pointer-events: none;
+            /* User can click through it */
+            white-space: nowrap;
+
+            /* Optional: Adding a real blur filter */
+            filter: blur(2px);
+        }
+
+        .header-content {
+            position: relative;
+            z-index: 2;
+            /* Ensures this stays on top of the background text */
+            text-align: center;
+            color: white;
+        }
+
+        .main-title {
+            font-size: 3rem;
+            color: #fa8507;
+            /* Your orange color */
+        }
+
+        @media (max-width: 768px) {
+            .bg-text-blur {
+                font-size: 100px;
+                letter-spacing: 10px;
+            }
+        }
     </style>
     <section class="menu-header">
-      <h1 class="bg-text-blur">Kontakt oss</h1>
+        <h1 class="bg-text-blur">Kontakt oss</h1>
 
-      <div class="header-content">
-        <h2 class="main-title">Kontakt Oss</h2>
-      </div>
+        <div class="header-content">
+            <h2 class="main-title">Kontakt Oss</h2>
+        </div>
     </section>
     <!--==============================
       Contact Form Area    
@@ -273,24 +281,26 @@
                                     <p class="mb-0">Mandag - Søndag </p>
                                     <p class="mb-0">11:00 - 22:00</p>
                                 </li>
-                        
+
                             </ul>
                         </div>
                         <div class="box mb-20 mb-lg-35">
                             <h2 class="h4 mb-10">ADRESSE</h2>
-                            <p class="mb-3 contact-info"><i
-                                    class="fal fa-map-marker-alt text-md text-theme mb-10"></i>
-                                 Landsverkveien 1, 3614 Kongsberg</p>
-    
+                            <p class="mb-3 contact-info"><i class="fal fa-map-marker-alt text-md text-theme mb-10"></i>
+                                Landsverkveien 1, 3614 Kongsberg</p>
+
                         </div>
                         <div class="mb-0">
                             <h2 class="h4 mb-0">TELEFON</h2>
-                            <a href="tel:+4732722327" class="h3 text-bold mb-0 text-theme text-font1">+47 32 72 23 27</a>
+                            <a href="tel:+4732722327" class="h3 text-bold mb-0 text-theme text-font1">+47 32 72 23
+                                27</a>
                         </div>
                     </div>
                 </div>
                 <div class="col-lg-6">
-                    <iframe src="https://maps.google.com/maps?q=59.624529,9.6271154&z=16&output=embed" width="100%" height="400" style="border:0; border-radius: 8px;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+                    <iframe src="https://maps.google.com/maps?q=59.624529,9.6271154&z=16&output=embed" width="100%"
+                        height="400" style="border:0; border-radius: 8px;" allowfullscreen="" loading="lazy"
+                        referrerpolicy="no-referrer-when-downgrade"></iframe>
                 </div>
             </div>
         </div>
@@ -300,47 +310,47 @@
     <!--==============================
 			Footer Area
 	==============================-->
-       <style>
+    <style>
         .w-70 {
-  width: 70%;
-}
+            width: 70%;
+        }
     </style>
     <footer class="footer-wrapper footer-layout1 bg-dark dark-footer">
         <div class="footer-widget-wrapper footer-widget-layout1 background-image pt-40 pt-lg-100 pb-10 pb-lg-70"
-     data-vs-img="assets/img/footer/footer-bg-1-1.jpg">
+            data-vs-img="assets/img/footer/footer-bg-1-1.jpg">
 
-    <div class="container-fluid">
-        <div class="row justify-content-center">
-            <div class="col-12 col-md-6 col-lg-4 text-center">
+            <div class="container-fluid">
+                <div class="row justify-content-center">
+                    <div class="col-12 col-md-6 col-lg-4 text-center">
 
-                <div class="widget pt-0">
-                    <div class="vs-widget-about">
-                        <a href="index.html" class="d-inline-block mb-25">
-                            <img src="assets/brand/logo.png" alt="Logo" class="mx-auto d-block img-fluid w-70">
-                        </a>
-                        <p>
-                        <!-- <p class="contact-info mb-15"> -->
-                             <i class="fal fa-map-marker-alt mr-10"></i>
-                            Landsverkveien 1, 3614 Kongsberg
-                        </p>
-                            <p>
-                        <!-- <p class="contact-info mb-15"> -->
-                            <i class="fal fa-fax mr-10"></i>
-                            <a href="tel:+4732722327">+47 32 72 23 27</a>
-                        </p>
+                        <div class="widget pt-0">
+                            <div class="vs-widget-about">
+                                <a href="index.html" class="d-inline-block mb-25">
+                                    <img src="assets/brand/logo.png" alt="Logo" class="mx-auto d-block img-fluid w-70">
+                                </a>
+                                <p>
+                                    <!-- <p class="contact-info mb-15"> -->
+                                    <i class="fal fa-map-marker-alt mr-10"></i>
+                                    Landsverkveien 1, 3614 Kongsberg
+                                </p>
+                                <p>
+                                    <!-- <p class="contact-info mb-15"> -->
+                                    <i class="fal fa-fax mr-10"></i>
+                                    <a href="tel:+4732722327">+47 32 72 23 27</a>
+                                </p>
+                            </div>
+                        </div>
+
                     </div>
                 </div>
-
             </div>
         </div>
-    </div>
-</div>
 
         <div class="footer-copyright top-light-border text-center bg-dark py-3 link-inherit">
             <div class="container">
                 <p class="text-white mb-0">Copyright <i class="fal fa-copyright"></i> 2026 <a
-                        href="index.html">Kongsberggalaxy</a> - Powered by <a
-                        href="https://eat-now.no/">eat-now.no</a>.</p>
+                        href="index.html">Kongsberggalaxy</a> - Powered by <a href="https://eat-now.no/">eat-now.no</a>.
+                </p>
             </div>
         </div>
     </footer>
@@ -455,6 +465,7 @@
     <!-- Main Js File -->
     <script src="assets/js/main.js"></script>
 
+    <script src="assets/js/gdpr-banner.js"></script>
 </body>
 
 </html>
