@@ -3,7 +3,7 @@
     /* allow the card to shrink on small screens while keeping a max width on larger viewports */
     width: 100%;
     max-width: 360px;
-    min-height: 440px;
+    min-height: 400px;
     box-sizing: border-box;
     background: #F0D5C2;
     border-radius: 18px;
