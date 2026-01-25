@@ -5096,6 +5096,11 @@ textarea.form-control.is-invalid {
     font-size: 12px;
     padding: 3px 20px;
   }
+
+  /* Mobile menu link color */
+  .vs-mobile-menu ul li a {
+    color: #000 !important;
+  }
 }
 
 @media (min-width: 1199px) and (max-width: 1500px) {
