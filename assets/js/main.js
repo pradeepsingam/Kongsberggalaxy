@@ -30,10 +30,10 @@
     24. Google Map Active
     =============================================*/
 
- 
-  
-  
-  
+
+
+
+
 
 
 
@@ -266,6 +266,19 @@
     });
   });
 
+  /*----------- 11. Mobile Hero Slider Active ----------*/
+  $('.vs-hero-mobile-carousel').slick({
+    infinite: true,
+    slidesToShow: 1,
+    slidesToScroll: 1,
+    autoplay: true,
+    autoplaySpeed: 5000,
+    arrows: false,
+    dots: true,
+    fade: true,
+    cssEase: 'linear'
+  });
+
 
 
 
@@ -334,7 +347,7 @@
   //   buttonAnimation('[class*="mask-"]');
   // };
 
-  
+
 
 
 
@@ -449,7 +462,7 @@
   /*----------- 21. One Page Nav ----------*/
   function onePageNav(element) {
     if ($(element).length > 0) {
-      $(element).each(function(){
+      $(element).each(function () {
         $(this).find('a').each(function () {
           $(this).on('click', function () {
             var target = $(this.getAttribute('href'));
@@ -459,21 +472,21 @@
                 scrollTop: target.offset().top - 10
               }, 1000);
             };
-            
+
           });
         });
-      } )
+      })
     }
   };
   onePageNav('.onepage-nav');
-  
-  
+
+
   /*----------- 22. Tab Slide Fixing ----------*/
   $('a[data-toggle="tab"]').on('shown.bs.tab', function (e) {
     var tab = $(this).attr('href');
     $(tab).find('.vs-carousel').slick('refresh');
   })
-  
+
 
   /*----------- 23. VS Toggler ----------*/
   // $('.vs-toggler').each(function(){
@@ -493,49 +506,49 @@
   //   })
   // })
 
-//   document.querySelectorAll('.vs-toggler').forEach(function(btn) {
-//     btn.addEventListener('click', function(e) {
-//         e.preventDefault();
-//         var menu = this.nextElementSibling;
-//         if (menu.classList.contains('show')) {
-//             btn.classList.remove('active');
-//             menu.classList.remove('show');
-//         } else {
-//             document.querySelectorAll('.toggle-menu.show').forEach(function(item) {
-//                 item.classList.remove('show');
-//             });
-//             document.querySelectorAll('.vs-toggler.active').forEach(function(item) {
-//                 item.classList.remove('active');
-//             });
-//             btn.classList.add('active');
-//             menu.classList.add('show');
-//         }
-//     });
-// });
+  //   document.querySelectorAll('.vs-toggler').forEach(function(btn) {
+  //     btn.addEventListener('click', function(e) {
+  //         e.preventDefault();
+  //         var menu = this.nextElementSibling;
+  //         if (menu.classList.contains('show')) {
+  //             btn.classList.remove('active');
+  //             menu.classList.remove('show');
+  //         } else {
+  //             document.querySelectorAll('.toggle-menu.show').forEach(function(item) {
+  //                 item.classList.remove('show');
+  //             });
+  //             document.querySelectorAll('.vs-toggler.active').forEach(function(item) {
+  //                 item.classList.remove('active');
+  //             });
+  //             btn.classList.add('active');
+  //             menu.classList.add('show');
+  //         }
+  //     });
+  // });
 
-document.querySelectorAll('.vs-toggler').forEach(function(btn) {
-  btn.addEventListener('click', function(e) {
+  document.querySelectorAll('.vs-toggler').forEach(function (btn) {
+    btn.addEventListener('click', function (e) {
       e.preventDefault();
       var menu = this.parentElement.querySelector('.toggle-menu');
       if (menu.classList.contains('show')) {
-          btn.classList.remove('active');
-          menu.classList.remove('show');
+        btn.classList.remove('active');
+        menu.classList.remove('show');
       } else {
-          document.querySelectorAll('.toggle-menu.show').forEach(function(item) {
-              item.classList.remove('show');
-          });
-          document.querySelectorAll('.vs-toggler.active').forEach(function(item) {
-              item.classList.remove('active');
-          });
-          btn.classList.add('active');
-          menu.classList.add('show');
+        document.querySelectorAll('.toggle-menu.show').forEach(function (item) {
+          item.classList.remove('show');
+        });
+        document.querySelectorAll('.vs-toggler.active').forEach(function (item) {
+          item.classList.remove('active');
+        });
+        btn.classList.add('active');
+        menu.classList.add('show');
       }
+    });
   });
-});
 
 
 
-  
+
 
 
 
@@ -737,21 +750,21 @@ document.querySelectorAll('.vs-toggler').forEach(function(btn) {
     google.maps.event.addDomListener(window, 'load', contactMap);
   }
 
- /*----------- 26. Month Day, Year Hour:Minute:Second, id-of-element-container ----------*/ 
-  $(document).ready(function() {
- 
-    countUpFromTime("Jan 1, 2014 12:00:00", 'countup1'); // ****** Change this line!
-});
+  /*----------- 26. Month Day, Year Hour:Minute:Second, id-of-element-container ----------*/
+  $(document).ready(function () {
 
-function countUpFromTime(countFrom, id) {
+    countUpFromTime("Jan 1, 2014 12:00:00", 'countup1'); // ****** Change this line!
+  });
+
+  function countUpFromTime(countFrom, id) {
     countFrom = new Date(countFrom).getTime();
     var now = new Date(),
-        countFrom = new Date(countFrom),
-        timeDifference = (now - countFrom);
+      countFrom = new Date(countFrom),
+      timeDifference = (now - countFrom);
 
     var secondsInADay = 60 * 60 * 1000 * 24,
-        secondsInAHour = 60 * 60 * 1000;
-    
+      secondsInAHour = 60 * 60 * 1000;
+
     var days = Math.floor(timeDifference / (secondsInADay) * 1);
     var years = Math.floor(days / 365);
     if (years > 1) { days = days - (years * 365); }
@@ -767,45 +780,45 @@ function countUpFromTime(countFrom, id) {
     idEl.find('.seconds').html(secs);
 
     clearTimeout(countUpFromTime.interval);
-    countUpFromTime.interval = setTimeout(function() { countUpFromTime(countFrom, id); }, 1000);
-}
+    countUpFromTime.interval = setTimeout(function () { countUpFromTime(countFrom, id); }, 1000);
+  }
 
 
-/*----------- 09. Filter ----------*/
-$('.filter-active').imagesLoaded(function () {
-  var $filter = '.filter-active',
-    $filterItem = '.filter-item',
-    $filterMenu = '.filter-menu-active';
+  /*----------- 09. Filter ----------*/
+  $('.filter-active').imagesLoaded(function () {
+    var $filter = '.filter-active',
+      $filterItem = '.filter-item',
+      $filterMenu = '.filter-menu-active';
 
-  if ($($filter).length > 0) {
-    var $grid = $($filter).isotope({
-      itemSelector: $filterItem,
-      filter: '*',
-      /*
-      // For masonary layout activation
-      masonry: {
-        // use outer width of grid-sizer for columnWidth
-        columnWidth: 1
-      }
-      */
-    });
-
-    // filter items on button click
-    $($filterMenu).on('click', 'button', function () {
-      var filterValue = $(this).attr('data-filter');
-      $grid.isotope({
-        filter: filterValue
+    if ($($filter).length > 0) {
+      var $grid = $($filter).isotope({
+        itemSelector: $filterItem,
+        filter: '*',
+        /*
+        // For masonary layout activation
+        masonry: {
+          // use outer width of grid-sizer for columnWidth
+          columnWidth: 1
+        }
+        */
       });
-    });
 
-    // Menu Active Class 
-    $($filterMenu).on('click', 'button', function (event) {
-      event.preventDefault();
-      $(this).addClass('active');
-      $(this).siblings('.active').removeClass('active');
-    });
-  };
-});
+      // filter items on button click
+      $($filterMenu).on('click', 'button', function () {
+        var filterValue = $(this).attr('data-filter');
+        $grid.isotope({
+          filter: filterValue
+        });
+      });
+
+      // Menu Active Class 
+      $($filterMenu).on('click', 'button', function (event) {
+        event.preventDefault();
+        $(this).addClass('active');
+        $(this).siblings('.active').removeClass('active');
+      });
+    };
+  });
 
 
 })(jQuery);
