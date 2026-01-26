@@ -191,7 +191,7 @@
                         </div>
 
                         <div class="header-btn pl-lg-50">
-                            <a href="meny.html" class="vs-btn mask-style2"><i class="fa fa-cutlery" style="margin-right: 8px;"></i>Se Meny Her</a>
+                            <a href="meny.html" class="vs-btn mask-style2"><i class="fa fa-utensils" style="margin-right: 8px; font-size: 1.5em;"></i>Se Meny Her</a>
                             <!-- <a href="#" class="icon-btn text-theme mr-15 searchBoxTggler"><i
                                     class="fal fa-search"></i></a>
                             <a href="#" class="icon-btn text-theme sideMenuToggler cart-btn"><span
@@ -1002,6 +1002,84 @@
     <script src="assets/js/main.js"></script>
 
     <script src="assets/js/gdpr-banner.js"></script>
+
+    <!-- Sticky Mobile Menu Button -->
+    <style>
+        .mobile-sticky-menu-btn {
+            position: fixed;
+            bottom: 20px;
+            left: 20px;
+            width: auto;
+            height: auto;
+            padding: 12px 18px;
+            background: linear-gradient(135deg, #E3A952 0%, #d4932e 100%);
+            border: none;
+            border-radius: 15px;
+            color: white;
+            font-size: 1.5em;
+            cursor: pointer;
+            box-shadow: 0 4px 15px rgba(227, 169, 82, 0.4);
+            display: none;
+            align-items: center;
+            justify-content: center;
+            z-index: 999;
+            transition: all 0.3s ease;
+            animation: pulse 2s infinite;
+            flex-direction: row;
+            text-decoration: none;
+            line-height: 1;
+            gap: 8px;
+        }
+
+        .mobile-sticky-menu-btn:hover {
+            transform: scale(1.1);
+            box-shadow: 0 6px 20px rgba(227, 169, 82, 0.6);
+        }
+
+        .mobile-sticky-menu-btn:active {
+            transform: scale(0.95);
+        }
+
+        .mobile-sticky-menu-btn span {
+            display: flex;
+            flex-direction: row;
+            align-items: center;
+            justify-content: center;
+            gap: 6px;
+        }
+
+        .mobile-sticky-menu-btn i {
+            font-size: 1.3em;
+        }
+
+        .mobile-sticky-menu-btn .btn-text {
+            font-size: 0.75em;
+            font-weight: bold;
+        }
+
+        @keyframes pulse {
+            0%, 100% {
+                box-shadow: 0 4px 15px rgba(227, 169, 82, 0.4);
+            }
+            50% {
+                box-shadow: 0 4px 25px rgba(227, 169, 82, 0.8);
+            }
+        }
+
+        @media (max-width: 768px) {
+            .mobile-sticky-menu-btn {
+                display: flex;
+            }
+        }
+    </style>
+
+    <a href="meny.html" class="mobile-sticky-menu-btn" title="Se Meny Her">
+        <span>
+            <i class="fa fa-utensils"></i>
+            <span class="btn-text">Se meny</span>
+        </span>
+    </a>
+
 </body>
 
 </html>
