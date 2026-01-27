@@ -469,6 +469,97 @@
     <script src="assets/js/main.js"></script>
 
     <script src="assets/js/gdpr-banner.js"></script>
+
+    <!-- Sticky Mobile Menu Button -->
+    <style>
+        .mobile-sticky-menu-btn {
+            position: fixed;
+            bottom: 20px;
+            left: 20px;
+            width: auto;
+            height: auto;
+            padding: 12px 18px;
+            background: linear-gradient(135deg, #FF4444 0%, #CC0000 100%);
+            border: none;
+            border-radius: 15px;
+            color: white;
+            font-size: 1.5em;
+            cursor: pointer;
+            box-shadow: 0 4px 15px rgba(255, 68, 68, 0.4), 0 0 0 0 rgba(255, 68, 68, 0.4);
+            display: none;
+            align-items: center;
+            justify-content: center;
+            z-index: 999;
+            transition: all 0.3s ease;
+            animation: floatPulse 3s ease-in-out infinite;
+            flex-direction: row;
+            text-decoration: none;
+            line-height: 1;
+            gap: 8px;
+        }
+
+        .mobile-sticky-menu-btn:hover {
+            transform: translateY(-5px) scale(1.05);
+            box-shadow: 0 8px 25px rgba(255, 68, 68, 0.6), 0 0 0 0 rgba(255, 68, 68, 0.4);
+            animation: floatPulse 2.5s ease-in-out infinite;
+        }
+
+        .mobile-sticky-menu-btn:active {
+            transform: translateY(-2px) scale(0.98);
+            box-shadow: 0 4px 12px rgba(255, 68, 68, 0.5);
+        }
+
+        .mobile-sticky-menu-btn span {
+            display: flex;
+            flex-direction: row;
+            align-items: center;
+            justify-content: center;
+            gap: 6px;
+        }
+
+        .mobile-sticky-menu-btn i {
+            font-size: 1.3em;
+            animation: iconFloat 2s ease-in-out infinite;
+        }
+
+        .mobile-sticky-menu-btn .btn-text {
+            font-size: 0.75em;
+            font-weight: bold;
+        }
+
+        @keyframes floatPulse {
+            0%, 100% {
+                transform: translateY(0) scale(1);
+                box-shadow: 0 4px 15px rgba(255, 68, 68, 0.4), 0 0 0 0 rgba(255, 68, 68, 0.6);
+            }
+            50% {
+                transform: translateY(-10px) scale(1.02);
+                box-shadow: 0 8px 25px rgba(255, 68, 68, 0.6), 0 0 0 8px rgba(255, 68, 68, 0);
+            }
+        }
+
+        @keyframes iconFloat {
+            0%, 100% {
+                transform: translateY(0) rotateZ(0deg);
+            }
+            50% {
+                transform: translateY(-4px) rotateZ(5deg);
+            }
+        }
+
+        @media (max-width: 768px) {
+            .mobile-sticky-menu-btn {
+                display: flex;
+            }
+        }
+    </style>
+
+    <a href="meny.html" class="mobile-sticky-menu-btn" title="Se Meny Her">
+        <span>
+            <i class="fa fa-utensils"></i>
+            <span class="btn-text">Se meny</span>
+        </span>
+    </a>
 </body>
 
 </html>
