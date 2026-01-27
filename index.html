@@ -1012,19 +1012,19 @@
             width: auto;
             height: auto;
             padding: 12px 18px;
-            background: linear-gradient(135deg, #E3A952 0%, #d4932e 100%);
+            background: linear-gradient(135deg, #FF4444 0%, #CC0000 100%);
             border: none;
             border-radius: 15px;
             color: white;
             font-size: 1.5em;
             cursor: pointer;
-            box-shadow: 0 4px 15px rgba(227, 169, 82, 0.4);
+            box-shadow: 0 4px 15px rgba(255, 68, 68, 0.4), 0 0 0 0 rgba(255, 68, 68, 0.4);
             display: none;
             align-items: center;
             justify-content: center;
             z-index: 999;
             transition: all 0.3s ease;
-            animation: pulse 2s infinite;
+            animation: floatPulse 3s ease-in-out infinite;
             flex-direction: row;
             text-decoration: none;
             line-height: 1;
@@ -1032,12 +1032,14 @@
         }
 
         .mobile-sticky-menu-btn:hover {
-            transform: scale(1.1);
-            box-shadow: 0 6px 20px rgba(227, 169, 82, 0.6);
+            transform: translateY(-5px) scale(1.05);
+            box-shadow: 0 8px 25px rgba(255, 68, 68, 0.6), 0 0 0 0 rgba(255, 68, 68, 0.4);
+            animation: floatPulse 2.5s ease-in-out infinite;
         }
 
         .mobile-sticky-menu-btn:active {
-            transform: scale(0.95);
+            transform: translateY(-2px) scale(0.98);
+            box-shadow: 0 4px 12px rgba(255, 68, 68, 0.5);
         }
 
         .mobile-sticky-menu-btn span {
@@ -1050,6 +1052,7 @@
 
         .mobile-sticky-menu-btn i {
             font-size: 1.3em;
+            animation: iconFloat 2s ease-in-out infinite;
         }
 
         .mobile-sticky-menu-btn .btn-text {
@@ -1057,12 +1060,23 @@
             font-weight: bold;
         }
 
-        @keyframes pulse {
+        @keyframes floatPulse {
             0%, 100% {
-                box-shadow: 0 4px 15px rgba(227, 169, 82, 0.4);
+                transform: translateY(0) scale(1);
+                box-shadow: 0 4px 15px rgba(255, 68, 68, 0.4), 0 0 0 0 rgba(255, 68, 68, 0.6);
             }
             50% {
-                box-shadow: 0 4px 25px rgba(227, 169, 82, 0.8);
+                transform: translateY(-10px) scale(1.02);
+                box-shadow: 0 8px 25px rgba(255, 68, 68, 0.6), 0 0 0 8px rgba(255, 68, 68, 0);
+            }
+        }
+
+        @keyframes iconFloat {
+            0%, 100% {
+                transform: translateY(0) rotateZ(0deg);
+            }
+            50% {
+                transform: translateY(-4px) rotateZ(5deg);
             }
         }
 
