@@ -216,6 +216,25 @@
       transition: all 0.3s ease !important;
     }
 
+    /* Mobile click animation */
+    @media (max-width: 768px) {
+      .food-menu-wrapper .nav-tabs .vs-btn:active {
+        animation: tabZoomIn 0.4s ease-out;
+      }
+    }
+
+    @keyframes tabZoomIn {
+      0% {
+        transform: scale(1);
+      }
+      50% {
+        transform: scale(1.15);
+      }
+      100% {
+        transform: scale(1);
+      }
+    }
+
     /* Hover state: white background with border */
     .food-menu-wrapper .nav-tabs .vs-btn:hover {
       background-color: #ffffff !important;
